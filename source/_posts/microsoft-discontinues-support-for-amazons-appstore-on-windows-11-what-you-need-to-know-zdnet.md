@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Discontinues Support for Amazon's Appstore on Windows 11: What You Need to Know - ZDNet"
-date: 2024-09-19 22:22:57
-updated: 2024-09-20 11:10:11
+date: 2024-09-15T03:10:58.737Z
+updated: 2024-09-20T20:34:59.008Z
 tags:
   - windows
 categories:
@@ -74,11 +74,34 @@ How long will it be before Windows 11 23H2 is no longer supported? That depends 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-4-effective-methods-for-slide-embedding-from-youtube/"><u>[New] 4 Effective Methods for Slide Embedding From YouTube</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-dvd3/"><u>1. DVD膨らませるもよし、3つの優れた代用アプリをご紹介</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-successful-strategies-for-streaming-webm-videos-on-ios-devices/"><u>1. Successful Strategies for Streaming WebM Videos on iOS Devices</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-the-ultimate-guide-steps-to-successfully-download-hls-content/"><u>1. The Ultimate Guide: Steps to Successfully Download HLS Content</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-ultimate-no-cost-video-transcoding-tool-zero-watermarks-guaranteed/"><u>1. Ultimate No-Cost Video Transcoding Tool – Zero Watermarks Guaranteed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-crafting-memories-a-complete-guide-to-the-top-6-minecraft-recordings-techniques/"><u>2024 Approved Crafting Memories A Complete Guide to the Top 6 Minecraft Recordings Techniques</u></a></li>
+<li><a href="https://win-studio.techidaily.com/vp9mp4h2eb10a8b5f3e7f1d3cbf565a05bc49f4ff3d1ee8-h264/"><u>基本から始めてVP9動画をMP4/H.2eb10a8b5f3e7f1d3cbf565a05bc49f4ff3d1ee8; H.264フォーマットに変換する方法</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/club-craft-how-to-download-best-dj-vids-for-2024/"><u>Club Craft How to Download Best DJ Vids for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/pcwowow/"><u>PC上のWOWOWオンデマンド番組録画・保存ガイド</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-avi-video-rotator-software-and-apps-for-all-devices/"><u>Updated Free AVI Video Rotator Software and Apps for All Devices</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
