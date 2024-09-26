@@ -1,7 +1,7 @@
 ---
 title: Expert Ethical Hacker Develops Simple Method to Target Microsoft's Recalled AI - Insights From ZDNet
-date: 2024-09-14T16:32:46.723Z
-updated: 2024-09-21T02:01:55.390Z
+date: 2024-09-23T23:22:59.615Z
+updated: 2024-09-26T00:47:38.677Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -116,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -129,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-quick-pathway-to-establishing-a-video-channel-on-your-phone/"><u>[New] 2024 Approved The Quick Pathway to Establishing a Video Channel on Your Phone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-seamless-file-access-top-windows-and-mac-strategies-for-downloading-igtv/"><u>[New] In 2024, Seamless File Access Top Windows & Mac Strategies for Downloading IGTV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-key-online-portals-for-downloading-text-effects/"><u>[New] Key Online Portals for Downloading Text Effects</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-full-examination-the-dynamics-of-digital-entertainments-growth/"><u>[Updated] In 2024, Full Examination The Dynamics of Digital Entertainment's Growth</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-how-to-for-multi-snapping-with-snapchat/"><u>[Updated] In 2024, The Ultimate How-To for Multi-Snapping with Snapchat</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-essential-guide-to-signing-up-for-twitter-for-2024/"><u>[Updated] The Essential Guide to Signing Up for Twitter for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://win-studio.techidaily.com/is-microsoft-planning-fees-for-future-windows-10-updates-expected-cost-breakdown-revealed-techinsights/"><u>Is Microsoft Planning Fees for Future Windows 10 Updates? Expected Cost Breakdown Revealed | TechInsights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/melody-meets-science-the-ultimate-guide-to-learning-multiple-languages/"><u>Melody Meets Science: The Ultimate Guide to Learning Multiple Languages</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-claims-engineers-are-enthralled-by-windows-11s-innovative-features-insights-from-zdnet/"><u>Microsoft Claims Engineers Are Enthralled by Windows 11'S Innovative Features: Insights From ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-cybersecurity-conference-focuses-on-avoiding-a-worldwide-tech-crisis-can-the-strategies-succeed/"><u>Microsoft Cybersecurity Conference Focuses on Avoiding a Worldwide Tech Crisis - Can the Strategies Succeed?</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-discontinues-support-for-amazons-appstore-on-windows-11-what-you-need-to-know-zdnet/"><u>Microsoft Discontinues Support for Amazon's Appstore on Windows 11: What You Need to Know - ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos/"><u>Navigating to No-Cost & Risk-Free VLC Player Download for macOS</u></a></li>
+<li><a href="https://win-studio.techidaily.com/preparing-for-the-future-microsoft-announces-paid-windows-11-update-feature-find-out-what-it-costs/"><u>Preparing for the Future: Microsoft Announces Paid Windows 11 Update Feature – Find Out What It Costs!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/revitalize-your-aging-pc-with-5-key-methods-most-at-zero-cost-discover-how-on-the-latest-windows-11-update/"><u>Revitalize Your Aging PC with 5 Key Methods - Most at Zero Cost! Discover How on the Latest Windows 11 Update</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-7-essential-microsoft-powertoys-you-need-on-your-windows-computer-discover-them-here/"><u>Top 7 Essential Microsoft PowerToys You Need on Your Windows Computer - Discover Them Here!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/upgrading-to-windows-11-without-cost-current-status-explained-by-zdnet/"><u>Upgrading to Windows 11 Without Cost: Current Status Explained by ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/urgent-deadline-approaching-for-microsoft-as-windows-11-challenges-loom-in-next-year-zdnet/"><u>Urgent Deadline Approaching for Microsoft as Windows 11 Challenges Loom in Next Year - ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Copilot+ Microsoft Vs. Apple M3 MacBooks: The Ultimate Showdown on Laptops | Insights From ZDNet"
-date: 2024-09-15T21:44:38.532Z
-updated: 2024-09-20T23:26:09.810Z
+date: 2024-09-20T01:20:20.597Z
+updated: 2024-09-25T22:03:31.475Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -116,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -128,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +200,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-live-tiktok-content-via-zoom/"><u>[New] 2024 Approved Elevating Live TikTok Content via Zoom</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-transform-video-discoverability-essential-seo-tips-for-yt/"><u>[New] 2024 Approved Transform Video Discoverability Essential SEO Tips for YT</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726028844982-4/"><u>4最高の無料ビデオからオーディオ抽出ツール - 推薦リスト</u></a></li>
+<li><a href="https://win-studio.techidaily.com/alternative-methods-for-flac-to-mp3-conversion-beyond-ffmpeg/"><u>Alternative Methods for FLAC to MP3 Conversion Beyond FFmpeg</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-compilation-top-8-4k-ultra-hd-players/"><u>Essential Compilation Top 8 4K Ultra HD Players</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-enabling-your-brands-mobile-reach-launching-youtube-channels-with-ease/"><u>In 2024, Enabling Your Brand's Mobile Reach Launching YouTube Channels with Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y36i-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y36i to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726030454397-pc/"><u>PC用動画音量調整ハウツー - 完全無料ガイド</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-how-to-update-your-brother-mfc-7360n-printer-drivers-on-pcs-with-windows-10-8-or-7/"><u>Quick & Simple: How to Update Your Brother MFC-7360N Printer Drivers on PCs with Windows 10, 8 or 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-discord-streaming-problems-avoid-unwanted-app-clashes-and-keep-your-content-flowing-smoothly/"><u>Troubleshooting Discord Streaming Problems: Avoid Unwanted App Clashes and Keep Your Content Flowing Smoothly</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726029878408-ultimate-techniques-for-extracting-audio-from-videos-a-step-by-step-guide-updated/"><u>Ultimate Techniques for Extracting Audio From Videos: A Step-by-Step Guide (Updated)</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726029652963-wondershare/"><u>Wondershare 以上の優れた代用編集プログラムで発見! 複数の出力機能を利用可能</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726027132587-youtube/"><u>YouTubeやその他ビデオサイトで動画撮影・保存ガイド</u></a></li>
+</ul></div>
 

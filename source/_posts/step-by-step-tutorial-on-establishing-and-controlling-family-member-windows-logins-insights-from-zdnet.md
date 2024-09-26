@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial on Establishing & Controlling Family Member Windows Logins: Insights From ZDNet"
-date: 2024-09-15T08:14:33.671Z
-updated: 2024-09-21T00:57:52.759Z
+date: 2024-09-23T20:48:01.723Z
+updated: 2024-09-25T17:15:23.721Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -115,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -133,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -186,5 +194,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-initiating-your-sporty-online-presence-with-mac/"><u>[New] In 2024, Initiating Your Sporty Online Presence with Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-leading-your-audience-into-a-world-of-instagram-live/"><u>[New] Leading Your Audience Into a World of Instagram Live</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-successful-strategies-for-streaming-webm-videos-on-ios-devices/"><u>1. Successful Strategies for Streaming WebM Videos on iOS Devices</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-the-ultimate-guide-steps-to-successfully-download-hls-content/"><u>1. The Ultimate Guide: Steps to Successfully Download HLS Content</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-ultimate-no-cost-video-transcoding-tool-zero-watermarks-guaranteed/"><u>1. Ultimate No-Cost Video Transcoding Tool – Zero Watermarks Guaranteed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-enhanced-media-experience-top-8-free-players-for-windows-pcos-x/"><u>2024 Approved Enhanced Media Experience Top 8 Free Players for Windows PC/OS X</u></a></li>
+<li><a href="https://win-studio.techidaily.com/best-methods-for-transforming-gif-files-into-swf-format-both-online-and-offline/"><u>Best Methods for Transforming GIF Files Into SWF Format - Both Online and Offline</u></a></li>
+<li><a href="https://win-studio.techidaily.com/best-windows-11-youtubers-choice-the-ultimate-guide-to-video-downloaders-2024-edition/"><u>Best Windows 11 YouTuber's Choice: The Ultimate Guide to Video Downloaders - 2024 Edition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/easy-introduction-to-hangul-asian-script-at-your-fingertips/"><u>Easy Introduction to Hangul: Asian Script at Your Fingertips</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-samsung-galaxy-s24plus-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S24+ Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-audio-harmony-mastering-the-cut-and-switch/"><u>In 2024, Audio Harmony Mastering the Cut and Switch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photoshop-hdr-mastery-from-basics-to-advanced-strategies/"><u>In 2024, Photoshop HDR Mastery From Basics to Advanced Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone X?</u></a></li>
+<li><a href="https://win-studio.techidaily.com/2024windows5/"><u>オススメの2024年用Windows音声抽出手順5つ</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726029828259-wav/"><u>ステップバイステップでWAV音声を細切れにしてカットする方法</u></a></li>
+</ul></div>
 
