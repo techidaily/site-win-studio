@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Latest Move: How It Might Frustrate Users Even More - Insights From ZDNet"
-date: 2024-09-22T23:02:30.685Z
-updated: 2024-09-25T16:00:47.409Z
+date: 2024-09-24T09:04:52.887Z
+updated: 2024-09-30T11:43:15.485Z
 tags:
   - microsoft
 categories:
@@ -114,26 +114,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-tiktok-trends-hit-amazon-your-must-have-list/"><u>[Updated] In 2024, TikTok Trends Hit Amazon - Your Must-Have List</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secure-the-best-a-list-of-top-free-mac-screen-recorders/"><u>2024 Approved Secure the Best A List of Top Free Mac Screen Recorders</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-6-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 6 Unavailable Issue With Ease</u></a></li>
-<li><a href="https://win-studio.techidaily.com/is-it-possible-to-embed-video-content-into-your-softwares-ebook-format-with-flash-on-flipbuilder/"><u>Is It Possible to Embed Video Content Into Your Software’s eBook Format with Flash on FlipBuilder?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/lupus-nephritis-is-classified-into-six-classes-by-the-isnrps-classification-class-iv-indicates-diffuse-proliferative-lupus-nephritis-which-requires-aggressi8/"><u>Lupus Nephritis Is Classified Into Six Classes by the ISN/RPS Classification; Class IV Indicates Diffuse Proliferative Lupus Nephritis, Which Requires Aggressive Treatment</u></a></li>
-<li><a href="https://win-studio.techidaily.com/perfect-your-digital-presentation-the-ultimate-techniques-for-adjusting-flipbook-page-shadows/"><u>Perfect Your Digital Presentation: The Ultimate Techniques for Adjusting FlipBook Page Shadows</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-for-implementing-easy-flipbook-downloads-using-flipbuilder-technology/"><u>Step-by-Step Tutorial for Implementing Easy Flipbook Downloads Using FlipBuilder Technology</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-setting-up-autoplay-for-flipbooks-on-flipbuildercom/"><u>Step-by-Step Tutorial: Setting Up Autoplay for Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/sync-systems-swiftly-fastest-file-methods/"><u>Sync Systems Swiftly Fastest File Methods</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-gopro-camera-showdown-for-2024/"><u>The Ultimate GoPro Camera Showdown for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/transform-your-images-into-engaging-presentations-page-flipping-flash-slide-show-made-easy-at-flipbuildercom/"><u>Transform Your Images Into Engaging Presentations: Page-Flipping Flash Slide Show Made Easy at FlipBuilder.com</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-motion-tracking-software-the-ultimate-2023-roundup-for-2024/"><u>Updated Motion Tracking Software The Ultimate 2023 Roundup for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mp4-mova/"><u>オンラインでも簡単! ムービーのMP4へ自由に変換 - Movaビジュアル</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-insights-mastering-your-game-recording-on-windows-10-for-2024/"><u>[New] Expert Insights Mastering Your Game Recording on Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-affordable-strategies-for-engaging-youtube-opening-and-end-titles/"><u>[Updated] Affordable Strategies for Engaging YouTube Opening & End Titles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>[Updated] In 2024, Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-asmr-for-restful-slumber/"><u>[Updated] Mastering ASMR for Restful Slumber</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-use-a-whiteboard-in-google-meet-on-laptopiphoneandroid/"><u>2024 Approved How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exclusive-with-zdnet-steve-ballmer-previous-microsoft-leader-reveals-personal-struggle-with-valor/"><u>Exclusive with ZDNet: Steve Ballmer, Previous Microsoft Leader, Reveals Personal Struggle With Valor</u></a></li>
+<li><a href="https://win-studio.techidaily.com/expert-ethical-hacker-develops-simple-method-to-target-microsofts-recalled-ai-insights-from-zdnet/"><u>Expert Ethical Hacker Develops Simple Method to Target Microsoft's Recalled AI - Insights From ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-artificial-intelligence-computers-are-they-worth-your-investment/"><u>Exploring Artificial Intelligence Computers: Are They Worth Your Investment?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-v500-printer-driver-on-your-device-now/"><u>Get the Latest Epson V500 Printer Driver on Your Device Now!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-demonstrates-how-commonplace-artificial-intelligence-can-be-particularly-when-solitary-techblog/"><u>Microsoft Demonstrates How Commonplace Artificial Intelligence Can Be, Particularly When Solitary | TechBlog</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-surface-duo-2-a-dual-screen-device-that-puzzles-and-fascinates-one-month-on-insights-for-tech-enthusiasts-zdnet/"><u>Microsoft Surface Duo 2: A Dual-Screen Device That Puzzles & Fascinates - One Month On, Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-5-free-mpeg-video-editing-tools-with-joining-feature/"><u>New 2024 Approved Top 5 Free MPEG Video Editing Tools with Joining Feature</u></a></li>
+<li><a href="https://facebook.techidaily.com/reimagined-social-texting-new-features-for-fbs-messaging-apps/"><u>Reimagined Social Texting: New Features for FB's Messaging Apps</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-to-acquiring-free-recovery-media-for-your-pc-dell-hp-lenovo-or-surface-using-windowslinux-insights-by-zdnet/"><u>Step-by-Step Guide to Acquiring Free Recovery Media for Your PC (Dell, HP, Lenovo or Surface) Using Windows/Linux | Insights by ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-on-establishing-and-controlling-family-member-windows-logins-insights-from-zdnet/"><u>Step-by-Step Tutorial on Establishing & Controlling Family Member Windows Logins: Insights From ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
