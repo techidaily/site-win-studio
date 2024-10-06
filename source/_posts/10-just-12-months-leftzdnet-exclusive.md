@@ -1,7 +1,7 @@
 ---
 title: 10 - Just 12 Months Left![ZDNet Exclusive
-date: 2024-09-28T04:16:28.830Z
-updated: 2024-09-30T02:41:01.894Z
+date: 2024-10-04T00:47:06.372Z
+updated: 2024-10-05T22:04:13.803Z
 tags:
   - windows
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,16 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,22 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-bridging-the-media-gap-coordinating-vids-on-twitter-and-tumblr/"><u>[New] In 2024, Bridging the Media Gap Coordinating Vids on Twitter & Tumblr</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-upload-custom-length-video-for-youtube/"><u>[New] Upload Custom-Length Video for YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-bite-size-broadcasting-battle-which-platform-dominates-in-shorter-videos-in-2024/"><u>[Updated] Bite-Size Broadcasting Battle Which Platform Dominates in Shorter Videos, In 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-capture-breathtaking-shots-for-fb-livestreaming-with-dji/"><u>[Updated] Capture Breathtaking Shots for FB Livestreaming with DJI</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-flipchm-pro-advanced-conversion-tool-from-3d-chm-files-to-interactive-ebooks-flipbuildercom/"><u>1. FlipCHM Pro: Advanced Conversion Tool From 3D CHM Files to Interactive eBooks - FlipBuilder.com</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-aural-adventures-tech-updates/"><u>2024 Approved Aural Adventures Tech Updates</u></a></li>
-<li><a href="https://win-studio.techidaily.com/creating-compact-discs-from-digital-publications-a-detailed-tutorial-using-flipbuilder-software/"><u>Creating Compact Discs From Digital Publications: A Detailed Tutorial Using FlipBuilder Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xls Online with DigiSigner</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-transform-a-pdf-into-an-interactive-flash-book-with-paging-cues-and-audio-features-using-flipbuilder/"><u>How to Transform a PDF Into an Interactive Flash Book with Paging Cues & Audio Features Using FlipBuilder</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-tecno-spark-20-proplus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Spark 20 Pro+ Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-seamless-screen-customization-timely-adjustments-for-teams-calls/"><u>In 2024, Seamless Screen Customization Timely Adjustments for Teams Calls</u></a></li>
-<li><a href="https://win-studio.techidaily.com/perfect-your-digital-presentation-the-ultimate-techniques-for-adjusting-flipbook-page-shadows/"><u>Perfect Your Digital Presentation: The Ultimate Techniques for Adjusting FlipBook Page Shadows</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-for-implementing-easy-flipbook-downloads-using-flipbuilder-technology/"><u>Step-by-Step Tutorial for Implementing Easy Flipbook Downloads Using FlipBuilder Technology</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-setting-up-autoplay-for-flipbooks-on-flipbuildercom/"><u>Step-by-Step Tutorial: Setting Up Autoplay for Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-best-practices-for-silent-film-making/"><u>The Best Practices for Silent Film Making</u></a></li>
-<li><a href="https://win-studio.techidaily.com/transform-your-images-into-engaging-presentations-page-flipping-flash-slide-show-made-easy-at-flipbuildercom/"><u>Transform Your Images Into Engaging Presentations: Page-Flipping Flash Slide Show Made Easy at FlipBuilder.com</u></a></li>
-<li><a href="https://win-studio.techidaily.com/turn-pages-online-how-to-create-an-html-flipbook-for-your-site-via-flipbuilder-complete-tutorial/"><u>Turn Pages Online: How to Create an HTML Flipbook for Your Site via FlipBuilder – Complete Tutorial</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-experts-choice-top-10-tools-for-spotify-recordings-for-2024/"><u>[New] The Expert's Choice Top 10 Tools for Spotify Recordings for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-embrace-the-synergy-streaming-fb-videos-through-your-apple-device-for-2024/"><u>[Updated] Embrace the Synergy Streaming FB Videos Through Your Apple Device for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-concealing-confidentiality-blurring-identity-in-recordings/"><u>[Updated] In 2024, Concealing Confidentiality Blurring Identity in Recordings</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-step-by-step-guide-connecting-your-mac-computer-with-an-lg-television/"><u>1. Step-by-Step Guide: Connecting Your Mac Computer with an LG Television</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-the-marketplace-where-to-invest-in-monetized-channels/"><u>Decoding the Marketplace Where to Invest in Monetized Channels</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-phantom-v-fold-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Phantom V Fold Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/in-depth-masterclass-easy-techniques-for-video-uploads-on-youtube/"><u>In-Depth Masterclass: Easy Techniques for Video Uploads on YouTube</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-the-art-of-screen-shotting-tips-for-easy-image-capture-on-asus-tech/"><u>Mastering the Art of Screen Shotting: Tips for Easy Image Capture on ASUS Tech</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-edit-m4a-files-for-free-top-software-picks/"><u>New Edit M4A Files for Free Top Software Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/new-hard-drive-fresh-start-install-windows-11-with-ease/"><u>New Hard Drive, Fresh Start: Install Windows 11 with Ease!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-removing-images-from-your-iphones-main-photo-collection/"><u>Step-by-Step Guide: Removing Images From Your iPhone's Main Photo Collection</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-effortlessly-remove-itunes-playlists-from-iphone-devices/"><u>Step-by-Step Tutorial: Effortlessly Remove iTunes Playlists From iPhone Devices</u></a></li>
+<li><a href="https://win-studio.techidaily.com/steps-for-creating-a-pure-white-canvas-on-your-instagram-images/"><u>Steps for Creating a Pure White Canvas on Your Instagram Images</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-fix-list-for-a-dysfunctional-esc-key-on-windows/"><u>The Ultimate Fix List for a Dysfunctional Esc Key on Windows</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-5-effortless-and-enjoyable-tools-for-removing-faces-from-images-2022-edition/"><u>Top 5 Effortless and Enjoyable Tools for Removing Faces From Images - 2022 Edition</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transforming-digital-beats-into-physical-tunes-a-guide-on-how-to-create-audio-cds-from-mp3-tracks/"><u>Transforming Digital Beats Into Physical Tunes: A Guide on How to Create Audio CDs From MP3 Tracks</u></a></li>
 </ul></div>
 

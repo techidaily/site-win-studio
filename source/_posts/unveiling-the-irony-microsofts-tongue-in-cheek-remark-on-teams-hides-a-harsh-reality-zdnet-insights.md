@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Irony: Microsoft's Tongue-in-Cheek Remark on Teams Hides a Harsh Reality | ZDNet Insights"
-date: 2024-09-22T21:10:56.159Z
-updated: 2024-09-29T23:50:24.744Z
+date: 2024-10-02T23:14:16.218Z
+updated: 2024-10-05T22:12:43.229Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-sharing-excellence-twitch-live-to-your-facebook-circle/"><u>[New] 2024 Approved Sharing Excellence Twitch Live to Your Facebook Circle</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-perfecting-your-google-podcast-submission-process/"><u>[New] In 2024, Perfecting Your Google Podcast Submission Process</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-fast-track-choosing-best-pc-game-speed-extensions/"><u>[Updated] 2024 Approved Fast Track Choosing Best PC Game Speed Extensions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-master-level-stardew-upgrades-for-ultimate-growth/"><u>[Updated] In 2024, Master Level Stardew Upgrades for Ultimate Growth</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-punches-over-views-the-great-debate/"><u>[Updated] Punches Over Views The Great Debate</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-troubleshooting-apple-tv-for-facebook-content/"><u>[Updated] Troubleshooting Apple TV for Facebook Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y78t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y78t to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/crafting-privacy-for-your-flipbuilder-site-guide-to-avoiding-appearances-in-virtual-bibliography-searches/"><u>Crafting Privacy for Your FlipBuilder Site – Guide to Avoiding Appearances in Virtual Bibliography Searches</u></a></li>
-<li><a href="https://win-studio.techidaily.com/diy-audio-narratives-for-children-mastering-the-art-of-storybook-creation-using-flipbuilder-tools/"><u>DIY Audio Narratives for Children: Mastering the Art of Storybook Creation Using FlipBuilder Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-canon-mg3620-drivers-easy-guide-for-smooth-printing-experience/"><u>Get Canon MG3620 Drivers: Easy Guide for Smooth Printing Experience</u></a></li>
-<li><a href="https://win-studio.techidaily.com/share-the-ultimate-recommendation-download-and-use-nokia-video-converter-free-edition/"><u>Share the Ultimate Recommendation: Download and Use Nokia Video Converter Free Edition!</u></a></li>
-<li><a href="https://win-studio.techidaily.com/top-rated-free-software-for-high-quality-3d-video-conversion/"><u>Top Rated Free Software for High-Quality 3D Video Conversion</u></a></li>
-<li><a href="https://win-studio.techidaily.com/top-rated-dvd-to-mp4-converters-of-2024-for-windows-11-users/"><u>Top-Rated DVD to MP4 Converters of 2024 for Windows 11 Users</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows-1011mp4-5/"><u>Windows 10/11におけるMP4などの動画を効率良く回転して保存する方法 - トップ5</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-guide-to-streamlining-console-game-recording-for-2024/"><u>[New] Guide to Streamlining Console Game Recording for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speedy-shot-mastery-discovering-the-best-5-hacks-for-filming/"><u>[New] Speedy Shot Mastery Discovering the Best 5 Hacks for Filming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-content-revenue-route-map-comparing-the-best-streaming-platforms-for-2024/"><u>[Updated] Content Revenue Route Map Comparing the Best Streaming Platforms for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic-for-2024/"><u>[Updated] From Viewing Voids to Viral Videos The Top Ten Reasons & Cures for Zero Traffic for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamlining-communication-utilizing-masks-and-filters/"><u>[Updated] In 2024, Streamlining Communication Utilizing Masks and Filters</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-quick-ig-update-on-todays-compelling-podcast-for-2024/"><u>[Updated] Quick IG Update on Today's Compelling Podcast for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-essential-blueprint-for-home-based-podcasting/"><u>[Updated] The Essential Blueprint for Home-Based Podcasting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cost-efficiency-in-transportation-can-uber-truly-undercut-taxi-prices/"><u>Cost Efficiency in Transportation: Can Uber Truly Undercut Taxi Prices?</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exclusive-with-zdnet-steve-ballmer-previous-microsoft-leader-reveals-personal-struggle-with-valor/"><u>Exclusive with ZDNet: Steve Ballmer, Previous Microsoft Leader, Reveals Personal Struggle With Valor</u></a></li>
+<li><a href="https://win-studio.techidaily.com/expert-ethical-hacker-develops-simple-method-to-target-microsofts-recalled-ai-insights-from-zdnet/"><u>Expert Ethical Hacker Develops Simple Method to Target Microsoft's Recalled AI - Insights From ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-microsofts-enhanced-security-upgrades-in-newly-released-windows-11-achieving-superior-protection-from-day-one-insights-from-zdnet/"><u>Exploring Microsoft's Enhanced Security Upgrades in Newly Released Windows 11: Achieving Superior Protection From Day One - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-demonstrates-how-commonplace-artificial-intelligence-can-be-particularly-when-solitary-techblog/"><u>Microsoft Demonstrates How Commonplace Artificial Intelligence Can Be, Particularly When Solitary | TechBlog</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-recall-ai-vulnerability-exposed-by-ethical-hacking-group-no-rocket-science-involved-zdnet/"><u>Microsoft Recall AI Vulnerability Exposed by Ethical Hacking Group – No Rocket Science Involved | ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-surface-duo-2-a-dual-screen-device-that-puzzles-and-fascinates-one-month-on-insights-for-tech-enthusiasts-zdnet/"><u>Microsoft Surface Duo 2: A Dual-Screen Device That Puzzles & Fascinates - One Month On, Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-to-acquiring-free-recovery-media-for-your-pc-dell-hp-lenovo-or-surface-using-windowslinux-insights-by-zdnet/"><u>Step-by-Step Guide to Acquiring Free Recovery Media for Your PC (Dell, HP, Lenovo or Surface) Using Windows/Linux | Insights by ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/will-microsoft-begin-fees-for-windows-11-updates-in-the-coming-year-estimated-cost-breakdown/"><u>Will Microsoft Begin Fees for Windows 11 Updates in the Coming Year? Estimated Cost Breakdown</u></a></li>
 </ul></div>
 

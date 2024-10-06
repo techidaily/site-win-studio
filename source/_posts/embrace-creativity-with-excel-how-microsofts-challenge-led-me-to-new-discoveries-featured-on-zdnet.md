@@ -1,7 +1,7 @@
 ---
 title: "Embrace Creativity with Excel: How Microsoft's Challenge Led Me to New Discoveries (Featured on ZDNet)"
-date: 2024-09-28T00:43:48.080Z
-updated: 2024-09-30T12:59:58.352Z
+date: 2024-10-01T19:35:49.157Z
+updated: 2024-10-06T00:10:44.628Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,16 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -208,18 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-studio.techidaily.com/dont-let-your-windows-10-pc-fall-behind-5-key-strategies-to-rejuvenate-it-for-free-according-to-zdnet-experts/"><u>Don't Let Your Windows 10 PC Fall Behind: 5 Key Strategies to Rejuvenate It for Free, According to ZDNet Experts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/effortless-crossing-of-data-integrating-ios-camera-roll-with-windows-pc/"><u>Effortless Crossing of Data: Integrating iOS Camera Roll with Windows PC</u></a></li>
-<li><a href="https://win-studio.techidaily.com/effortless-file-transfer-sharing-between-windows-pc-and-android-via-google-quick-share-techradar/"><u>Effortless File Transfer: Sharing Between Windows PC and Android via Google Quick Share | TechRadar</u></a></li>
-<li><a href="https://extra-information.techidaily.com/finest-frequencies-elite-episodes-from-googloud/"><u>Finest Frequencies Elite Episodes From GooGloud</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 15 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-zte-axon-40-lite-by-fonelab-android-recover-data/"><u>Recover lost data from ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-premier-parental-control-gateways-a-2024-router-review-guide/"><u>The Premier Parental Control Gateways - A 2024 Router Review Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gpt-3-a-walkthrough-in-openai/"><u>Understanding GPT-3: A Walkthrough in OpenAI</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unpopular-microsoft-advice-bosses-beware-management-tips-youll-love-and-loathe-according-to-zdnet/"><u>Unpopular Microsoft Advice: Bosses Beware – Management Tips You'll Love and Loathe, According to ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ourney-to-greatness-top-10-travel-youtubers-for-2024/"><u>[New] Journey to Greatness Top 10 Travel Youtubers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-to-professional-streaming-on-fb/"><u>[New] The Ultimate Guide to Professional Streaming on FB</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-quick-guide-to-saving-screen-captures-in-windows-8/"><u>[Updated] Quick Guide to Saving Screen Captures in Windows 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-for-apple-listed-podcast-success/"><u>2024 Approved Strategies for Apple-Listed Podcast Success</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-boost-your-sites-interactivity-with-easy-flipbook-downloads-using-flipbuilder/"><u>Guide: Boost Your Site's Interactivity with Easy Flipbook Downloads Using FlipBuilder</u></a></li>
+<li><a href="https://win-studio.techidaily.com/how-to-batch-convert-your-ppt-presentations-into-flipbooks-in-one-go-with-flipbuilder/"><u>How to Batch Convert Your PPT Presentations Into Flipbooks in One Go with FlipBuilder</u></a></li>
+<li><a href="https://win-studio.techidaily.com/how-to-merge-two-image-sheets-into-one-flipbook-page-using-the-flipbuilder-technique/"><u>How to Merge Two Image Sheets Into One Flipbook Page Using the FlipBuilder Technique</u></a></li>
+<li><a href="https://win-studio.techidaily.com/integrating-your-site-with-flipbook-a-step-by-step-guide-using-flipbuilder/"><u>Integrating Your Site with FlipBook: A Step-by-Step Guide Using FlipBuilder</u></a></li>
+<li><a href="https://win-studio.techidaily.com/is-it-possible-to-embed-video-content-into-your-softwares-ebook-format-with-flash-on-flipbuilder/"><u>Is It Possible to Embed Video Content Into Your Software’s eBook Format with Flash on FlipBuilder?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-convert-webm-to-mp3-top-rated-conversion-tools-for-2024/"><u>New Convert WebM to MP3 Top-Rated Conversion Tools for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/perfect-your-digital-presentation-the-ultimate-techniques-for-adjusting-flipbook-page-shadows/"><u>Perfect Your Digital Presentation: The Ultimate Techniques for Adjusting FlipBook Page Shadows</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-narzo-60-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Realme Narzo 60 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/renforcez-la-valeur-ajoutee-de-vos-videos-grace-a-winxvideo-et-lintelligence-artificielle-une-solution-incontournable/"><u>Renforcez La Valeur Ajoutée De Vos Vidéos Grâce À Winxvideo Et L'intelligence Artificielle : Une Solution Incontournable</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-problem-of-witcher-3-not-starting-a-comprehensive-guide/"><u>Solving The Problem of Witcher 3 Not Starting – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-incorporating-videos-into-your-google-slides/"><u>Step-by-Step Guide: Incorporating Videos Into Your Google Slides</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-for-implementing-easy-flipbook-downloads-using-flipbuilder-technology/"><u>Step-by-Step Tutorial for Implementing Easy Flipbook Downloads Using FlipBuilder Technology</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-setting-up-autoplay-for-flipbooks-on-flipbuildercom/"><u>Step-by-Step Tutorial: Setting Up Autoplay for Flipbooks on FlipBuilder.com</u></a></li>
 </ul></div>
 

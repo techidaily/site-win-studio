@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Releases: A Detailed Look Into Microsoft's October Surface Launches | ZDNet Report"
-date: 2024-09-25T11:21:31.432Z
-updated: 2024-09-30T02:35:36.761Z
+date: 2024-10-04T20:24:46.082Z
+updated: 2024-10-05T17:08:31.043Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-advanced-techniques-for-syncing-b-roll-with-main-shots-for-2024/"><u>[New] Advanced Techniques for Syncing B-Roll with Main Shots for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-enjoy-youtube-music-anytime-with-these-23-essential-no-cost-audio-extractors/"><u>[Updated] In 2024, Enjoy YouTube Music Anytime with These 23 Essential, No-Cost Audio Extractors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/60fpspcapexand/"><u>「60Fps対応」高画質なPCモニターでApexを録画する初歩的ヒント&テクニック</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/wav-flv-movavi/"><u>無限制網路上的 WAV 到 FLV 自由變更 - 利用 Movavi 改編器</u></a></li>
-<li><a href="https://win-studio.techidaily.com/convert-and-save-pornoxo-videos-as-mp4-avi-or-mov-directly-using-our-quick-downloader-tool/"><u>Convert & Save PornoXO Videos as MP4, AVI or MOV Directly Using Our Quick Downloader Tool!</u></a></li>
-<li><a href="https://win-studio.techidaily.com/convert-and-download-youtube-videos-as-flac-format-on-macos-and-windows/"><u>Convert and Download YouTube Videos as FLAC Format on macOS & Windows</u></a></li>
-<li><a href="https://win-studio.techidaily.com/convert-online-learning-videos-download-mp4-avi-mp3-and-mov-files/"><u>Convert Online Learning Videos: Download MP4, AVI, MP3, and Mov Files</u></a></li>
-<li><a href="https://win-studio.techidaily.com/download-and-convert-videos-effortlessly-using-a-mac-tool-for-mp4movmp3-files/"><u>Download & Convert Videos Effortlessly Using a Mac Tool for MP4/MOV/MP3 Files</u></a></li>
-<li><a href="https://win-studio.techidaily.com/download-alternative-mac-software-the-ultimate-guide-to-using-atube-catcher-on-mac-and-windows/"><u>Download Alternative Mac Software: The Ultimate Guide to Using aTube Catcher on Mac & Windows</u></a></li>
-<li><a href="https://win-studio.techidaily.com/download-and-convert-itprotv-learning-materials-to-multiple-video-and-audio-formats-compatible-with-windowsmac/"><u>Download and Convert ITProTV Learning Materials to Multiple Video & Audio Formats Compatible with Windows/Mac</u></a></li>
-<li><a href="https://win-studio.techidaily.com/download-and-save-the-academic-earth-earth-sciences-lesson-in-various-videoaudio-formats-like-mp4-wmv-avi-and-mp3/"><u>Download and Save the Academic Earth Earth Sciences Lesson in Various Video/Audio Formats Like MP4, WMV, AVI & MP3</u></a></li>
-<li><a href="https://win-studio.techidaily.com/download-mixergy-content-video-lessons-and-interviews-streamlined/"><u>Download Mixergy Content – Video Lessons & Interviews Streamlined</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-list-high-quality-cost-free-meeting-platforms-for-2024/"><u>Essential List High-Quality, Cost-Free Meeting Platforms for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Zero 30 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro, Apples New iPhone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/perfecting-audio-transitions-in-live-streaming-the-obs-guide-to-equalizing-sounds/"><u>Perfecting Audio Transitions in Live Streaming The OBS Guide to Equalizing Sounds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-artisans-guide-to-chromatic-mastery/"><u>The Artisan's Guide to Chromatic Mastery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-diy-youtube-openers-technique-one-and-technique-two/"><u>[New] In 2024, DIY YouTube Openers Technique One & Technique Two</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-5-ways-to-remove-stickers-from-a-tiktok-video/"><u>2024 Approved 5 Ways to Remove Stickers From a TikTok Video</u></a></li>
+<li><a href="https://win-studio.techidaily.com/best-mac-compatible-audio-editors-comprehensive-reviews-and-comparisons/"><u>Best Mac-Compatible Audio Editors: Comprehensive Reviews & Comparisons</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-toshiba-dynabook-pc-latest-drivers-for-windows-systems/"><u>Download and Update Toshiba Dynabook PC - Latest Drivers for Windows Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-reestablishing-voice-chat-connectivity-in-back-4-blood/"><u>Effective Solutions: Reestablishing Voice Chat Connectivity in 'Back 4 Blood'</u></a></li>
+<li><a href="https://win-studio.techidaily.com/effortlessly-edit-images-discover-the-best-10-apps-for-object-erasure-in-photoshop-like-quality/"><u>Effortlessly Edit Images? Discover the Best 10 Apps for Object Erasure in Photoshop-Like Quality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-itel-p55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Itel P55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y27-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y27 4G Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-find-x7-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Find X7 Ultra Devices</u></a></li>
+<li><a href="https://win-studio.techidaily.com/most-common-ios-and-android-inquiries-about-apowersoft-background-eraser-app/"><u>Most Common iOS & Android Inquiries About Apowersoft Background Eraser App</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persistent-problem-unable-to-launch-the-mass-effect-legendary-edition-game/"><u>Persistent Problem: Unable to Launch the Mass Effect Legendary Edition Game</u></a></li>
+<li><a href="https://win-studio.techidaily.com/simple-steps-to-transfering-mp3s-onto-your-iphone/"><u>Simple Steps to Transfering MP3s Onto Your iPhone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-3d-photography-duel-samsung-vs-lg-edition/"><u>The 3D Photography Duel Samsung VS LG Edition</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ultimate-how-tos-successfully-posting-sound-content-on-facebook-platforms/"><u>Ultimate How-To's: Successfully Posting Sound Content on Facebook Platforms</u></a></li>
 </ul></div>
 

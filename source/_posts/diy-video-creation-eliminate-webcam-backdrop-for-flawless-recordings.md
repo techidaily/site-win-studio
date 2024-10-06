@@ -1,7 +1,7 @@
 ---
 title: "DIY Video Creation: Eliminate Webcam Backdrop for Flawless Recordings"
-date: 2024-09-28T20:11:02.007Z
-updated: 2024-09-29T23:58:07.549Z
+date: 2024-09-29T23:52:19.084Z
+updated: 2024-10-05T22:36:33.118Z
 tags:
   - product
 categories:
@@ -46,16 +46,16 @@ Action Tutorials
   
  Share this tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Introduction 
 
  With Action! you can easily add to your video picture from webcam with automatic background removal using Chroma Key option. Follow this tutorial to learn about using Chroma Key and Alpha mask to create outstanding recordings with webcams!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enable Webcam recording
 
@@ -68,10 +68,10 @@ Action Tutorials
 ![Mirillis Action! - Select Webcam](https://mirillis.com/res/old/gfx/tutorials/chroma-key/2mirillis-action-webcam-preview-enabled.jpg "Select webcam device to be added to desktop recording") 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable and adjust Chroma Key
@@ -80,28 +80,15 @@ Action Tutorials
 
 ![Mirillis Action! - Adjust webcam settings](https://mirillis.com/res/old/gfx/tutorials/chroma-key/4mirillis-action-webcam-recording-with-chroma-key.jpg "Adjust webcam settings") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Please remember to use Action! Preview mode to set your webcam size and position. 
 
 ![Mirillis Action! - Adjust webcam settings](https://mirillis.com/res/old/gfx/tutorials/chroma-key/3mirillis-action-webcam-preview.jpg "Adjust webcam size and position") 
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable Alpha mask
@@ -111,6 +98,13 @@ Action Tutorials
  Please note that Alpha mask works only for a few specific webcam capture resolutions: 640x360, 640x480 and 1280x720\. If you have any other capture resolution set, please change it to one of above resolutions to enable Alpha mask option.
 
 ![Mirillis Action! - Gameplay recording](https://mirillis.com/res/old/gfx/tutorials/chroma-key/mirillis-action-webcam-recording-with-chroma-key-and-alpha-mask.jpg "Gameplay recording")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,24 +121,19 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-tips-for-faster-vimeo-video-viewing/"><u>[New] In 2024, Tips for Faster Vimeo Video Viewing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-mastering-sales-select-from-these-top-15-facebook-analytics-pros/"><u>[New] Mastering Sales Select From These Top 15 Facebook Analytics Pros</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-a1-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo A1 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/affordable-microsoft-office-2019-bundle-for-windows-and-mac-just-25-buying-tips-cnet/"><u>Affordable Microsoft Office 2019 Bundle for Windows and Mac, Just $25! Buying Tips | CNET</u></a></li>
-<li><a href="https://win-studio.techidaily.com/complete-guide-sending-and-receiving-imessage-on-windows-platforms-tips-from-zdnet/"><u>Complete Guide: Sending & Receiving iMessage on Windows Platforms - Tips From ZDNet</u></a></li>
-<li><a href="https://win-studio.techidaily.com/copilotplus-microsoft-vs-apple-m3-macbooks-the-ultimate-showdown-on-laptops-insights-from-zdnet/"><u>Copilot+ Microsoft Vs. Apple M3 MacBooks: The Ultimate Showdown on Laptops | Insights From ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-collage-companions-android-and-iphones-best/"><u>Cutting-Edge Collage Companions Android & iPhone's Best</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevating-visuals-by-attaching-youtube-music-tracks/"><u>Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
-<li><a href="https://win-studio.techidaily.com/embrace-creativity-with-excel-how-microsofts-challenge-led-me-to-new-discoveries-featured-on-zdnet/"><u>Embrace Creativity with Excel: How Microsoft's Challenge Led Me to New Discoveries (Featured on ZDNet)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-3-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme GT 3 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-placement-boosting-youtube-video-visibility/"><u>In 2024, Optimal Placement Boosting YouTube Video Visibility</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-linux-setup-on-microsoft-surface-go-for-beginners-one-hour-project/"><u>Step-by-Step Linux Setup on Microsoft Surface Go for Beginners (One-Hour Project)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ai-muse-crafting-captivating-poems-with-guidance-from-chatgpt/"><u>The AI Muse: Crafting Captivating Poems with Guidance From ChatGPT</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ticking-clock-for-microsoft-addressing-major-issues-in-windows-10-within-a-years-timeframe-zdnet-exclusive/"><u>Ticking Clock for Microsoft: Addressing Major Issues in Windows 10 Within a Year's Timeframe | ZDNet Exclusive</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-huawei-nova-y71-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Huawei Nova Y71 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unveiling-the-irony-microsofts-tongue-in-cheek-remark-on-teams-hides-a-harsh-reality-zdnet-insights/"><u>Unveiling the Irony: Microsoft's Tongue-in-Cheek Remark on Teams Hides a Harsh Reality | ZDNet Insights</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722969972822-upgrade-to-professional-sound-quality-grab-the-official-focusrite-scarlett-18i20-drivers-for-windows-pcs-now/"><u>Upgrade to Professional Sound Quality - Grab the Official Focusrite Scarlett 18I20 Drivers for Windows PCs Now</u></a></li>
-<li><a href="https://win-studio.techidaily.com/why-cleaning-extra-bloatware-on-windows-may-not-be-ideal-expert-advice-from-zdnet/"><u>Why Cleaning Extra Bloatware on Windows May Not Be Ideal - Expert Advice From ZDNet</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows-10-update-pricing-revealed-microsoft-announces-plans-to-charge-users-next-year-comprehensive-analysis/"><u>Windows 10 Update Pricing Revealed: Microsoft Announces Plans to Charge Users Next Year - Comprehensive Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-prime-steps-for-capturing-phone-operations-for-2024/"><u>[New] Prime Steps for Capturing Phone Operations for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-streaming-to-mp3-a-compreenas-guide-for-2024/"><u>[New] Vimeo Streaming to MP3 - A Compreenas Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-small-drone-models-today/"><u>[Updated] In 2024, Best Small Drone Models Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-up-your-iphone-x7s-selfies-with-these-top-free-tools/"><u>[Updated] Step Up Your iPhone X/7's Selfies with These Top Free Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-watching-social-media-videos-on-appletv/"><u>[Updated] Watching Social Media Videos on AppleTV</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-top-8-no-cost-animated-gif-frame-separators-break-down-your-gifs-perfectly/"><u>1. Top 8 No-Cost Animated GIF Frame Separators: Break Down Your GIFs Perfectly</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726028844982-4/"><u>4最高の無料ビデオからオーディオ抽出ツール - 推薦リスト</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-asfwav/"><u>Movaviで簡単に無料で ASF/WAVファイルをオンライン変換</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726030454397-pc/"><u>PC用動画音量調整ハウツー - 完全無料ガイド</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726029878408-ultimate-techniques-for-extracting-audio-from-videos-a-step-by-step-guide-updated/"><u>Ultimate Techniques for Extracting Audio From Videos: A Step-by-Step Guide (Updated)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-the-full-power-of-apple-podcasts-downloads-for-2024/"><u>Unleashing the Full Power of Apple Podcasts Downloads for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726029652963-wondershare/"><u>Wondershare 以上の優れた代用編集プログラムで発見! 複数の出力機能を利用可能</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726027132587-youtube/"><u>YouTubeやその他ビデオサイトで動画撮影・保存ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Affordable Microsoft Office 2019 Bundle for Windows and Mac, Just $25! Buying Tips | CNET
-date: 2024-09-27T09:12:23.175Z
-updated: 2024-09-30T08:55:47.883Z
+date: 2024-10-01T20:58:00.202Z
+updated: 2024-10-05T19:38:40.099Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,16 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-seeking-freedom-with-videos-which-plays-better-vlc-or-mpc/"><u>[New] Seeking Freedom with Videos Which Plays Better, VLC or MPC?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-fastest-time-lapse-capturing-system-5/"><u>[Updated] In 2024, Fastest Time-Lapse Capturing System #5</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-from-beginner-to-pro-essential-steps-in-recording-with-logitech-cameras/"><u>[Updated] In 2024, From Beginner to Pro Essential Steps in Recording with Logitech Cameras</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-intensified-interaction-through-advanced-zoom-settings/"><u>[Updated] Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-flipchm-pro-advanced-conversion-tool-from-3d-chm-files-to-interactive-ebooks-flipbuildercom/"><u>1. FlipCHM Pro: Advanced Conversion Tool From 3D CHM Files to Interactive eBooks - FlipBuilder.com</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/auditory-enhancements-adding-sound-effectively-powerpoint/"><u>Auditory Enhancements Adding Sound Effectively (PowerPoint)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/brief-methods-for-sending-iphone-media-to-pc-for-2024/"><u>Brief Methods for Sending iPhone Media to PC for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-merge-two-image-sheets-into-one-flipbook-page-using-the-flipbuilder-technique/"><u>How to Merge Two Image Sheets Into One Flipbook Page Using the FlipBuilder Technique</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/integrating-your-site-with-flipbook-a-step-by-step-guide-using-flipbuilder/"><u>Integrating Your Site with FlipBook: A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://win-studio.techidaily.com/is-it-possible-to-embed-video-content-into-your-softwares-ebook-format-with-flash-on-flipbuilder/"><u>Is It Possible to Embed Video Content Into Your Software’s eBook Format with Flash on FlipBuilder?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-survival-with-friends-in-dying-light-a-co-op-fps-that-pushes-your-limits-through-parkour-skills/"><u>Mastering Survival with Friends in 'Dying Light': A Co-Op FPS That Pushes Your Limits Through Parkour Skills</u></a></li>
-<li><a href="https://win-studio.techidaily.com/perfect-your-digital-presentation-the-ultimate-techniques-for-adjusting-flipbook-page-shadows/"><u>Perfect Your Digital Presentation: The Ultimate Techniques for Adjusting FlipBook Page Shadows</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-for-implementing-easy-flipbook-downloads-using-flipbuilder-technology/"><u>Step-by-Step Tutorial for Implementing Easy Flipbook Downloads Using FlipBuilder Technology</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-setting-up-autoplay-for-flipbooks-on-flipbuildercom/"><u>Step-by-Step Tutorial: Setting Up Autoplay for Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://win11.techidaily.com/the-obsidian-way-to-clean-clear-notes/"><u>The Obsidian Way to Clean, Clear Notes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-4-mobile-browsers-on-android-with-add-on-compatibility/"><u>Top 4 Mobile Browsers on Android with Add-On Compatibility</u></a></li>
-<li><a href="https://win-studio.techidaily.com/transform-your-images-into-engaging-presentations-page-flipping-flash-slide-show-made-easy-at-flipbuildercom/"><u>Transform Your Images Into Engaging Presentations: Page-Flipping Flash Slide Show Made Easy at FlipBuilder.com</u></a></li>
-<li><a href="https://win-studio.techidaily.com/turn-pages-online-how-to-create-an-html-flipbook-for-your-site-via-flipbuilder-complete-tutorial/"><u>Turn Pages Online: How to Create an HTML Flipbook for Your Site via FlipBuilder – Complete Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-peak-level-illustration-tweaks/"><u>[New] 2024 Approved Peak Level Illustration Tweaks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-a-new-era-of-high-def-in-depth-on-hps-z32-x-review-for-2024/"><u>[New] A New Era of High-Def In Depth on HP’s Z32 X Review for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-gamers-path-to-earnings-on-youtube/"><u>[Updated] Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-fabricating-temporal-anomaly-illusions/"><u>[Updated] In 2024, Fabricating Temporal Anomaly Illusions</u></a></li>
+<li><a href="https://win-studio.techidaily.com/10-just-12-months-leftzdnet-exclusive/"><u>10 - Just 12 Months Left![ZDNet Exclusive</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/behind-glasses-and-screens-vrs-evolutionary-tale-for-2024/"><u>Behind Glasses and Screens VR’s Evolutionary Tale for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/comprehensive-innovn-27c1u-4k-display-analysis-stunning-visuals-and-swift-setup-feedback-from-zdnet/"><u>Comprehensive Innovn 27C1U 4K Display Analysis: Stunning Visuals and Swift Setup - Feedback From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/de-video-a-sonido-tres-pasos-faciles-para-conversion-auditiva/"><u>De Vídeo a Sonido: Tres Pasos Fáciles Para Conversión Auditiva</u></a></li>
+<li><a href="https://win-studio.techidaily.com/dont-let-your-windows-10-pc-fall-behind-5-key-strategies-to-rejuvenate-it-for-free-according-to-zdnet-experts/"><u>Don't Let Your Windows 10 PC Fall Behind: 5 Key Strategies to Rejuvenate It for Free, According to ZDNet Experts</u></a></li>
+<li><a href="https://win-studio.techidaily.com/effortless-crossing-of-data-integrating-ios-camera-roll-with-windows-pc/"><u>Effortless Crossing of Data: Integrating iOS Camera Roll with Windows PC</u></a></li>
+<li><a href="https://win-studio.techidaily.com/maximizing-productivity-in-depth-analysis-of-the-keychron-q5-mechanical-keyboards-value-and-features/"><u>Maximizing Productivity: In-Depth Analysis of the Keychron Q5 Mechanical Keyboard's Value & Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/online-onyx-the-monetary-meaningfulness-of-pewdiepies-earnings/"><u>Online Onyx The Monetary Meaningfulness of Pewdiepie's Earnings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smoothly-stitching-images-together/"><u>Smoothly Stitching Images Together</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-removing-images-from-your-iphones-main-photo-collection/"><u>Step-by-Step Guide: Removing Images From Your iPhone's Main Photo Collection</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-rated-standing-desk-adapter-ideal-choice-from-zdnet/"><u>Top-Rated Standing Desk Adapter - Ideal Choice From ZDNET</u></a></li>
 </ul></div>
 

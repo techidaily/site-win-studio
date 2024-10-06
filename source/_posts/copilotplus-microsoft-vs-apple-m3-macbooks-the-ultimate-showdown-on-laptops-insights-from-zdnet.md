@@ -1,7 +1,7 @@
 ---
 title: "Copilot+ Microsoft Vs. Apple M3 MacBooks: The Ultimate Showdown on Laptops | Insights From ZDNet"
-date: 2024-09-24T06:26:03.714Z
-updated: 2024-09-29T22:48:34.709Z
+date: 2024-09-28T19:51:23.034Z
+updated: 2024-10-06T00:07:35.638Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-trackcast-analysis/"><u>[New] TrackCast Analysis</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-easy-access-to-cg-cookie-educational-resources-learn-watch-and-master-with-our-free-video-tutorials/"><u>1. Easy Access to CG Cookie Educational Resources: Learn, Watch & Master With Our Free Video Tutorials</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-how-to-access-and-save-hilarious-clips-from-the-worlds-most-popular-comedy-platforms/"><u>1. How to Access and Save Hilarious Clips From the World's Most Popular Comedy Platforms?</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-ultimate-guide-how-to-convert-and-save-your-favorite-pornhub-videos-as-high-quality-mp4-mov-or-avi-files/"><u>1. Ultimate Guide: How to Convert and Save Your Favorite PornHub Videos as High-Quality MP4, MOV or AVI Files</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-digital-content-dissection-audiovisual-media-battleground/"><u>2024 Approved Digital Content Dissection Audiovisual Media Battleground</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-play-srt-on-pcos-x/"><u>2024 Approved Play SRT on PC/OS X</u></a></li>
-<li><a href="https://win-studio.techidaily.com/access-elite-brazilian-jiu-jitsu-training-materials-with-the-ultimate-bjj-library-downloader/"><u>Access Elite Brazilian Jiu-Jitsu Training Materials with the Ultimate BJJ Library Downloader</u></a></li>
-<li><a href="https://win-studio.techidaily.com/access-vulture-collection-online-stream-movies-tv-shows-and-music-video-clips-for-free/"><u>Access Vulture Collection Online - Stream Movies, TV Shows, and Music Video Clips for Free</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-alternatives-to-udemy-top-5-learning-platforms-you-must-check-out/"><u>Best Alternatives to Udemy: Top 5 Learning Platforms You Must Check Out</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-samsung-galaxy-f15-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy F15 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exclusive-list-the-top-10-websites-buying-mystery-boxes-cheaply/"><u>Exclusive List The Top 10 Websites Buying Mystery Boxes Cheaply</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/facile-conversion-dimage-en-croquis-transformez-vos-photographies-en-desseins-artistiques/"><u>Facile Conversion D'Image en Croquis: Transformez Vos Photographies En Desseins Artistiques</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-note-30-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Note 30 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi 14 Pro</u></a></li>
-<li><a href="https://win-studio.techidaily.com/reordering-images-in-your-flipbook-project-tips-for-using-flipbuilder/"><u>Reordering Images in Your Flipbook Project: Tips for Using FlipBuilder</u></a></li>
-<li><a href="https://win-studio.techidaily.com/securing-your-flippublication-a-step-by-step-guide-on-setting-up-a-strong-password-flipbuildercom/"><u>Securing Your FlipPublication: A Step-by-Step Guide on Setting Up a Strong Password [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-broken-widgets-on-ios-devices-10-easy-fixes/"><u>Troubleshoot Broken Widgets on iOS Devices: 10 Easy Fixes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-prime-facebook-extra-tools-secure-file-grabber-firefox-version/"><u>[New] 2024 Approved Prime Facebook Extra Tools Secure File Grabber, Firefox Version</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-easy-steps-to-deactivate-igtv/"><u>[New] Easy Steps to Deactivate IGTV</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ngage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>[New] Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-advanced-multi-screen-browsing-in-chrome/"><u>[New] Explore Advanced Multi-Screen Browsing in Chrome</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-explore-the-finest-15-video-cameras-for-vlogging-success/"><u>[Updated] 2024 Approved Explore the Finest 15 Video Cameras for Vlogging Success</u></a></li>
+<li><a href="https://win-studio.techidaily.com/effective-methods-to-transform-your-facebook-videos-into-high-quality-mp3-files/"><u>Effective Methods to Transform Your Facebook Videos Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-g24-power-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola G24 Power Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-10-best-online-platforms-to-convert-images-to-videos/"><u>New 10 Best Online Platforms to Convert Images to Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-tricks-to-resolve-the-puzzling-windows-10-stuck-update-dilemma/"><u>Simple Tricks to Resolve the Puzzling Windows 10 Stuck Update Dilemma</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smirk-secrets-crafting-chuckles-with-simplicity/"><u>Smirk Secrets Crafting Chuckles with Simplicity</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-7-essential-microsoft-powertoys-you-need-on-your-windows-computer-discover-them-here/"><u>Top 7 Essential Microsoft PowerToys You Need on Your Windows Computer - Discover Them Here!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tier-mkv-players-macos-edition-for-2024/"><u>Top-Tier MKV Players MacOS Edition for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transforming-digital-beats-into-physical-tunes-a-guide-on-how-to-create-audio-cds-from-mp3-tracks/"><u>Transforming Digital Beats Into Physical Tunes: A Guide on How to Create Audio CDs From MP3 Tracks</u></a></li>
+<li><a href="https://win-studio.techidaily.com/understanding-the-basics-comprehensive-guide-to-mp4-audio-files/"><u>Understanding the Basics: Comprehensive Guide to MP4 Audio Files</u></a></li>
+<li><a href="https://win-studio.techidaily.com/upgrading-to-windows-11-without-cost-current-status-explained-by-zdnet/"><u>Upgrading to Windows 11 Without Cost: Current Status Explained by ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/urgent-deadline-approaching-for-microsoft-as-windows-11-challenges-loom-in-next-year-zdnet/"><u>Urgent Deadline Approaching for Microsoft as Windows 11 Challenges Loom in Next Year - ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/urgent-update-microsofts-major-challenge-with-windows-11-looms-as-deadline-approaches-tech-insights/"><u>Urgent Update: Microsoft's Major Challenge with Windows 11 Looms as Deadline Approaches | Tech Insights</u></a></li>
+<li><a href="https://win-studio.techidaily.com/windows-11-challenge-looms-large-for-microsoft-just-one-year-left-to-address-critical-issues-techinsights/"><u>Windows 11 Challenge Looms Large for Microsoft: Just One Year Left to Address Critical Issues | TechInsights</u></a></li>
+<li><a href="https://win-studio.techidaily.com/zdnet-analysis-assessing-the-value-of-android-on-windows-11-setup/"><u>ZDNet Analysis: Assessing the Value of Android on Windows 11 Setup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Ethical Hacker Develops Simple Method to Target Microsoft's Recalled AI - Insights From ZDNet
-date: 2024-09-24T07:46:47.791Z
-updated: 2024-09-30T12:56:01.391Z
+date: 2024-10-02T20:58:50.048Z
+updated: 2024-10-05T16:39:12.624Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-switch-to-shine-with-premium-capture-cards/"><u>[New] 2024 Approved Switch to Shine with Premium Capture Cards</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-quick-create-excellence-professional-thumbnails-in-gaming-art/"><u>[New] In 2024, Quick-Create Excellence Professional Thumbnails in Gaming Art</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-spin-the-dial-zoom-in-on-vr-samsung-and-lg-compare/"><u>[Updated] 2024 Approved Spin the Dial, Zoom in on VR Samsung & LG Compare</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-sleep-soundly-top-aspers-techniques-unveiled-for-2024/"><u>[Updated] Sleep Soundly Top Asper's Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-flipchm-pro-advanced-conversion-tool-from-3d-chm-files-to-interactive-ebooks-flipbuildercom/"><u>1. FlipCHM Pro: Advanced Conversion Tool From 3D CHM Files to Interactive eBooks - FlipBuilder.com</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012943877-beat-the-bug-effective-ways-to-prevent-titanfall-2-crashes-now/"><u>Beat the Bug: Effective Ways to Prevent Titanfall 2 Crashes Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-world-of-warships-pc-issues-5-rapid-remedies-for-unexpected-crashes/"><u>Beat World of Warships PC Issues: 5 Rapid Remedies for Unexpected Crashes</u></a></li>
-<li><a href="https://win-studio.techidaily.com/creating-compact-discs-from-digital-publications-a-detailed-tutorial-using-flipbuilder-software/"><u>Creating Compact Discs From Digital Publications: A Detailed Tutorial Using FlipBuilder Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-transform-a-pdf-into-an-interactive-flash-book-with-paging-cues-and-audio-features-using-flipbuilder/"><u>How to Transform a PDF Into an Interactive Flash Book with Paging Cues & Audio Features Using FlipBuilder</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/premiere-samsung-gear-vr-playlist/"><u>Premiere Samsung Gear VR Playlist</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-setting-up-autoplay-for-flipbooks-on-flipbuildercom/"><u>Step-by-Step Tutorial: Setting Up Autoplay for Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://win-studio.techidaily.com/transform-your-images-into-engaging-presentations-page-flipping-flash-slide-show-made-easy-at-flipbuildercom/"><u>Transform Your Images Into Engaging Presentations: Page-Flipping Flash Slide Show Made Easy at FlipBuilder.com</u></a></li>
-<li><a href="https://win-studio.techidaily.com/turn-pages-online-how-to-create-an-html-flipbook-for-your-site-via-flipbuilder-complete-tutorial/"><u>Turn Pages Online: How to Create an HTML Flipbook for Your Site via FlipBuilder – Complete Tutorial</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-followers-to-fame-on-instagram-expert-advice-and-real-outcomes-for-2024/"><u>[New] From Followers to Fame on Instagram Expert Advice and Real Outcomes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-giggles-on-iphones/"><u>[New] Giggles on iPhones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-legal-framework-the-fine-print-for-facebook-video-postings/"><u>[New] Legal Framework The Fine Print for Facebook Video Postings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-5-excellent-gaming-keyboards-within-a-100-budget-for-2024/"><u>[Updated] 5 Excellent Gaming Keyboards Within a $100 Budget for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>[Updated] Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
+<li><a href="https://win-studio.techidaily.com/copilotplus-microsoft-vs-apple-m3-macbooks-the-ultimate-showdown-on-laptops-insights-from-zdnet/"><u>Copilot+ Microsoft Vs. Apple M3 MacBooks: The Ultimate Showdown on Laptops | Insights From ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-the-new-releases-a-detailed-look-into-microsofts-october-surface-launches-zdnet-report/"><u>Exploring the New Releases: A Detailed Look Into Microsoft's October Surface Launches | ZDNet Report</u></a></li>
+<li><a href="https://win-studio.techidaily.com/extending-your-laptops-endurance-top-9-power-saving-tweaks-in-windows-11-for-enhanced-battery-performance/"><u>Extending Your Laptop's Endurance: Top 9 Power-Saving Tweaks in Windows 11 for Enhanced Battery Performance</u></a></li>
+<li><a href="https://win-studio.techidaily.com/get-your-essential-microsoft-office-suite-on-windows-or-mac-for-just-25-exclusive-offer-inside/"><u>Get Your Essential Microsoft Office Suite on Windows or Mac for Just $25 - Exclusive Offer Inside!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effortlessly-embedding-visual-media-in-free-content-creation/"><u>In 2024, Effortlessly Embedding Visual Media in Free Content Creation</u></a></li>
+<li><a href="https://win-studio.techidaily.com/inside-look-has-microsoft-entered-a-state-of-paranoia-expert-opinions-and-potential-impact-zdnet/"><u>Inside Look: Has Microsoft Entered a State of Paranoia? Expert Opinions & Potential Impact [ZDNet]</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-drive-capacity-in-windows-11-expert-tips-for-freeing-up-space/"><u>Maximize Drive Capacity in Windows 11 - Expert Tips for Freeing Up Space</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-to-introduce-fees-for-windows-11-updates-from-next-year-estimated-prices-revealed-zdnet/"><u>Microsoft to Introduce Fees for Windows 11 Updates From Next Year - Estimated Prices Revealed | ZDNET</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsofts-latest-move-how-it-might-frustrate-users-even-more-insights-from-zdnet/"><u>Microsoft's Latest Move: How It Might Frustrate Users Even More - Insights From ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/no-end-for-windows-control-panel-yet-microsoft-confirms-ongoing-support-gadget-guide/"><u>No End for Windows Control Panel Yet – Microsoft Confirms Ongoing Support | Gadget Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-hp-laptop-usb-connectivity-issues/"><u>Step-by-Step Solutions for HP Laptop USB Connectivity Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-5-tactics-from-experts-a-journey-of-online-brand-growth/"><u>Top 5 Tactics From Experts A Journey of Online Brand Growth</u></a></li>
 </ul></div>
 

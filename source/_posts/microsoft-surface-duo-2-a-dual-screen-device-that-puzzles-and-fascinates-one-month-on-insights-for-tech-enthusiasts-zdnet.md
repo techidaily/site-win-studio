@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Duo 2: A Dual-Screen Device That Puzzles & Fascinates - One Month On, Insights for Tech Enthusiasts | ZDNet"
-date: 2024-09-26T10:52:08.167Z
-updated: 2024-09-30T13:01:29.488Z
+date: 2024-10-04T16:39:54.289Z
+updated: 2024-10-05T21:28:45.215Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-duet-syncing-videos-for-twitter-and-tumble/"><u>[New] 2024 Approved Digital Duet Syncing Videos for Twitter and Tumble</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-amplifying-your-content-free-techniques-to-boost-youtube-views-for-2024/"><u>[New] Amplifying Your Content Free Techniques to Boost YouTube Views for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-content-composer-arena-for-2024/"><u>[New] Content Composer Arena for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-preventing-htc-vive-disorientation-and-nausea/"><u>[New] Preventing HTC Vive Disorientation and Nausea</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/uickcast-your-youtube-selection-playlists-for-2024/"><u>[New] Quickcast Your Youtube Selection, Playlists for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-flawless-facial-effects-seamlessly-incorporating-motion-blur-with-picsart/"><u>[Updated] In 2024, Flawless Facial Effects Seamlessly Incorporating Motion Blur with Picsart</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-youtube-permanently-stop-video-snips-complete-guide/"><u>[Updated] Mastering YouTube Permanently Stop Video Snips [Complete Guide]</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-easy-access-to-cg-cookie-educational-resources-learn-watch-and-master-with-our-free-video-tutorials/"><u>1. Easy Access to CG Cookie Educational Resources: Learn, Watch & Master With Our Free Video Tutorials</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-how-to-access-and-save-hilarious-clips-from-the-worlds-most-popular-comedy-platforms/"><u>1. How to Access and Save Hilarious Clips From the World's Most Popular Comedy Platforms?</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-ultimate-guide-how-to-convert-and-save-your-favorite-pornhub-videos-as-high-quality-mp4-mov-or-avi-files/"><u>1. Ultimate Guide: How to Convert and Save Your Favorite PornHub Videos as High-Quality MP4, MOV or AVI Files</u></a></li>
-<li><a href="https://win-studio.techidaily.com/access-elite-brazilian-jiu-jitsu-training-materials-with-the-ultimate-bjj-library-downloader/"><u>Access Elite Brazilian Jiu-Jitsu Training Materials with the Ultimate BJJ Library Downloader</u></a></li>
-<li><a href="https://win-studio.techidaily.com/access-vulture-collection-online-stream-movies-tv-shows-and-music-video-clips-for-free/"><u>Access Vulture Collection Online - Stream Movies, TV Shows, and Music Video Clips for Free</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-alternatives-to-udemy-top-5-learning-platforms-you-must-check-out/"><u>Best Alternatives to Udemy: Top 5 Learning Platforms You Must Check Out</u></a></li>
-<li><a href="https://win-studio.techidaily.com/convert-and-save-pornoxo-videos-as-mp4-avi-or-mov-directly-using-our-quick-downloader-tool/"><u>Convert & Save PornoXO Videos as MP4, AVI or MOV Directly Using Our Quick Downloader Tool!</u></a></li>
-<li><a href="https://win-studio.techidaily.com/convert-and-download-youtube-videos-as-flac-format-on-macos-and-windows/"><u>Convert and Download YouTube Videos as FLAC Format on macOS & Windows</u></a></li>
-<li><a href="https://discover-community.techidaily.com/movili-gratis-convertir-archivos-orf-a-formato-jpeg-sin-problemas/"><u>Móvili Gratis - Convertir Archivos ORF a Formato JPEG Sin Problemas</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-nova-y91-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Nova Y91</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-customizing-video-space-on-facebook-platforms-for-2024/"><u>[Updated] Customizing Video Space on Facebook Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-inshot-audio-techniques-for-professional-editors-for-2024/"><u>[Updated] InShot Audio Techniques for Professional Editors for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfecting-phone-screenshots-with-snapchat/"><u>[Updated] Perfecting Phone Screenshots with Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-youtube-to-mp4-get-free-hd1080p-from-facebook-vids/"><u>[Updated] YouTube-to-MP4 Get Free HD/1080P From Facebook Vids</u></a></li>
+<li><a href="https://win-studio.techidaily.com/10-just-12-months-leftzdnet-exclusive/"><u>10 - Just 12 Months Left![ZDNet Exclusive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-secrets-the-fastest-ways-to-uncover-windows-11s-credential-manager/"><u>Accessing Secrets: The Fastest Ways to Uncover Windows 11'S Credential Manager</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exclusive-deal-alert-get-your-hands-on-a-premium-x-chair-at-an-unbelievable-200-off-this-black-friday/"><u>Exclusive Deal Alert: Get Your Hands on a Premium X-Chair at an Unbelievable $200 Off This Black Friday!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimize-your-watch-activate-av1-on-youtube-platform/"><u>In 2024, Optimize Your Watch Activate AV1 on YouTube Platform</u></a></li>
+<li><a href="https://win-studio.techidaily.com/maximizing-productivity-in-depth-analysis-of-the-keychron-q5-mechanical-keyboards-value-and-features/"><u>Maximizing Productivity: In-Depth Analysis of the Keychron Q5 Mechanical Keyboard's Value & Features</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-making-apowerpdf-your-go-to-pdf-viewer/"><u>Step-by-Step Guide: Making ApowerPDF Your Go-To PDF Viewer</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-rated-standing-desk-adapter-ideal-choice-from-zdnet/"><u>Top-Rated Standing Desk Adapter - Ideal Choice From ZDNET</u></a></li>
 </ul></div>
 

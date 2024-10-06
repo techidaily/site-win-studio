@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Productivity: In-Depth Analysis of the Keychron Q5 Mechanical Keyboard's Value & Features"
-date: 2024-09-27T20:41:53.032Z
-updated: 2024-09-30T01:50:24.083Z
+date: 2024-09-30T19:05:22.108Z
+updated: 2024-10-05T22:48:22.817Z
 tags:
   - office-furniture
 categories:
@@ -52,13 +52,6 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** recommends
 
 [The best mechanical keyboards: From mini to macros Mechanical keyboards have become one of the fastest-growing areas of gaming and PC peripherals.  Read now](https://www.zdnet.com/article/best-mechanical-keyboard/)
@@ -68,16 +61,10 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fdc8402-4415-4c4e-8c7a-91981e5ad8e0%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keyboard software
@@ -87,10 +74,10 @@ The model I tested includes the knob, and by default, the knob works to control 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switch options
@@ -110,10 +97,10 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Daily usage experiences and conclusion
@@ -121,6 +108,19 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
 
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alternatives to consider
 
@@ -162,16 +162,18 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-make-any-fb-video-pop-with-full-screen-mode/"><u>[New] How to Make Any FB Video Pop with Full-Screen Mode</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-stay-concentrated-how-to-tame-the-chatter-of-google-video-calls-for-2024/"><u>[New] Stay Concentrated How to Tame the Chatter of Google Video Calls for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unveiling-the-best-practices-in-downloading-vimeo-videos/"><u>[Updated] In 2024, Unveiling the Best Practices in Downloading Vimeo Videos</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-methods-for-transforming-gif-files-into-swf-format-both-online-and-offline/"><u>Best Methods for Transforming GIF Files Into SWF Format - Both Online and Offline</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-windows-11-youtubers-choice-the-ultimate-guide-to-video-downloaders-2024-edition/"><u>Best Windows 11 YouTuber's Choice: The Ultimate Guide to Video Downloaders - 2024 Edition</u></a></li>
-<li><a href="https://win-studio.techidaily.com/discover-3-guaranteed-methods-to-download-japanese-music-legally-at-no-cost/"><u>Discover 3 Guaranteed Methods to Download Japanese Music Legally at No Cost</u></a></li>
-<li><a href="https://win-studio.techidaily.com/easy-voice-capture-tips-for-desktop-and-laptop-users-of-windows-11/"><u>Easy Voice Capture Tips for Desktop and Laptop Users of Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lingua-franca-croatia/"><u>Lingua Franca: Croatia</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/transforming-self-doubt-into-youtube-dominance-for-2024/"><u>Transforming Self-Doubt Into YouTube Dominance for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/2024windows5/"><u>オススメの2024年用Windows音声抽出手順5つ</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-myvidhub-testing-a-quest-for-more-features/"><u>[Updated] 2024 Approved MyVidHub Testing A Quest for More Features?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-capture-youtube-video-in-screenshot-forms-for-free/"><u>[Updated] In 2024, Capture YouTube Video in Screenshot Forms for Free</u></a></li>
+<li><a href="https://win-studio.techidaily.com/best-mac-compatible-audio-editors-comprehensive-reviews-and-comparisons/"><u>Best Mac-Compatible Audio Editors: Comprehensive Reviews & Comparisons</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-ultimate-power-solution-hands-on-review-of-ampage-andes-1500/"><u>Discover the Ultimate Power Solution: Hands-On Review of Ampage Andes 1500</u></a></li>
+<li><a href="https://win-studio.techidaily.com/effortlessly-edit-images-discover-the-best-10-apps-for-object-erasure-in-photoshop-like-quality/"><u>Effortlessly Edit Images? Discover the Best 10 Apps for Object Erasure in Photoshop-Like Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enhance-privacy-and-speed-the-best-7-android-adblocks/"><u>In 2024, Enhance Privacy & Speed The Best 7 Android AdBlocks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-your-editing-mojo-back-with-this-final-cut-pro-overview/"><u>In 2024, Get Your Editing Mojo Back with This Final Cut Pro Overview</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/most-common-ios-and-android-inquiries-about-apowersoft-background-eraser-app/"><u>Most Common iOS & Android Inquiries About Apowersoft Background Eraser App</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-video-editing-essentials-for-mac-os-x-yosemite-tips-and-tricks/"><u>New In 2024, Video Editing Essentials for Mac OS X Yosemite Tips and Tricks</u></a></li>
+<li><a href="https://win-studio.techidaily.com/simple-steps-to-transfering-mp3s-onto-your-iphone/"><u>Simple Steps to Transfering MP3s Onto Your iPhone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ultimate-how-tos-successfully-posting-sound-content-on-facebook-platforms/"><u>Ultimate How-To's: Successfully Posting Sound Content on Facebook Platforms</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-winxvideos-ai-innovations-expert-qanda-insights/"><u>Unraveling WinxVideo's AI Innovations: Expert Q&A Insights</u></a></li>
 </ul></div>
 

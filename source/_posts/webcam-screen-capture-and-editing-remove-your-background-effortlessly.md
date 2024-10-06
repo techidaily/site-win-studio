@@ -1,7 +1,7 @@
 ---
 title: "Webcam Screen Capture & Editing: Remove Your Background Effortlessly"
-date: 2024-09-23T03:29:21.905Z
-updated: 2024-09-29T19:51:18.108Z
+date: 2024-10-03T17:56:06.939Z
+updated: 2024-10-05T18:52:51.175Z
 tags:
   - product
 categories:
@@ -46,16 +46,16 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Introduction 
 
  With Action! you can easily add to your video picture from webcam with automatic background removal using Chroma Key option. Follow this tutorial to learn about using Chroma Key and Alpha mask to create outstanding recordings with webcams!
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable Webcam recording
 
@@ -63,9 +63,36 @@ Action Tutorials
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings.jpg "Action! Webcam Settings") 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use Webcam Settings button to show Webcam Settings window. 
 
 ![Mirillis Action! - Select Webcam](https://mirillis.com/res/old/gfx/tutorials/chroma-key/2mirillis-action-webcam-preview-enabled.jpg "Select webcam device to be added to desktop recording") 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enable and adjust Chroma Key
 
@@ -73,23 +100,9 @@ Action Tutorials
 
 ![Mirillis Action! - Adjust webcam settings](https://mirillis.com/res/old/gfx/tutorials/chroma-key/4mirillis-action-webcam-recording-with-chroma-key.jpg "Adjust webcam settings") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Please remember to use Action! Preview mode to set your webcam size and position. 
 
 ![Mirillis Action! - Adjust webcam settings](https://mirillis.com/res/old/gfx/tutorials/chroma-key/3mirillis-action-webcam-preview.jpg "Adjust webcam size and position") 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable Alpha mask
 
@@ -98,13 +111,6 @@ Action Tutorials
  Please note that Alpha mask works only for a few specific webcam capture resolutions: 640x360, 640x480 and 1280x720\. If you have any other capture resolution set, please change it to one of above resolutions to enable Alpha mask option.
 
 ![Mirillis Action! - Gameplay recording](https://mirillis.com/res/old/gfx/tutorials/chroma-key/mirillis-action-webcam-recording-with-chroma-key-and-alpha-mask.jpg "Gameplay recording")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,18 +127,20 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-bottom-line-gear-collect-all-these-trendsetting-tools-to-win-in-business/"><u>[New] In 2024, Bottom Line Gear Collect All These Trendsetting Tools to Win in Business</u></a></li>
-<li><a href="https://win-studio.techidaily.com/10-just-12-months-leftzdnet-exclusive/"><u>10 - Just 12 Months Left![ZDNet Exclusive</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-use-of-zoom-features-on-chromebooks/"><u>2024 Approved Optimal Use of Zoom Features on ChromeBooks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/androidios-resolve-youtube-freezing/"><u>Android/iOS Resolve YouTube Freezing</u></a></li>
-<li><a href="https://win11.techidaily.com/curbing-the-catastrophe-recycle-bin-errors-in-win1011/"><u>Curbing the Catastrophe: Recycle Bin Errors in Win10/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dive-into-intrigue-with-these-13-favorite-criminal-case-podcasts/"><u>Dive Into Intrigue with These 13 Favorite Criminal Case Podcasts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/exclusive-deal-alert-get-your-hands-on-a-premium-x-chair-at-an-unbelievable-200-off-this-black-friday/"><u>Exclusive Deal Alert: Get Your Hands on a Premium X-Chair at an Unbelievable $200 Off This Black Friday!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-smooth-operations-of-amazon-luna-a-surprising-game-streamers-journey/"><u>Exploring the Smooth Operations of Amazon Luna: A Surprising Game Streamer's Journey</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-low-end-devices-high-outputs-streamline-with-obs/"><u>In 2024, Low-End Devices, High Outputs Streamline with OBS</u></a></li>
-<li><a href="https://win-studio.techidaily.com/maximizing-productivity-in-depth-analysis-of-the-keychron-q5-mechanical-keyboards-value-and-features/"><u>Maximizing Productivity: In-Depth Analysis of the Keychron Q5 Mechanical Keyboard's Value & Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-javascript-dll-file-missing-a-step-by-step-guide/"><u>Solving the 'JavaScript' DLL File Missing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-studio.techidaily.com/top-rated-standing-desk-adapter-ideal-choice-from-zdnet/"><u>Top-Rated Standing Desk Adapter - Ideal Choice From ZDNET</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-12-free-animation-apps-for-windows-and-mac/"><u>Updated In 2024, Unleash Your Creativity 12 Free Animation Apps for Windows and Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>[New] 2024 Approved Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-shutterbugs-essential-guide-for-insta-posting/"><u>[New] In 2024, Shutterbugs' Essential Guide for Insta-Posting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-skills-for-quiet-movie-production/"><u>[Updated] In 2024, Essential Skills for Quiet Movie Production</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-the-ultimate-guide-steps-to-successfully-download-hls-content/"><u>1. The Ultimate Guide: Steps to Successfully Download HLS Content</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-ultimate-no-cost-video-transcoding-tool-zero-watermarks-guaranteed/"><u>1. Ultimate No-Cost Video Transcoding Tool – Zero Watermarks Guaranteed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windowsflacwma3/"><u>簡単な手順：Windows上でFLACをWMAに変換する3つの方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoiding-scams-true-chatgpt-ios-titles/"><u>Avoiding Scams: True ChatGPT iOS Titles</u></a></li>
+<li><a href="https://win-studio.techidaily.com/best-methods-for-transforming-gif-files-into-swf-format-both-online-and-offline/"><u>Best Methods for Transforming GIF Files Into SWF Format - Both Online and Offline</u></a></li>
+<li><a href="https://win-studio.techidaily.com/best-windows-11-youtubers-choice-the-ultimate-guide-to-video-downloaders-2024-edition/"><u>Best Windows 11 YouTuber's Choice: The Ultimate Guide to Video Downloaders - 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/curing-infinite-loading-woes-in-the-elder-scrolls-v-skyrim-explained/"><u>Curing Infinite Loading Woes in The Elder Scrolls V: Skyrim Explained</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-easy-steps-to-translate-video-on-twitter/"><u>New In 2024, Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-default-organization-of-windows-files/"><u>Reinstating Default Organization of Windows Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasformare-i-file-pef-in-immagini-jpeg-online-gratuito-con-movavi/"><u>Trasformare I File PEF in Immagini JPEG Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://win-studio.techidaily.com/2024windows5/"><u>オススメの2024年用Windows音声抽出手順5つ</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1726029828259-wav/"><u>ステップバイステップでWAV音声を細切れにしてカットする方法</u></a></li>
 </ul></div>
 

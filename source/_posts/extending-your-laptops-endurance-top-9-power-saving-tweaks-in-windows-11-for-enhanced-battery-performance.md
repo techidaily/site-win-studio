@@ -1,7 +1,7 @@
 ---
 title: "Extending Your Laptop's Endurance: Top 9 Power-Saving Tweaks in Windows 11 for Enhanced Battery Performance"
-date: 2024-09-23T05:50:38.393Z
-updated: 2024-09-30T03:27:41.331Z
+date: 2024-10-04T18:00:38.570Z
+updated: 2024-10-05T17:22:33.963Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,34 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,15 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-industry-insights-top-10-handheld-hd-playback-units/"><u>[New] Industry Insights Top 10 Handheld HD Playback Units</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-green-screen-resources-download-free/"><u>2024 Approved Green Screen Resources, Download Free</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-note-30-vip-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Note 30 VIP Fingerprint Lock</u></a></li>
-<li><a href="https://win-studio.techidaily.com/download-santabanta-comedy-skits-as-mp4movavi-files-with-santabanta-downloader/"><u>Download SantaBanta Comedy Skits as MP4/MOV/AVI Files with SantaBanta Downloader</u></a></li>
-<li><a href="https://win-studio.techidaily.com/efficient-methods-for-converting-k-pop-dance-videos-into-multiple-formats-on-pc-and-mac/"><u>Efficient Methods for Converting K-Pop Dance Videos Into Multiple Formats on PC & Mac</u></a></li>
-<li><a href="https://win-studio.techidaily.com/efficient-nytimes-media-grabber-for-mac-and-pc-convert-and-download-videos-from-the-new-york-times-in-mp4-or-avi-formats/"><u>Efficient NYTimes Media Grabber for Mac & PC: Convert and Download Videos From The New York Times in MP4 or AVI Formats</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/get-your-hands-on-pirates-of-the-caribbean-full-series-safe-mp4-avi-downloads-for-windowsmacos-x/"><u>Get Your Hands On Pirates of the Caribbean Full Series: Safe MP4, AVI Downloads for Windows/MacOS X</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/telechargez-votre-video-mov-et-convertissez-la-en-format-mp4-pour-tous-systemes-mac-windows-1110-et-plus/"><u>Téléchargez Votre Vidéo MOV Et Convertissez-La En Format MP4 Pour Tous Systèmes: Mac, Windows 11/10, Et Plus</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/form-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-raw-footage-to-final-product-using-windows-10-for-editing-success-for-2024/"><u>[New] From Raw Footage to Final Product Using Windows 10 for Editing Success for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-the-leading-free-srt-translation-tools/"><u>[New] Ranking the Leading Free SRT Translation Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-showcase-your-story-premium-ig-covers-for-iphone-users-for-2024/"><u>[New] Showcase Your Story Premium IG Covers for iPhone Users for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-secrets-to-boosting-your-income-via-youtube-shorts-monetization/"><u>[Updated] The Secrets to Boosting Your Income via YouTube Shorts Monetization</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-ios-gaming-screenshots-the-ultimate-screen-capture-tool/"><u>1. IOS Gaming Screenshots: The Ultimate Screen Capture Tool</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-connections-through-collaborative-playlists-for-2024/"><u>Building Connections Through Collaborative Playlists for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-examination-of-hps-latest-creation-the-portable-marvel-zbook-firefly-15-g8/"><u>Comprehensive Examination of HP's Latest Creation: The Portable Marvel, ZBook Firefly 15 G8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descargar-la-herramienta-de-conversion-de-video-flv-a-aiff-gratuita-de-movavi-web-based/"><u>Descargar La Herramienta De Conversión De Video FLV a AIFF Gratuita De Movavi Web-Based</u></a></li>
+<li><a href="https://win-studio.techidaily.com/easy-methods-to-change-wmv-video-into-mov-on-both-windows-and-macos-systems/"><u>Easy Methods to Change WMV Video Into MOV on Both Windows & macOS Systems</u></a></li>
+<li><a href="https://win-studio.techidaily.com/htc-desire-eye-how-to-send-files-using-usb-bluetooth-and-wi-fi-methods/"><u>HTC Desire Eye: How to Send Files Using USB, Bluetooth & Wi-Fi Methods</u></a></li>
+<li><a href="https://win-studio.techidaily.com/innovative-methods-for-creating-lyric-videos-exploring-various-techniques/"><u>Innovative Methods for Creating Lyric Videos: Exploring Various Techniques</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-remote-control-use-your-iphone-to-direct-your-television/"><u>Mastering Remote Control: Use Your iPhone to Direct Your Television</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-comprehensive-strategies-to-restore-audio-in-facebook-videos-on-pcs-latest-tricks/"><u>Silence No More: Comprehensive Strategies to Restore Audio in Facebook Videos on PCs (Latest Tricks)</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-effortlessly-remove-itunes-playlists-from-iphone-devices/"><u>Step-by-Step Tutorial: Effortlessly Remove iTunes Playlists From iPhone Devices</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ultimate-diy-tutorial-creating-custom-iphone-backgrounds/"><u>Ultimate DIY Tutorial: Creating Custom iPhone Backgrounds</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ultimate-guide-best-programs-for-recording-display-on-a-microsoft-surface-pro/"><u>Ultimate Guide: Best Programs for Recording Display on a Microsoft Surface Pro</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ultimate-pdf-text-marker-effortlessly-annotate-and-emphasize-words-within-your-pdfs/"><u>Ultimate PDF Text Marker: Effortlessly Annotate and Emphasize Words Within Your PDFs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-potential-of-your-site-with-cookiebots-powerful-tools/"><u>Unlock the Potential of Your Site with Cookiebot's Powerful Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unpacking-windows-maintenance-tools/"><u>Unpacking Window's Maintenance Tools</u></a></li>
 </ul></div>
 
