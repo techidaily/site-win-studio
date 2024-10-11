@@ -1,7 +1,7 @@
 ---
 title: "Webcam Screen Capture & Editing: Remove Your Background Effortlessly"
-date: 2024-10-03T17:56:06.939Z
-updated: 2024-10-05T18:52:51.175Z
+date: 2024-10-10T08:23:14.818Z
+updated: 2024-10-11T04:20:37.119Z
 tags:
   - product
 categories:
@@ -46,16 +46,16 @@ Action Tutorials
   
  Share this tutorial:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Introduction 
 
  With Action! you can easily add to your video picture from webcam with automatic background removal using Chroma Key option. Follow this tutorial to learn about using Chroma Key and Alpha mask to create outstanding recordings with webcams!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enable Webcam recording
 
@@ -64,10 +64,10 @@ Action Tutorials
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings.jpg "Action! Webcam Settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Use Webcam Settings button to show Webcam Settings window. 
@@ -75,23 +75,10 @@ Action Tutorials
 ![Mirillis Action! - Select Webcam](https://mirillis.com/res/old/gfx/tutorials/chroma-key/2mirillis-action-webcam-preview-enabled.jpg "Select webcam device to be added to desktop recording") 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable and adjust Chroma Key
@@ -103,6 +90,19 @@ Action Tutorials
  Please remember to use Action! Preview mode to set your webcam size and position. 
 
 ![Mirillis Action! - Adjust webcam settings](https://mirillis.com/res/old/gfx/tutorials/chroma-key/3mirillis-action-webcam-preview.jpg "Adjust webcam size and position") 
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enable Alpha mask
 
@@ -127,20 +127,21 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>[New] 2024 Approved Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-shutterbugs-essential-guide-for-insta-posting/"><u>[New] In 2024, Shutterbugs' Essential Guide for Insta-Posting</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-skills-for-quiet-movie-production/"><u>[Updated] In 2024, Essential Skills for Quiet Movie Production</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-the-ultimate-guide-steps-to-successfully-download-hls-content/"><u>1. The Ultimate Guide: Steps to Successfully Download HLS Content</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-ultimate-no-cost-video-transcoding-tool-zero-watermarks-guaranteed/"><u>1. Ultimate No-Cost Video Transcoding Tool – Zero Watermarks Guaranteed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windowsflacwma3/"><u>簡単な手順：Windows上でFLACをWMAに変換する3つの方法</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoiding-scams-true-chatgpt-ios-titles/"><u>Avoiding Scams: True ChatGPT iOS Titles</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-methods-for-transforming-gif-files-into-swf-format-both-online-and-offline/"><u>Best Methods for Transforming GIF Files Into SWF Format - Both Online and Offline</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-windows-11-youtubers-choice-the-ultimate-guide-to-video-downloaders-2024-edition/"><u>Best Windows 11 YouTuber's Choice: The Ultimate Guide to Video Downloaders - 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/curing-infinite-loading-woes-in-the-elder-scrolls-v-skyrim-explained/"><u>Curing Infinite Loading Woes in The Elder Scrolls V: Skyrim Explained</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-easy-steps-to-translate-video-on-twitter/"><u>New In 2024, Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinstating-default-organization-of-windows-files/"><u>Reinstating Default Organization of Windows Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/trasformare-i-file-pef-in-immagini-jpeg-online-gratuito-con-movavi/"><u>Trasformare I File PEF in Immagini JPEG Online Gratuito Con Movavi</u></a></li>
-<li><a href="https://win-studio.techidaily.com/2024windows5/"><u>オススメの2024年用Windows音声抽出手順5つ</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1726029828259-wav/"><u>ステップバイステップでWAV音声を細切れにしてカットする方法</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[Updated] Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/complete-guide-sending-and-receiving-imessage-on-windows-platforms-tips-from-zdnet/"><u>Complete Guide: Sending & Receiving iMessage on Windows Platforms - Tips From ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/copilotplus-microsoft-vs-apple-m3-macbooks-the-ultimate-showdown-on-laptops-insights-from-zdnet/"><u>Copilot+ Microsoft Vs. Apple M3 MacBooks: The Ultimate Showdown on Laptops | Insights From ZDNet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-the-new-releases-a-detailed-look-into-microsofts-october-surface-launches-zdnet-report/"><u>Exploring the New Releases: A Detailed Look Into Microsoft's October Surface Launches | ZDNet Report</u></a></li>
+<li><a href="https://win-studio.techidaily.com/extending-your-laptops-endurance-top-9-power-saving-tweaks-in-windows-11-for-enhanced-battery-performance/"><u>Extending Your Laptop's Endurance: Top 9 Power-Saving Tweaks in Windows 11 for Enhanced Battery Performance</u></a></li>
+<li><a href="https://win-studio.techidaily.com/get-your-essential-microsoft-office-suite-on-windows-or-mac-for-just-25-exclusive-offer-inside/"><u>Get Your Essential Microsoft Office Suite on Windows or Mac for Just $25 - Exclusive Offer Inside!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-effective-is-chatgpt-in-controlling-and-automating-home-environments/"><u>How Effective Is ChatGPT in Controlling and Automating Home Environments?</u></a></li>
+<li><a href="https://win-studio.techidaily.com/inside-look-has-microsoft-entered-a-state-of-paranoia-expert-opinions-and-potential-impact-zdnet/"><u>Inside Look: Has Microsoft Entered a State of Paranoia? Expert Opinions & Potential Impact [ZDNet]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029005733-iphone/"><u>IPhoneで動画のオーディオ設定を変更 - ノイズレス視聴テクニック</u></a></li>
+<li><a href="https://win-studio.techidaily.com/microsoft-to-introduce-fees-for-windows-11-updates-from-next-year-estimated-prices-revealed-zdnet/"><u>Microsoft to Introduce Fees for Windows 11 Updates From Next Year - Estimated Prices Revealed | ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-10t-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme 10T 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/professional-guide-selecting-the-ideal-mkv-encoder-for-premium-output/"><u>Professional Guide: Selecting the Ideal MKV Encoder for Premium Output</u></a></li>
+<li><a href="https://some-skills.techidaily.com/resolving-javascript-bugs-a-step-by-step-guide-for-discord-users/"><u>Resolving JavaScript Bugs: A Step-by-Step Guide for Discord Users</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-scareware-a-comprehensive-guide-on-its-risks-to-your-digital-security/"><u>Understanding Scareware: A Comprehensive Guide on Its Risks to Your Digital Security</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-the-secrets-of-high-quality-twitch-broadcasts-for-2024/"><u>Unlocking the Secrets of High-Quality Twitch Broadcasts for 2024</u></a></li>
 </ul></div>
 
