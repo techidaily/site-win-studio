@@ -1,7 +1,7 @@
 ---
 title: "Announcement: Latest Release of EmEditor Professional v13 Beta 4 with Version 12.9.3 Enhancements - Text Editing Software"
-date: 2024-10-08T15:44:08.417Z
-updated: 2024-10-10T18:10:39.726Z
+date: 2024-10-11T16:53:06.515Z
+updated: 2024-10-17T16:34:31.244Z
 tags:
   - product
 categories:
@@ -66,25 +66,31 @@ http://www.emeditor.com/2/1n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-audio-ambiance-weaving-music-into-instagram-moments/"><u>[Updated] 2024 Approved Audio Ambiance Weaving Music Into Instagram Moments</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-stream-your-google-meet-talks-iphone-and-android/"><u>[Updated] 2024 Approved How to Stream Your Google Meet Talks IPhone & Android</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-hidden-layers-behind-facebooks-emblematic-blue-icon-in-messages/"><u>[Updated] In 2024, The Hidden Layers Behind Facebook's Emblematic Blue Icon in Messages</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-top-ranked-8-free-video-rotators-for-your-pc-offline-and-online-options/"><u>Best Top-Ranked 8 Free Video Rotators for Your PC: Offline and Online Options</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-permanently-close-gpt-account/"><u>How to Permanently Close GPT Account</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-comprehensive-tips-for-film-recording-on-multiple-platforms/"><u>In 2024, Comprehensive Tips for Film Recording on Multiple Platforms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-moto-g-5g-2023-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Moto G 5G (2023) Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-for-implementing-easy-flipbook-downloads-using-flipbuilder-technology/"><u>Step-by-Step Tutorial for Implementing Easy Flipbook Downloads Using FlipBuilder Technology</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-setting-up-autoplay-for-flipbooks-on-flipbuildercom/"><u>Step-by-Step Tutorial: Setting Up Autoplay for Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailor-made-downloads-selecting-your-perfect-4k-app-for-2024/"><u>Tailor-Made Downloads Selecting Your Perfect 4K App for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/transform-your-images-into-engaging-presentations-page-flipping-flash-slide-show-made-easy-at-flipbuildercom/"><u>Transform Your Images Into Engaging Presentations: Page-Flipping Flash Slide Show Made Easy at FlipBuilder.com</u></a></li>
-<li><a href="https://win-studio.techidaily.com/turn-pages-online-how-to-create-an-html-flipbook-for-your-site-via-flipbuilder-complete-tutorial/"><u>Turn Pages Online: How to Create an HTML Flipbook for Your Site via FlipBuilder – Complete Tutorial</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-advanced-data-collection-features-leveraging-the-robust-capabilities-of-cookiebot-technology/"><u>Unlock Advanced Data Collection Features: Leveraging the Robust Capabilities of Cookiebot Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screenplay-central-user-feedback-summary/"><u>[Updated] Screenplay Central - User Feedback Summary</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728507782482-sd/"><u>【費用ゼロ】大容量に変換: SDカードクローニングツールガイド</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-pathway-to-reinvention-step-by-step-guide-on-altering-your-tiktok-handle/"><u>2024 Approved The Pathway to Reinvention Step-by-Step Guide on Altering Your TikTok Handle</u></a></li>
+<li><a href="https://win-studio.techidaily.com/aomei-image-deployment-common-issues-and-effective-solutions/"><u>AOMEI Image Deployment: Common Issues & Effective Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-to-removing-your-entire-picture-collection-on-iphones-up-to-model-15/"><u>Complete Guide to Removing Your Entire Picture Collection on iPhones Up to Model 15</u></a></li>
+<li><a href="https://win-studio.techidaily.com/expert-guide-resolve-booting-problems-in-windows-amo-using-advanced-command-line-techniques/"><u>Expert Guide: Resolve Booting Problems in Windows Amo Using Advanced Command Line Techniques</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728510328590-gmailyahoooutlook/"><u>Gmail/Yahoo/Outlookにおける古代の電子メールファイルを復旧する方法</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-itel-p40-easily-by-drfone-android/"><u>How To Unlock a Itel P40 Easily?</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-art-of-reducing-personalized-marketing-efforts-online/"><u>Master the Art of Reducing Personalized Marketing Efforts Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shopping-smart-with-drones-what-you-need-to-think-about-first-for-2024/"><u>Shopping Smart with Drones What You Need to Think About First for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/soluciones-efectivas-garantizar-que-tu-iphone-se-muestre-en-el-explorador-de-archivos-de-windows/"><u>Soluciones Efectivas: Garantizar Que Tu iPhone Se Muestre en El Explorador De Archivos De Windows</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshoot-and-fix-reboot-to-repair-disk-problems-in-windows-11-with-these-proven-strategies/"><u>Troubleshoot and Fix Reboot-to-Repair Disk Problems in Windows 11 with These Proven Strategies</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

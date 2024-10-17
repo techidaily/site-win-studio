@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Sluggish SSD in Windows 11: Your Ultimate Step-by-Step Manual"
-date: 2024-10-07T18:45:30.999Z
-updated: 2024-10-10T19:53:51.368Z
+date: 2024-10-13T16:52:27.727Z
+updated: 2024-10-17T16:20:02.105Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682351feaa92b6a0ff146b14b9.jpg
@@ -44,20 +44,13 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -75,9 +68,23 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -103,6 +110,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -111,13 +125,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -125,13 +132,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -173,6 +173,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -181,20 +188,13 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -212,16 +212,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-apowersofts-place-in-the-screen-capture-market/"><u>[New] Apowersoft's Place in the Screen Capture Market</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-discover-the-10-cutestscariest-tiktok-filters-ever/"><u>[Updated] Discover the 10 Cutest/Scariest TikTok Filters Ever</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-5-ways-to-record-vr-gameplay/"><u>[Updated] In 2024, 5 Ways to Record VR Gameplay</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-connectivity-at-its-peak-usb-c-and-the-hp-envy-27-monitor/"><u>In 2024, Connectivity at Its Peak USB-C & the HP Envy 27 Monitor</u></a></li>
-<li><a href="https://win-studio.techidaily.com/microsoft-claims-engineers-are-enthralled-by-windows-11s-innovative-features-insights-from-zdnet/"><u>Microsoft Claims Engineers Are Enthralled by Windows 11'S Innovative Features: Insights From ZDNet</u></a></li>
-<li><a href="https://win-studio.techidaily.com/microsoft-cybersecurity-conference-focuses-on-avoiding-a-worldwide-tech-crisis-can-the-strategies-succeed/"><u>Microsoft Cybersecurity Conference Focuses on Avoiding a Worldwide Tech Crisis - Can the Strategies Succeed?</u></a></li>
-<li><a href="https://win-studio.techidaily.com/microsoft-discontinues-support-for-amazons-appstore-on-windows-11-what-you-need-to-know-zdnet/"><u>Microsoft Discontinues Support for Amazon's Appstore on Windows 11: What You Need to Know - ZDNet</u></a></li>
-<li><a href="https://win-studio.techidaily.com/preparing-for-the-future-microsoft-announces-paid-windows-11-update-feature-find-out-what-it-costs/"><u>Preparing for the Future: Microsoft Announces Paid Windows 11 Update Feature – Find Out What It Costs!</u></a></li>
-<li><a href="https://win-studio.techidaily.com/revitalize-your-aging-pc-with-5-key-methods-most-at-zero-cost-discover-how-on-the-latest-windows-11-update/"><u>Revitalize Your Aging PC with 5 Key Methods - Most at Zero Cost! Discover How on the Latest Windows 11 Update</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unlock-kinemasters-full-potential-techniques-and-10plus-superior-online-services/"><u>Unlock KineMaster's Full Potential Techniques & 10+ Superior Online Services</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-rtx-gpus-what-you-need-to-know-about-these-advanced-graphic-cards/"><u>Unveiling RTX GPUs: What You Need to Know About These Advanced Graphic Cards</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-artisans-secret-to-viral-youtube-success/"><u>[Updated] In 2024, The Artisan's Secret to Viral YouTube Success</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-guide-to-years-top-makeup-vloggers/"><u>[Updated] In 2024, The Ultimate Guide to Year's Top Makeup Vloggers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-tutorial-editing-photos-by-cutting-out-the-surround/"><u>[Updated] Ultimate Tutorial Editing Photos by Cutting Out the Surround</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-how-to-move-data-between-your-ipad-pro-air-and-mini-and-external-usb-flash-drive/"><u>1. How To Move Data Between Your iPad (Pro, Air & Mini) and External USB Flash Drive</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bluetooth-remotes-and-controllers-for-easy-shooting/"><u>2024 Approved Bluetooth Remotes and Controllers for Easy Shooting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-expertise-in-hdr-perfecting-dynamic-range-in-photoshop/"><u>2024 Approved Expertise in HDR Perfecting Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-invisible-impact-the-underestimated-toll-of-trick-likes/"><u>2024 Approved Invisible Impact The Underestimated Toll of Trick Likes</u></a></li>
+<li><a href="https://win-studio.techidaily.com/emeditor-text-editor-fixing-the-lack-of-a-64-bit-version-context-menu-on-32-bit-platform/"><u>EmEditor Text Editor: Fixing the Lack of a 64-Bit Version Context Menu on 32-Bit Platform</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-laserjet-p1006-software-here-free-downloads-available/"><u>Get Your HP LaserJet P1006 Software Here - Free Downloads Available</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-k70-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi K70 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/professionelle-tipps-zur-verschiebung-ihrer-startfestplatte-in-windows-nativ-keine-neuinstallation-erforderlich/"><u>Professionelle Tipps Zur Verschiebung Ihrer Startfestplatte in Windows Nativ – Keine Neuinstallation Erforderlich</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-to-clearing-extra-information-from-your-iphone/"><u>Step-by-Step Guide to Clearing Extra Information From Your iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-securing-computer-against-unauthorized-usb-clip-attacks/"><u>Steps for Securing Computer Against Unauthorized USB Clip Attacks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-impact-of-visual-storytelling-maximizing-roi-through-fb-ad-animation/"><u>The Impact of Visual Storytelling Maximizing ROI Through FB Ad Animation</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transforma-tu-ssd-en-un-almacenamiento-de-windows-10-sin-necesidad-de-reinstalacion-2-formas-sencillas/"><u>Transforma Tu SSD en Un Almacenamiento De Windows 10 Sin Necesidad De Reinstalación: 2 Formas Sencillas</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ultimate-walkthrough-restoring-defaults-on-an-hp-desktop-running-windows-11/"><u>Ultimate Walkthrough: Restoring Defaults on an HP Desktop Running Windows 11</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728465304085-windows-10-pc/"><u>Windows 10 PCリセット中の解決策とトラブルシューティング</u></a></li>
+<li><a href="https://win-studio.techidaily.com/windows-11-system-repair-essential-troubleshooting-steps-for-a-smooth-pc-experience/"><u>Windows 11 System Repair: Essential Troubleshooting Steps for a Smooth PC Experience</u></a></li>
+<li><a href="https://win-studio.techidaily.com/windows-11-system-reset-failure-here-are-6-proven-methods-to-fix-it/"><u>Windows 11 System Reset Failure? Here Are 6 Proven Methods to Fix It</u></a></li>
 </ul></div>
 
