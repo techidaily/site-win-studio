@@ -1,7 +1,7 @@
 ---
 title: "Announcement: Latest Release of EmEditor Professional v13 Beta 4 with Version 12.9.3 Enhancements - Text Editing Software"
-date: 2024-10-11T16:53:06.515Z
-updated: 2024-10-17T16:34:31.244Z
+date: 2024-10-16T19:52:58.906Z
+updated: 2024-10-23T05:58:45.369Z
 tags:
   - product
 categories:
@@ -66,31 +66,23 @@ http://www.emeditor.com/2/1n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-screenplay-central-user-feedback-summary/"><u>[Updated] Screenplay Central - User Feedback Summary</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728507782482-sd/"><u>【費用ゼロ】大容量に変換: SDカードクローニングツールガイド</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-pathway-to-reinvention-step-by-step-guide-on-altering-your-tiktok-handle/"><u>2024 Approved The Pathway to Reinvention Step-by-Step Guide on Altering Your TikTok Handle</u></a></li>
-<li><a href="https://win-studio.techidaily.com/aomei-image-deployment-common-issues-and-effective-solutions/"><u>AOMEI Image Deployment: Common Issues & Effective Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-to-removing-your-entire-picture-collection-on-iphones-up-to-model-15/"><u>Complete Guide to Removing Your Entire Picture Collection on iPhones Up to Model 15</u></a></li>
-<li><a href="https://win-studio.techidaily.com/expert-guide-resolve-booting-problems-in-windows-amo-using-advanced-command-line-techniques/"><u>Expert Guide: Resolve Booting Problems in Windows Amo Using Advanced Command Line Techniques</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728510328590-gmailyahoooutlook/"><u>Gmail/Yahoo/Outlookにおける古代の電子メールファイルを復旧する方法</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-itel-p40-easily-by-drfone-android/"><u>How To Unlock a Itel P40 Easily?</u></a></li>
-<li><a href="https://facebook.techidaily.com/master-the-art-of-reducing-personalized-marketing-efforts-online/"><u>Master the Art of Reducing Personalized Marketing Efforts Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/shopping-smart-with-drones-what-you-need-to-think-about-first-for-2024/"><u>Shopping Smart with Drones What You Need to Think About First for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/soluciones-efectivas-garantizar-que-tu-iphone-se-muestre-en-el-explorador-de-archivos-de-windows/"><u>Soluciones Efectivas: Garantizar Que Tu iPhone Se Muestre en El Explorador De Archivos De Windows</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshoot-and-fix-reboot-to-repair-disk-problems-in-windows-11-with-these-proven-strategies/"><u>Troubleshoot and Fix Reboot-to-Repair Disk Problems in Windows 11 with These Proven Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-framefulness-selecting-the-top-websites-and-apps-for-photoshopping/"><u>[New] Framefulness Selecting the Top Websites & Apps for Photoshopping</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-transform-your-broadcasts-5-advanced-recording-methods-web/"><u>[New] Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
+<li><a href="https://win-studio.techidaily.com/4-schnelle-tricks-um-musik-auf-ihrem-iphone-se-3-zu-ubertragen-perfekt-fur-nutzer/"><u>4 Schnelle Tricks, Um Musik Auf Ihrem iPhone SE 3 Zu Übertragen – Perfekt Für Nutzer!</u></a></li>
+<li><a href="https://games-able.techidaily.com/align-technology-the-ultimate-guide-to-controller-links/"><u>Align Technology: The Ultimate Guide to Controller Links</u></a></li>
+<li><a href="https://win-studio.techidaily.com/best-no-cost-ssd-cloning-tools-for-windows-11-top-picks-of-2024/"><u>Best No-Cost SSD Cloning Tools for Windows 11: Top Picks of 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/effortless-techniques-to-share-your-images-from-computer-to-mobile-device/"><u>Effortless Techniques to Share Your Images From Computer to Mobile Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-common-crc-based-data-corruption-problems/"><u>How to Fix Common CRC-Based Data Corruption Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-150-2023-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia 150 (2023) to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/how-to-seamlessly-resize-and-transfer-data-from-large-sd-card-to-a-compact-one-cost-free-methods/"><u>How to Seamlessly Resize and Transfer Data From Large SD Card to a Compact One: Cost-Free Methods</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastery-of-microscopic-minecraft-mapping-for-2024/"><u>Mastery of Microscopic Minecraft Mapping for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
