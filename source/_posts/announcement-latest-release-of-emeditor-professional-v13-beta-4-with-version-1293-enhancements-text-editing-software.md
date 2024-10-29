@@ -1,7 +1,7 @@
 ---
 title: "Announcement: Latest Release of EmEditor Professional v13 Beta 4 with Version 12.9.3 Enhancements - Text Editing Software"
-date: 2024-10-16T19:52:58.906Z
-updated: 2024-10-23T05:58:45.369Z
+date: 2024-10-27T23:31:34.577Z
+updated: 2024-10-28T19:40:37.624Z
 tags:
   - product
 categories:
@@ -66,23 +66,25 @@ http://www.emeditor.com/2/1n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-framefulness-selecting-the-top-websites-and-apps-for-photoshopping/"><u>[New] Framefulness Selecting the Top Websites & Apps for Photoshopping</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-transform-your-broadcasts-5-advanced-recording-methods-web/"><u>[New] Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
-<li><a href="https://win-studio.techidaily.com/4-schnelle-tricks-um-musik-auf-ihrem-iphone-se-3-zu-ubertragen-perfekt-fur-nutzer/"><u>4 Schnelle Tricks, Um Musik Auf Ihrem iPhone SE 3 Zu Übertragen – Perfekt Für Nutzer!</u></a></li>
-<li><a href="https://games-able.techidaily.com/align-technology-the-ultimate-guide-to-controller-links/"><u>Align Technology: The Ultimate Guide to Controller Links</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-no-cost-ssd-cloning-tools-for-windows-11-top-picks-of-2024/"><u>Best No-Cost SSD Cloning Tools for Windows 11: Top Picks of 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/effortless-techniques-to-share-your-images-from-computer-to-mobile-device/"><u>Effortless Techniques to Share Your Images From Computer to Mobile Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-common-crc-based-data-corruption-problems/"><u>How to Fix Common CRC-Based Data Corruption Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-150-2023-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia 150 (2023) to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-seamlessly-resize-and-transfer-data-from-large-sd-card-to-a-compact-one-cost-free-methods/"><u>How to Seamlessly Resize and Transfer Data From Large SD Card to a Compact One: Cost-Free Methods</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastery-of-microscopic-minecraft-mapping-for-2024/"><u>Mastery of Microscopic Minecraft Mapping for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-instagram-voice-transformation/"><u>[Updated] Mastering the Art of Instagram Voice Transformation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-cultivating-patience-with-youtube-disapproval/"><u>2024 Approved Cultivating Patience with YouTube Disapproval</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webcr2jpeg-movavi/"><u>無料WEBサービスでCR2フォーマットをJPEGへ変換する方法 - Movaviコンバーター</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blending-youtube-soundtracks-into-video-essence/"><u>Blending YouTube Soundtracks Into Video Essence</u></a></li>
+<li><a href="https://win-studio.techidaily.com/enable-pure-password-authentication-and-skip-security-queries-for-windows-11-accounts/"><u>Enable Pure Password Authentication and Skip Security Queries for Windows 11 Accounts</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-etape-par-etape-pour-transferer-windows-10-sur-un-autre-pc-avec-une-configuration-materielle-differente/"><u>Guide Étape Par Étape Pour Transférer Windows 10 Sur Un Autre PC Avec Une Configuration Matérielle Différente</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-se-2020-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone SE (2020)?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-grandest-picture-tweaker-suite/"><u>In 2024, Grandest Picture Tweaker Suite</u></a></li>
+<li><a href="https://win-studio.techidaily.com/solutions-for-iphone-backup-error-with-external-ssd-devices/"><u>Solutions for iPhone Backup Error with External SSD Devices</u></a></li>
+<li><a href="https://win-studio.techidaily.com/solving-the-puzzle-how-to-repair-an-external-hard-drive-with-fs-error-65535/"><u>Solving the Puzzle: How to Repair an External Hard Drive with FS Error 65535</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-rated-lexar-repair-tools-reviewed-optimal-choices-for-windows-1110-pcs/"><u>Top Rated Lexar Repair Tools Reviewed: Optimal Choices for Windows 11/10 PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-microphone-issues-expert-tips-and-solutions/"><u>Troubleshooting iPhone Microphone Issues: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-sql-server-backup-errors-top-techniques-and-secondary-options/"><u>Troubleshooting SQL Server Backup Errors: Top Techniques and Secondary Options</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
