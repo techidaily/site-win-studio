@@ -1,7 +1,7 @@
 ---
 title: "Announcement: Latest Release of EmEditor Professional v13 Beta 4 with Version 12.9.3 Enhancements - Text Editing Software"
-date: 2024-11-01T21:30:51.890Z
-updated: 2024-11-03T21:13:45.827Z
+date: 2024-11-09T16:50:17.642Z
+updated: 2024-11-12T20:44:33.997Z
 tags:
   - product
 categories:
@@ -66,32 +66,31 @@ http://www.emeditor.com/2/1n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-visionary-tiles-top-8-image-weaver/"><u>[New] 2024 Approved Visionary Tiles Top 8 Image Weaver</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>[New] Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-ingenious-approaches-to-facebook-video-ad-crafting/"><u>2024 Approved Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-blurry-photos-in-whatsapp-by-fixing-camera-zoom-errors-easily/"><u>Avoid Blurry Photos in WhatsApp by Fixing Camera Zoom Errors Easily</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-lava-blaze-2-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Lava Blaze 2 5G</u></a></li>
-<li><a href="https://win-studio.techidaily.com/crie-um-conteudo-informativo-passo-a-passo-explicando-a-maneira-de-recuperar-fotos-sem-precisar-de-software-adicional-lembre-se-de-usar-as-palavras-chave-no88/"><u>Crie Um Conteúdo Informativo, Passo-a-Passo Explicando a Maneira De Recuperar Fotos Sem Precisar De Software Adicional. Lembre-Se De Usar as Palavras-Chave Nos Textos Relevantes Para Otimizar O SEO.</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-ce-3-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord CE 3 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-easily-copy-windows-10-or-11-system-on-a-usb-drive/"><u>How to Easily Copy Windows 10 or 11 System on a USB Drive</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-huawei-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Huawei Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-g42-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia G42 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-the-apc-back-ups-pro-1500va-robust-power-reserve-numerous-connection-ports-and-hot-swappable-battery-system/"><u>Inside the APC Back-UPS Pro 1500VA - Robust Power Reserve, Numerous Connection Ports & Hot Swappable Battery System</u></a></li>
-<li><a href="https://win-studio.techidaily.com/protege-tu-informacion-con-copias-de-seguridad-rapidas-y-sencillas-de-los-archivos-de-microsoft-outlook-para-usuarios-de-windows-nx/"><u>Protege Tu Información Con Copias De Seguridad Rápidas Y Sencillas De Los Archivos De Microsoft Outlook Para Usuarios De Windows nX</u></a></li>
-<li><a href="https://win-studio.techidaily.com/understanding-your-needs-the-essential-guide-to-picking-docker-over-vms-or-vice-versa/"><u>Understanding Your Needs: The Essential Guide to Picking Docker over VMs or Vice Versa</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728467654972-windows-1110/"><u>Windows 11・10・サーバー向けに完璧なリカバリ手順：ベアメタルを極める</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cut-screen-claims-is-splitcam-supreme/"><u>[New] In 2024, Cut Screen Claims Is SplitCam Supreme?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-innovative-strategies-for-flawless-screens-in-adobe-captivity/"><u>[New] Innovative Strategies for Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-cameo-review-video-editor-and-movie-maker-for-iphone/"><u>[Updated] In 2024, Vimeo Cameo Review-Video Editor & Movie Maker for iPhone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>[Updated] Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
+<li><a href="https://win-studio.techidaily.com/aomeipluscyber-windows/"><u>高效升級：AOMEI技術師PLUS與Cyber夥伴寶石 - Windows無限電腦/伺服器適用版</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/b550-xt-innovation-seamless-speech-control-noise-reduction/"><u>B550-XT Innovation: Seamless Speech Control, Noise Reduction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war-gameplay/"><u>Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay</u></a></li>
+<li><a href="https://win-studio.techidaily.com/efficiently-remove-your-windows-8-backups-with-these-simple-auto-deletion-tips/"><u>Efficiently Remove Your Windows 8 Backups with These Simple Auto-Deletion Tips</u></a></li>
+<li><a href="https://win-studio.techidaily.com/emeditor-text-editor-with-smart-codepage-detection/"><u>EmEditor Text Editor with Smart Codepage Detection</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728496479134-error-404-unable-to-locate-the-webpage-youre-looking-for/"><u>Error 404: Unable to Locate the Webpage You're Looking For</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-stuttering-frames-and-latency-problems-in-forza-horizon-5/"><u>How to Overcome Stuttering Frames and Latency Problems in Forza Horizon 5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-m34-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-sale-alert-save-45-on-the-roborock-q7-maxplus-robot-vacuum-mower-for-crystal-clean-floors-zdnet/"><u>Memorial Day Sale Alert! Save 45% on the Roborock Q7 Max+ Robot Vacuum Mower for Crystal-Clean Floors | ZDNET</u></a></li>
+<li><a href="https://win-studio.techidaily.com/no-itunes-needed-easy-methods-for-shifting-images-from-pc-straight-to-iphone/"><u>No iTunes Needed: Easy Methods for Shifting Images From PC Straight to iPhone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/problem-mit-der-sichtbarkeit-von-versteckten-dateien-in-windows-11-suche-nach-hilfe-und-workarounds/"><u>Problem Mit Der Sichtbarkeit Von Versteckten Dateien in Windows 11: Suche Nach Hilfe Und Workarounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-integrity-of-windows-10-and-11-core-components/"><u>Step-by-Step Guide: Restoring Integrity of Windows 10 and 11 Core Components</u></a></li>
+<li><a href="https://win-studio.techidaily.com/story-3-the-shell-and-tube-heat-exchanger-assumption/"><u>Story 3: The Shell and Tube Heat Exchanger Assumption</u></a></li>
+<li><a href="https://win-studio.techidaily.com/tecniche-avanzate-per-recuperare-le-partizioni-di-sistema-perdute-su-windows-guida-completa/"><u>Tecniche Avanzate per Recuperare Le Partizioni Di Sistema Perdute Su Windows - Guida Completa</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-windows-eus-7-launch-issues-with-cmd-chkdsck-and-bootrec-solutions/"><u>Troubleshooting Windows Eus 7 Launch Issues with CMD: Chkdsck & BootRec Solutions</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
