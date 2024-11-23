@@ -1,7 +1,7 @@
 ---
 title: "Announcement: Latest Release of EmEditor Professional v13 Beta 4 with Version 12.9.3 Enhancements - Text Editing Software"
-date: 2024-11-09T16:50:17.642Z
-updated: 2024-11-12T20:44:33.997Z
+date: 2024-11-15T18:26:33.462Z
+updated: 2024-11-22T16:24:07.315Z
 tags:
   - product
 categories:
@@ -66,31 +66,23 @@ http://www.emeditor.com/2/1n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cut-screen-claims-is-splitcam-supreme/"><u>[New] In 2024, Cut Screen Claims Is SplitCam Supreme?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-innovative-strategies-for-flawless-screens-in-adobe-captivity/"><u>[New] Innovative Strategies for Flawless Screens in Adobe Captivity</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-cameo-review-video-editor-and-movie-maker-for-iphone/"><u>[Updated] In 2024, Vimeo Cameo Review-Video Editor & Movie Maker for iPhone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>[Updated] Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
-<li><a href="https://win-studio.techidaily.com/aomeipluscyber-windows/"><u>高效升級：AOMEI技術師PLUS與Cyber夥伴寶石 - Windows無限電腦/伺服器適用版</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/b550-xt-innovation-seamless-speech-control-noise-reduction/"><u>B550-XT Innovation: Seamless Speech Control, Noise Reduction</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war-gameplay/"><u>Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay</u></a></li>
-<li><a href="https://win-studio.techidaily.com/efficiently-remove-your-windows-8-backups-with-these-simple-auto-deletion-tips/"><u>Efficiently Remove Your Windows 8 Backups with These Simple Auto-Deletion Tips</u></a></li>
-<li><a href="https://win-studio.techidaily.com/emeditor-text-editor-with-smart-codepage-detection/"><u>EmEditor Text Editor with Smart Codepage Detection</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728496479134-error-404-unable-to-locate-the-webpage-youre-looking-for/"><u>Error 404: Unable to Locate the Webpage You're Looking For</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-stuttering-frames-and-latency-problems-in-forza-horizon-5/"><u>How to Overcome Stuttering Frames and Latency Problems in Forza Horizon 5</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-m34-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/memorial-day-sale-alert-save-45-on-the-roborock-q7-maxplus-robot-vacuum-mower-for-crystal-clean-floors-zdnet/"><u>Memorial Day Sale Alert! Save 45% on the Roborock Q7 Max+ Robot Vacuum Mower for Crystal-Clean Floors | ZDNET</u></a></li>
-<li><a href="https://win-studio.techidaily.com/no-itunes-needed-easy-methods-for-shifting-images-from-pc-straight-to-iphone/"><u>No iTunes Needed: Easy Methods for Shifting Images From PC Straight to iPhone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/problem-mit-der-sichtbarkeit-von-versteckten-dateien-in-windows-11-suche-nach-hilfe-und-workarounds/"><u>Problem Mit Der Sichtbarkeit Von Versteckten Dateien in Windows 11: Suche Nach Hilfe Und Workarounds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-integrity-of-windows-10-and-11-core-components/"><u>Step-by-Step Guide: Restoring Integrity of Windows 10 and 11 Core Components</u></a></li>
-<li><a href="https://win-studio.techidaily.com/story-3-the-shell-and-tube-heat-exchanger-assumption/"><u>Story 3: The Shell and Tube Heat Exchanger Assumption</u></a></li>
-<li><a href="https://win-studio.techidaily.com/tecniche-avanzate-per-recuperare-le-partizioni-di-sistema-perdute-su-windows-guida-completa/"><u>Tecniche Avanzate per Recuperare Le Partizioni Di Sistema Perdute Su Windows - Guida Completa</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-windows-eus-7-launch-issues-with-cmd-chkdsck-and-bootrec-solutions/"><u>Troubleshooting Windows Eus 7 Launch Issues with CMD: Chkdsck & BootRec Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevate-your-conversations-pro-level-whatsapp-tips/"><u>[New] Elevate Your Conversations Pro-Level WhatsApp Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-golden-screenplay-gems-that-define-genres/"><u>2024 Approved Golden Screenplay Gems That Define Genres</u></a></li>
+<li><a href="https://win-studio.techidaily.com/5aac5l2v5ase55cg5asw5o6l56gs55uy5lik55qe5pww5o2u5rai5asx77yf5oir5lus55qe5pa55qgi5lia5a6a6io95biu5yqp77yb/"><u>如何处理外接硬盘上的数据消失？我们的方案一定能帮助！</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/comment-synchroniser-efficacement-des-donnees-sur-windows-11-top-2-methodes-pratiques/"><u>Comment Synchroniser Efficacement Des Données Sur Windows 11 : Top 2 Méthodes Pratiques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-amd-graphics-card-drivers-for-blockchain-on-windows/"><u>Download & Install AMD Graphics Card Drivers for Blockchain on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-for-free-intels-centrino-n-6205-wireless-driver-software/"><u>Easy Installation Guide for Free: Intel's Centrino N 6205 Wireless Driver Software</u></a></li>
+<li><a href="https://win-studio.techidaily.com/enable-bitlocker-drive-encryption-on-your-nas-if-it-supports-hardware-encryption-to-protect-data-at-rest-from-unauthorized-access/"><u>Enable BitLocker Drive Encryption on Your NAS if It Supports Hardware Encryption, to Protect Data at Rest From Unauthorized Access.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beginners-journey-into-advanced-video-coding/"><u>In 2024, Beginner's Journey Into Advanced Video Coding</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-find-x6-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Find X6 Pro FRP Locks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-record-video-streams-with-ffmpeg-on-windows-and-mac-for-2024/"><u>New How to Record Video Streams With FFmpeg on Windows and Mac for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/resolved-issue-overcoming-dells-backup-and-restore-freezing-problem/"><u>Resolved Issue: Overcoming Dell's Backup & Restore Freezing Problem</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-fixing-an-unrecognized-nvme-ssd-in-your-computer/"><u>Step-by-Step Tutorial: Fixing an Unrecognized NVMe SSD in Your Computer</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-registry-essentials-and-optimization-using-revo-uninstaller/"><u>Windows Registry Essentials and Optimization Using Revo Uninstaller</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
