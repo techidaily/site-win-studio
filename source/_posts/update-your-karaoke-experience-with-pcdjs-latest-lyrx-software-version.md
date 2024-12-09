@@ -1,7 +1,7 @@
 ---
 title: Update Your Karaoke Experience with PCDJ's Latest LYRX Software Version!
-date: 2024-11-23T19:55:16.667Z
-updated: 2024-11-30T21:07:54.710Z
+date: 2024-12-04T09:49:48.391Z
+updated: 2024-12-09T07:38:23.082Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,21 +72,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-create-animated-facebook-ads-with-high-roi-for-2024/"><u>[Updated] How to Create Animated Facebook Ads With High ROI for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed/"><u>[Updated] In 2024, Audio Artistry in a Download Top 7 Vocal Transformation Apps Reviewed</u></a></li>
-<li><a href="https://win-studio.techidaily.com/44cm44k344kn44ki44od44kk44oz44oi44gn44gu6ieq5yuv44ov44kh44kk44or5ymk6zmk5yi25b6hic0g5a6j5ywo44gq44oh44o844k5lplusd6k235pa55rov44go5b6p5ywd5oml6acg44cn/"><u>「シェアポイントでの自動ファイル削除制御 - 安全なデータ保護方法と復元手順」</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>2024 Approved Staying Legal in the Digital Space YouTube's Copyright Guide</u></a></li>
-<li><a href="https://win-studio.techidaily.com/comment-recuperer-les-donnees-perdues-sans-photorec-decouvrez-lexcellente-alternative/"><u>Comment Récupérer Les Données Perdues Sans PhotoRec - Découvrez L'Excellente Alternative!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/creazione-semplice-e-rapida-di-un-disco-dvd-da-file-sul-tuo-pc-con-windows-107-guida-passo-dopo-passo/"><u>Creazione Semplice E Rapida Di Un Disco Dvd Da File Sul Tuo Pc Con Windows 10/7: Guida Passo Dopo Passo</u></a></li>
-<li><a href="https://driver-error.techidaily.com/decoding-and-solving-the-code-43-problem-for-your-nvidia-geforce-gtx-950-in-windows-11-environment/"><u>Decoding and Solving the 'Code 43' Problem for Your Nvidia GeForce GTX 950 in Windows 11 Environment</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-semaphore-timeout-period-error-resolution-causes-for-0x80070079/"><u>Expert Advice on 'Semaphore Timeout Period' Error Resolution, Causes for 0X80070079</u></a></li>
-<li><a href="https://win-studio.techidaily.com/fix-stuck-iphone-pics-simple-steps-to-ensure-they-transfer-to-your-ipad-smoothly/"><u>Fix Stuck iPhone Pics: Simple Steps to Ensure They Transfer to Your iPad Smoothly</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guide-complet-creez-avec-succes-votre-cle-usb-bootable-norton-ghost-sur-windows-version-1087-les-2-plus-efficaces-methodes/"><u>Guide Complet: Créez Avec Succès Votre Clé USB Bootable Norton Ghost Sur Windows (Version 10/8/7) - Les 2 Plus Efficaces Méthodes</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guide-to-retrieving-lost-files-in-windows-7-when-no-saves-exist/"><u>Guide to Retrieving Lost Files in Windows 7 When No Saves Exist</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/record-ps4-with-obs-full-guide/"><u>Record PS4 with OBS Full Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/strategy-supreme-the-top-7-battlefield-commanders-for-2024/"><u>Strategy Supreme The Top 7 Battlefield Commanders for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/which-pkg-master-makes-windows-setup-easier/"><u>Which Pkg Master Makes Window's Setup Easier?</u></a></li>
-<li><a href="https://win-studio.techidaily.com/win1110/"><u>Win11/10電腦重建分割區救助程式 - 點解構碎片化磁區</u></a></li>
-<li><a href="https://win-studio.techidaily.com/wissen-sie-wie-man-eine-festplatte-vorbereitet-lerne-die-7-wesentlichen-formateinstellungen/"><u>Wissen Sie, Wie Man Eine Festplatte Vorbereitet? Lerne Die 7 Wesentlichen Formateinstellungen!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ae-user-guide-adding-flavor-with-typefaces-for-2024/"><u>AE User Guide Adding Flavor with Typefaces for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-credibility-of-chatgpt-honesty-vs-misinformation/"><u>Exploring the Credibility of ChatGPT: Honesty vs Misinformation</u></a></li>
+<li><a href="https://win-studio.techidaily.com/fixing-non-responsive-printers-a-step-by-step-guide-by-yl-computing/"><u>Fixing Non-Responsive Printers: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ideation-innovation-mindmapping-and-chatgpt-synergy/"><u>Ideation Innovation: Mindmapping & ChatGPT Synergy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-g22-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Nokia G22 Bootloader Easily</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-paint-your-posts-brightly-instagrams-triple-highlight-strategies/"><u>In 2024, Paint Your Posts Brightly Instagram's Triple Highlight Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfected-pixel-panache-packages/"><u>In 2024, Perfected Pixel Panache Packages</u></a></li>
+<li><a href="https://win-studio.techidaily.com/is-it-wise-to-put-your-money-in-crypto-safety-guidelines-for-investors-from-yl-computings-experts-at-yl-software/"><u>Is It Wise to Put Your Money in Crypto? Safety Guidelines for Investors From YL Computing's Experts at YL Software</u></a></li>
+<li><a href="https://win-studio.techidaily.com/navigating-dj-software-without-macos-el-capitan-compatibility-exploring-pcdj-and-more/"><u>Navigating DJ Software Without macOS El Capitan Compatibility: Exploring PCDJ & More</u></a></li>
+<li><a href="https://win-studio.techidaily.com/navigating-legal-boundaries-in-crypto-transactions-with-expertise-from-yl-computing/"><u>Navigating Legal Boundaries in Crypto Transactions with Expertise From YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-downloading-windows-7-compatible-keyboard-drivers/"><u>Step-by-Step Tutorial on Downloading Windows 7 Compatible Keyboard Drivers</u></a></li>
+<li><a href="https://win-studio.techidaily.com/the-spectrum-of-digital-assets-discover-how-many-crypto-coins-you-can-find-with-yl-technology-solutions/"><u>The Spectrum of Digital Assets: Discover How Many Crypto Coins You Can Find with YL Technology Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-media-player-replacements-for-vlc-for-2024/"><u>The Ultimate Guide to Media Player Replacements for VLC for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-boot-issues-on-your-windows-pc-insights-from-yl-computing-and-software-solutions/"><u>Troubleshooting Boot Issues on Your Windows PC: Insights From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tutorial-simple-et-facile-transformer-des-videos-mp4-en-fichiers-mp3-avec-le-convertisseur-mp4-a-mp3-free/"><u>Tutorial Simple Et Facile : Transformer Des Vidéos MP4 en Fichiers MP3 Avec Le Convertisseur MP4 À MP3 Free</u></a></li>
+<li><a href="https://win-studio.techidaily.com/yl-software-presents-extending-the-life-of-your-battery-on-a-windows-10-pc-optimization-strategies-inside/"><u>YL Software Presents: Extending the Life of Your Battery on a Windows 10 PC – Optimization Strategies Inside</u></a></li>
 </ul></div>
 
