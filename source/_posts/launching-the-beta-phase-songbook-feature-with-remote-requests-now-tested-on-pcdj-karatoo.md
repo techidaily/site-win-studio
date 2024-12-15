@@ -1,7 +1,7 @@
 ---
 title: "Launching the Beta Phase: Songbook Feature with Remote Requests Now Tested on PCDJ Karatoo!"
-date: 2024-12-04T04:31:45.146Z
-updated: 2024-12-09T05:15:47.186Z
+date: 2024-12-10T00:11:03.174Z
+updated: 2024-12-15T10:55:23.635Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What is SongBookDB?_
@@ -31,7 +31,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?resize=461%2C550&ssl=1 "songbookdb")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?fit=461%2C550&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 SongbookDB is a karaoke song book app (_web-app, Android, and soon iOS_) that lets the public view and browse KJ’s songbooks on their mobile devices.
@@ -59,13 +59,13 @@ We’re in the final stages of integration now and are looking for a few beta te
 What we’re testing right now is support for PCDJ Karaoki’s TSV files (_TSV files are exported from Karaoki cases_). Export a TSV from PCDJ Karaoki, and upload to SongBook DB. As we get closer to a release, beta testers that sign up now will get a priority look at the full platform and release candidate additionally!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If you’d like to take part in the beta test, please fill out the form below and we’ll get in touch with you shortly:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,20 +87,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimagejpg.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-unleash-your-earning-potential-on-tiktok-in-just-8-steps/"><u>[New] 2024 Approved Unleash Your Earning Potential on TikTok in Just 8 Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-communicating-confidently-on-google-meet-for-2024/"><u>[Updated] Communicating Confidently on Google Meet for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-mac-basics-for-creating-attractive-first-youtube-videos/"><u>2024 Approved Mac Basics for Creating Attractive First Youtube Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/adjust-twitter-video-excerpt-for-2024/"><u>Adjust Twitter Video Excerpt for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/apex-racecraft-games-5-top-titles/"><u>Apex Racecraft Games 5 Top Titles</u></a></li>
-<li><a href="https://win-studio.techidaily.com/can-you-monitor-kids-with-windows-defenders-built-in-parental-guidance-features-insights-from-yl-computing/"><u>Can You Monitor Kids with Windows Defender's Built-In Parental Guidance Features? - Insights From YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chromatic-balance-and-visual-storytelling/"><u>Chromatic Balance and Visual Storytelling</u></a></li>
-<li><a href="https://win-studio.techidaily.com/fixing-non-responsive-printers-a-step-by-step-guide-by-yl-computing/"><u>Fixing Non-Responsive Printers: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-reinstate-working-state-of-amd-graphics-suite/"><u>Steps to Reinstate Working State of AMD Graphics Suite</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-screen-capture-minecraft-edition-tips-and-tricks-for-macs-for-2024/"><u>Streamlining Screen Capture Minecraft Edition - Tips & Tricks for Macs for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/the-spectrum-of-digital-assets-discover-how-many-crypto-coins-you-can-find-with-yl-technology-solutions/"><u>The Spectrum of Digital Assets: Discover How Many Crypto Coins You Can Find with YL Technology Solutions</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-boot-issues-on-your-windows-pc-insights-from-yl-computing-and-software-solutions/"><u>Troubleshooting Boot Issues on Your Windows PC: Insights From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unique-ps2-graphics-high-quality-advertisement-backdrops-and-desktop-scenes-by-yl-computing/"><u>Unique PS2 Graphics: High-Quality Advertisement Backdrops & Desktop Scenes by YL Computing</u></a></li>
-<li><a href="https://win-studio.techidaily.com/yl-software-presents-extending-the-life-of-your-battery-on-a-windows-10-pc-optimization-strategies-inside/"><u>YL Software Presents: Extending the Life of Your Battery on a Windows 10 PC – Optimization Strategies Inside</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-podcast-rss-feed-development/"><u>[New] Mastering Podcast RSS Feed Development</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-first-impressions-a-deep-dive-into-3d-printing-alone/"><u>[Updated] 2024 Approved First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/checking-your-scanners-hardware-compatibility-insights-and-solutions-from-yl-computing/"><u>Checking Your Scanner's Hardware Compatibility: Insights & Solutions From YL Computing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-unlocking-advanced-conversion-tracking/"><u>Cookiebot: The Key to Unlocking Advanced Conversion Tracking</u></a></li>
+<li><a href="https://win-studio.techidaily.com/cryptocurrency-breakthrough-btc-breaks-36k-barrier-achieves-record-growth-of-29-during-fomc-driven-uptober-analysis-from-yl-software/"><u>Cryptocurrency Breakthrough: BTC Breaks $36K Barrier, Achieves Record Growth of 29% During FOMC Driven 'Uptober' - Analysis From YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deepening-ties-techniques-for-meaningful-youtube-dialogue/"><u>Deepening Ties Techniques for Meaningful YouTube Dialogue</u></a></li>
+<li><a href="https://win-studio.techidaily.com/discover-excellent-utilities-for-optimizing-your-systems-performance-guided-by-yl-solutions/"><u>Discover Excellent Utilities for Optimizing Your System's Performance - Guided by YL Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-techkey-bluetooth-adapter-drivers-for-windows-pcs/"><u>Easy Installation Guide: Techkey Bluetooth Adapter Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-studio.techidaily.com/enhance-windows-11-operating-efficiency-for-your-device-with-yl-software-solutions/"><u>Enhance Windows 11 Operating Efficiency for Your Device with YL Software Solutions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/enhancing-playback-speed-in-tiktok-videos-for-2024/"><u>Enhancing Playback Speed in TikTok Videos for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/essential-strategies-for-landing-bar-and-venue-bookings-as-a-dj-a-comprehensive-guide/"><u>Essential Strategies for Landing Bar and Venue Bookings as a DJ: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-various-types-of-digital-currency-insights-by-yl-computing/"><u>Exploring Various Types of Digital Currency - Insights by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-correcting-the-file-explorers-fast-track-scrolling-issue/"><u>Mastering Windows 11: Correcting the File Explorer's Fast Track Scrolling Issue</u></a></li>
+<li><a href="https://win-studio.techidaily.com/protect-your-investment-expert-tips-on-securely-acquiring-and-holding-cryptocurrency-with-yl-software/"><u>Protect Your Investment: Expert Tips on Securely Acquiring and Holding Cryptocurrency with YL Software</u></a></li>
+<li><a href="https://win-studio.techidaily.com/recognizing-signs-of-a-faulty-sound-card-expert-insights-yl-computing/"><u>Recognizing Signs of a Faulty Sound Card: Expert Insights - YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-common-issues-on-iphones-with-these-15-tech-hacks/"><u>Solve Common Issues on iPhones with These 15 Tech Hacks</u></a></li>
+<li><a href="https://win-studio.techidaily.com/solving-graphics-card-hiccups-understanding-artifact-appearance-in-video-output-yl-digital-resolutions/"><u>Solving Graphics Card Hiccups: Understanding Artifact Appearance in Video Output – YL Digital Resolutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gaming-frontier-selecting-best-pc-titles-google-play-beta/"><u>The Gaming Frontier - Selecting Best PC Titles (Google Play Beta)</u></a></li>
+<li><a href="https://win-studio.techidaily.com/the-promising-horizon-for-cryptocurrency-a-forward-looking-analysis-by-experts-at-yl-computing-yl-software/"><u>The Promising Horizon for Cryptocurrency: A Forward-Looking Analysis by Experts at YL Computing | YL Software</u></a></li>
 </ul></div>
 
