@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Mixes with the Portable MXR19 Rackmount Controller - Ideal for Mobile Vinyl DJs From American Audio
-date: 2024-12-14T10:12:17.215Z
-updated: 2024-12-15T12:49:57.609Z
+date: 2024-12-23T01:49:57.443Z
+updated: 2024-12-24T03:02:11.524Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
@@ -49,7 +49,7 @@ Here’s a full list of features as provided by American Audio:
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
@@ -89,7 +89,7 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -111,24 +111,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-strategies-for-storing-real-time-webcam-talks/"><u>[New] In 2024, Strategies for Storing Real-Time Webcam Talks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-down-the-monetization-barriers-for-2024/"><u>[Updated] Breaking Down the Monetization Barriers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-segmentscreen-examination/"><u>2024 Approved SegmentScreen Examination</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/could-macs-lead-to-unprecedented-gaming-innovations/"><u>Could Macs Lead to Unprecedented Gaming Innovations?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/eco-editing-essentials-30plus-free-templates-for-ambitious-filmmakers-for-2024/"><u>Eco-Editing Essentials 30+ Free Templates for Ambitious Filmmakers for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/enhance-pc-speed-quickly-expert-advice-by-yl-computing-and-yl-software-experts/"><u>Enhance PC Speed Quickly! Expert Advice by YL Computing and YL Software Experts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guide-to-fix-printer-computer-connection-errors-for-effortless-printing-yls-professional-advice/"><u>Guide to Fix Printer-Computer Connection Errors for Effortless Printing – YL's Professional Advice</u></a></li>
-<li><a href="https://win-studio.techidaily.com/high-definition-audi-rs3-sportback-backgrounds-and-wallpaper-collection-compiled-by-yl-computing/"><u>High-Definition Audi RS3 Sportback Backgrounds & Wallpaper Collection - Compiled by YL Computing</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your ZTE Blade A73 5G</u></a></li>
-<li><a href="https://win-studio.techidaily.com/resolving-computer-power-unit-failures-innovative-strategies-by-yl-software-experts/"><u>Resolving Computer Power Unit Failures: Innovative Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/solving-your-pcs-screen-issues-understanding-windows-video-glitches-yl-software-guide/"><u>Solving Your PC's Screen Issues: Understanding Windows Video Glitches - YL Software Guide</u></a></li>
-<li><a href="https://win-studio.techidaily.com/stunning-emma-watson-picture-gallery-for-desktop-backgrounds-professional-quality-visuals-by-yl-technologies/"><u>Stunning Emma Watson Picture Gallery for Desktop Backgrounds - Professional Quality Visuals by YL Technologies</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-and-repairing-damaged-keyboards-with-yl-computings-comprehensive-solutions/"><u>Troubleshooting and Repairing Damaged Keyboards with YL Computing's Comprehensive Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210743255-troubleshooting-destiny-2-get-your-game-up-and-running-again/"><u>Troubleshooting Destiny 2: Get Your Game Up and Running Again</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-non-responsive-dvd-drives-expert-tips-from-yl-computing/"><u>Troubleshooting Non-Responsive DVD Drives: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-resident-evil-villages-troubled-soundscape-solutions-revealed/"><u>Troubleshooting Resident Evil Village's Troubled Soundscape: Solutions Revealed</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-scanner-connections-essential-steps-for-a-smooth-setup-yl-software-solutions/"><u>Troubleshooting Scanner Connections: Essential Steps for a Smooth Setup - YL Software Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unveiling-beats-optimal-background-music-for-vids/"><u>[New] 2024 Approved Unveiling Beats Optimal Background Music for Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-beyond-reality-reviewing-lgs-virtual-vision/"><u>[New] Step Beyond Reality Reviewing LG's Virtual Vision</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ustainable-traffic-growth-ethical-video-marketing-tips-for-2024/"><u>[New] Sustainable Traffic Growth Ethical Video Marketing Tips for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-say-it-see-it-speech-recognition-techniques-with-word/"><u>[Updated] In 2024, Say It, See It Speech Recognition Techniques with Word</u></a></li>
+<li><a href="https://win-guides.techidaily.com/robocopy/"><u>如何按时间表使用Robocopy完成有效的增量数据备份技巧</u></a></li>
+<li><a href="https://win-studio.techidaily.com/decoding-processor-types-a-comprehensive-guide-to-32-bit-vs-64-bit-systems-from-yl-software/"><u>Decoding Processor Types: A Comprehensive Guide to 32-Bit vs 64-Bit Systems From YL Software</u></a></li>
+<li><a href="https://win-studio.techidaily.com/determining-installed-ram-variants-on-your-pc-expert-tips-and-tricks-cyberninjatech-support/"><u>Determining Installed RAM Variants on Your PC: Expert Tips and Tricks – CyberNinjaTech Support</u></a></li>
+<li><a href="https://win-studio.techidaily.com/diagnosing-device-connectivity-problems-with-your-computer-solutions-and-tips-by-yl-software-team/"><u>Diagnosing Device Connectivity Problems with Your Computer – Solutions and Tips by YL Software Team</u></a></li>
+<li><a href="https://win-studio.techidaily.com/easy-methods-to-refresh-your-browser-with-updates-yl-software-solutions/"><u>Easy Methods to Refresh Your Browser with Updates - YL Software Solutions</u></a></li>
+<li><a href="https://win-studio.techidaily.com/expert-advice-on-preserving-and-retrieving-windows-registry-data-with-yl-software-solutions/"><u>Expert Advice on Preserving and Retrieving Windows Registry Data with YL Software Solutions</u></a></li>
+<li><a href="https://win-studio.techidaily.com/exploring-the-future-of-dex-mixing-software-in-2018-insights-from-a-dj-perspective/"><u>Exploring the Future of DEX 지 Mixing Software in 2018: Insights From a DJ Perspective</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-infinix-smart-7-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Smart 7 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-elite-10-sound-recording-essentials-on-spotify-platform/"><u>In 2024, Elite 10 Sound Recording Essentials on Spotify Platform</u></a></li>
+<li><a href="https://win-studio.techidaily.com/repair-scanning-device-and-correcting-images/"><u>Repair, Scanning Device, and Correcting Images.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/revenue-revolution-leveraging-the-youtube-premium-opportunity-for-2024/"><u>Revenue Revolution Leveraging the YouTube Premium Opportunity for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/reviving-your-damaged-hard-disk-essential-troubleshooting-tips-by-yl-computing/"><u>Reviving Your Damaged Hard Disk: Essential Troubleshooting Tips by YL Computing</u></a></li>
 </ul></div>
 
