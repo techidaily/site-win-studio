@@ -1,7 +1,7 @@
 ---
 title: "Experience the Latest Upgrade: The Brand-New Skin Design Tool for PCDJ's Dex 3 Released!"
-date: 2024-12-23T09:36:54.623Z
-updated: 2024-12-23T22:00:44.678Z
+date: 2024-12-26T21:05:13.212Z
+updated: 2024-12-29T18:39:50.387Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [PCDJ DEX 3 DJ Software is now available](https://tools.techidaily.com/pcdj/products/), and we’ve released a new ‘Skin Designer’ that allows you to create and map your own DEX 3 skin easily.
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 The new graphics engine included with PCDJ DEX 3 is still _“skin based”_ – that simply means you can select a different skin in options to change the entire look and feel of the DEX 3 GUI (_Graphical User Interface_). DEX 3 already comes equip with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (now with _separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Our community is always looking for new user created and submitted skins we can include on PCDJ.com for download for DEX 3 (complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer) Different DJs have different needs and requirements while mixing, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
@@ -76,13 +76,13 @@ Again, if you plan to take a shot at creating a touch screen skin, which should 
 **DOWNLOAD LINK FOR THE EXISTING DEX 3 SKINS INCLUDED WITH THE SOFTWARE (_USE EXISTING SKINS TO LEARN THE SKIN DESIGNER OR AS TEMPLATES FOR YOUR SKIN_):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **[DOWNLOAD ALL EXISTING DEX 3 SKINS HERE](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,15 +104,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/07/dex3skindesignercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-chromatic-confluence-blending-colors-with-flair/"><u>[New] Chromatic Confluence Blending Colors with Flair</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-proactive-copyright-checking-for-safe-tiktok-sharing-for-2024/"><u>[New] Proactive Copyright Checking for Safe TikTok Sharing for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-budget-friendly-cam-stream-viewer/"><u>[New] Top Budget-Friendly Cam Stream Viewer</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-six-social-media-locations-for-business-enhancement/"><u>2024 Approved Essential Six Social Media Locations for Business Enhancement</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-flip-the-script-accelerating-tiktok-video-creation/"><u>2024 Approved Flip-the-Script Accelerating TikTok Video Creation</u></a></li>
-<li><a href="https://win-studio.techidaily.com/fixing-non-responsive-printers-a-step-by-step-guide-by-yl-computing/"><u>Fixing Non-Responsive Printers: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-google-pixel-7a-easily-by-drfone-android/"><u>How To Unlock a Google Pixel 7a Easily?</u></a></li>
-<li><a href="https://win-studio.techidaily.com/the-spectrum-of-digital-assets-discover-how-many-crypto-coins-you-can-find-with-yl-technology-solutions/"><u>The Spectrum of Digital Assets: Discover How Many Crypto Coins You Can Find with YL Technology Solutions</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unique-ps2-graphics-high-quality-advertisement-backdrops-and-desktop-scenes-by-yl-computing/"><u>Unique PS2 Graphics: High-Quality Advertisement Backdrops & Desktop Scenes by YL Computing</u></a></li>
-<li><a href="https://win-studio.techidaily.com/yl-software-presents-extending-the-life-of-your-battery-on-a-windows-10-pc-optimization-strategies-inside/"><u>YL Software Presents: Extending the Life of Your Battery on a Windows 10 PC – Optimization Strategies Inside</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-vocal-variance-for-visuals-dynamic-voiceover-strategies-on-slides-for-2024/"><u>[New] Vocal Variance for Visuals Dynamic Voiceover Strategies on Slides for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-core-asmr-platforms-explored/"><u>[Updated] In 2024, Core ASMR Platforms Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unleashing-the-potential-of-4k-a-review-of-asuss-proart-pa-329q-monitor/"><u>2024 Approved Unleashing the Potential of 4K A Review of Asus's ProArt PA 329Q Monitor</u></a></li>
+<li><a href="https://win-studio.techidaily.com/comprehensive-tutorial-how-to-run-a-complete-computer-scan-with-windows-defender-by-yl-software-experts/"><u>Comprehensive Tutorial: How to Run a Complete Computer Scan with Windows Defender by YL Software Experts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/efficient-design/"><u>Efficient Design</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-role-in-creating-immersive-vr-content-for-2024/"><u>IPhone's Role in Creating Immersive VR Content for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/nanomaterials-are-being-explored-to-further-enhance-the-properties-of-concrete-including-mechanical-strength-durability-and-smart-capabilities-for-health-mo106/"><u>Nanomaterials Are Being Explored to Further Enhance the Properties of Concrete, Including Mechanical Strength, Durability, and Smart Capabilities for Health Monitoring.</u></a></li>
+<li><a href="https://win-studio.techidaily.com/resolving-issues-with-sluggish-scanning-speeds-expert-advice-from-yl-computing/"><u>Resolving Issues with Sluggish Scanning Speeds: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fixers-list-7-simple-steps-to-restore-imessage-functionality/"><u>The Ultimate Fixer's List: 7 Simple Steps to Restore iMessage Functionality</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-rated-utilities-for-boosting-your-pcs-efficiency-recommendations-by-yl-computing/"><u>Top Rated Utilities for Boosting Your PC's Efficiency: Recommendations by YL Computing</u></a></li>
+<li><a href="https://win-studio.techidaily.com/unlocking-solutions-for-persistent-windows-app-errors-with-expert-advice-from-yl-software-specialists/"><u>Unlocking Solutions for Persistent Windows App Errors with Expert Advice From YL Software Specialists</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/year-in-focus-unveiling-the-highlights-and-milestones-of-pcdjs-remarkable-201-6-adventure/"><u>Year in Focus: Unveiling the Highlights and Milestones of PCDJ's Remarkable 201 6 Adventure</u></a></li>
+<li><a href="https://win-studio.techidaily.com/yl-computings-step-by-step-instructions-for-automatic-password-storage-in-web-browsers/"><u>YL Computing's Step-by-Step Instructions for Automatic Password Storage in Web Browsers</u></a></li>
 </ul></div>
 
