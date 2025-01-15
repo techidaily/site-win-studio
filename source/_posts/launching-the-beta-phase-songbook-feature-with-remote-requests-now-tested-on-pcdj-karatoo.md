@@ -1,7 +1,7 @@
 ---
 title: "Launching the Beta Phase: Songbook Feature with Remote Requests Now Tested on PCDJ Karatoo!"
-date: 2025-01-03T19:16:53.806Z
-updated: 2025-01-09T07:05:37.977Z
+date: 2025-01-12T21:20:20.371Z
+updated: 2025-01-14T20:31:12.316Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What is SongBookDB?_
@@ -31,7 +31,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?resize=461%2C550&ssl=1 "songbookdb")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?fit=461%2C550&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 SongbookDB is a karaoke song book app (_web-app, Android, and soon iOS_) that lets the public view and browse KJ’s songbooks on their mobile devices.
@@ -59,13 +59,13 @@ We’re in the final stages of integration now and are looking for a few beta te
 What we’re testing right now is support for PCDJ Karaoki’s TSV files (_TSV files are exported from Karaoki cases_). Export a TSV from PCDJ Karaoki, and upload to SongBook DB. As we get closer to a release, beta testers that sign up now will get a priority look at the full platform and release candidate additionally!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If you’d like to take part in the beta test, please fill out the form below and we’ll get in touch with you shortly:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,19 +87,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimagejpg.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-decoding-facebook-capturing-and-keeping-status-videos/"><u>[New] Decoding Facebook Capturing and Keeping Status Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-precise-procedure-for-fusing-gopro-footage-into-comprehensive-video-spheres/"><u>[Updated] 2024 Approved Precise Procedure for Fusing GoPro Footage Into Comprehensive Video Spheres</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-your-blueprint-to-mastering-the-snapchat-boomerang-skill-for-2024/"><u>[Updated] Your Blueprint to Mastering the Snapchat Boomerang Skill for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows-11rsync/"><u>如何在Windows 11中利用rsync功能及其他备选方法 - 详解教程</u></a></li>
-<li><a href="https://win-studio.techidaily.com/approach-analyze-how-irregular-light-exposure-affects-melatonin-secretion-and-subsequent-circadian-rhythm-disruption/"><u>Approach: Analyze How Irregular Light Exposure Affects Melatonin Secretion and Subsequent Circadian Rhythm Disruption.</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guide-pratique-pour-localiser-et-recuperer-des-fichiers-disparus-sur-votre-carte-sd/"><u>Guide Pratique Pour Localiser Et Récupérer Des Fichiers Disparus Sur Votre Carte SD</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-alpha-mic-not-working-heres-how-to-restore-functionality/"><u>HyperX Cloud Alpha Mic Not Working? Here's How to Restore Functionality!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y28-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y28 5G Phone without Google Account?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-through-error-code-80240020-a-comprehensive-solution-for-windows-11-users/"><u>Navigating Through Error Code 80240020: A Comprehensive Solution for Windows 11 Users</u></a></li>
-<li><a href="https://win-studio.techidaily.com/recover-deleted-documents-for-free-on-windows-reliable-easy-to-use-data-recovery-software-at-no-cost/"><u>Recover Deleted Documents for Free on Windows - Reliable, Easy-to-Use Data Recovery Software at No Cost!</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-image-editor-repertoire-for-text-addition/"><u>The Ultimate Image Editor Repertoire for Text Addition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/wie-man-windows-881-von-einer-hdd-auf-ein-ssd-ubertragt-schritt-fur-schritt-anleitung/"><u>Wie Man Windows 8/8.1 Von Einer HDD Auf Ein SSD Überträgt - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-studio.techidaily.com/sozdanie-vosstanovlennogo-diska-v-windows-1011-reshenie-problemy/"><u>Создание Восстановленного Диска В Windows 10/11 - Решение Проблемы</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-trave/"><u>[Updated] How To Record a Podcast on iPhone or iPad (Best for Interviews & Trave</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-best-way-to-use-obs-live-stream-to-facebook-for-2024/"><u>[Updated] The Best Way to Use OBS Live Stream to Facebook for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ssddiskpart/"><u>効率的SSD管理：DiskPartによる全面クリーンアップ方法</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/complete-step-by-step-tutorial-on-transferring-your-iphone-data-from-itunes-to-an-exterior-hdd-in-202n/"><u>Complete Step-by-Step Tutorial on Transferring Your iPhone Data From iTunes to an Exterior HDD in 202N</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210755284-9791028523985-creer-une-alliance-avec-vos-animaux-totem/"><u>Créer une alliance avec vos animaux totem | Free Book</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cut-costs-increase-impact-strategic-fb-posting/"><u>Cut Costs, Increase Impact Strategic FB Posting</u></a></li>
+<li><a href="https://win-studio.techidaily.com/effizientes-transferen-von-dokumenten-vom-pc-zu-ihrem-ipad-mit-airdrop-and-fonebackup-profi-tipps/"><u>Effizientes Transferen Von Dokumenten Vom PC Zu Ihrem iPad Mit AirDrop & FoneBackup - Profi-Tipps!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/effortless-techniques-to-share-your-images-from-computer-to-mobile-device/"><u>Effortless Techniques to Share Your Images From Computer to Mobile Device</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fix-your-broken-mpeg-files-ultimate-guide-to-using-an-mpeg-video-restoration-software/"><u>Fix Your Broken MPEG Files: Ultimate Guide to Using an MPEG Video Restoration Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-vs-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic Vs 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/how-to-seamlessly-resize-and-transfer-data-from-large-sd-card-to-a-compact-one-cost-free-methods/"><u>How to Seamlessly Resize and Transfer Data From Large SD Card to a Compact One: Cost-Free Methods</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-data-retrieval-on-a-failed-hdd-with-command-prompt-techniques/"><u>Mastering Data Retrieval on a Failed HDD with Command Prompt Techniques</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ps3-storage-transformation-how-to-clone-and-upgrade-to-an-ssd-for-enhanced-performance/"><u>PS3 Storage Transformation: How to Clone and Upgrade to an SSD for Enhanced Performance</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-a-sluggish-ssd-in-windows-11-your-ultimate-step-by-step-manual/"><u>Troubleshooting a Sluggish SSD in Windows 11: Your Ultimate Step-by-Step Manual</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-strategies-for-file-recovery-on-windows-10-via-network-drives/"><u>Ultimate Strategies for File Recovery on Windows 10 via Network Drives</u></a></li>
 </ul></div>
 
