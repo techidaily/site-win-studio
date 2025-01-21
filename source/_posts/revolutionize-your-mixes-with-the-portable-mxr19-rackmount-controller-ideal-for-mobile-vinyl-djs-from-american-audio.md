@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Mixes with the Portable MXR19 Rackmount Controller - Ideal for Mobile Vinyl DJs From American Audio
-date: 2025-01-10T23:47:53.117Z
-updated: 2025-01-15T05:58:57.797Z
+date: 2025-01-20T00:43:09.122Z
+updated: 2025-01-21T07:41:08.170Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
@@ -49,7 +49,7 @@ Here’s a full list of features as provided by American Audio:
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
@@ -89,7 +89,7 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -111,22 +111,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fcps-ultimate-effect-upgrade-the-best-10-plugins/"><u>[New] FCP’s Ultimate Effect Upgrade The Best 10 Plugins</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-examining-the-efficacy-of-toolwiz-for-image-enhancement/"><u>[Updated] Examining the Efficacy of Toolwiz for Image Enhancement</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows-pc/"><u>重新获取被删除程序：三种有效的方法适用于 Windows PC</u></a></li>
-<li><a href="https://win-studio.techidaily.com/beenden-sie-das-boot-loop-problem-mit-windows-11-schnelle-und-effektive-tipps/"><u>Beenden Sie Das Boot-Loop-Problem Mit Windows 11 - Schnelle Und Effektive Tipps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/bridging-communication-gaps-effective-use-of-slack-and-filmora-for-2024/"><u>Bridging Communication Gaps Effective Use of Slack and Filmora for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/comment-reparer-larchivage-de-microsoft-outlook-les-cinq-methodes-incontournables/"><u>Comment Reparer L'Archivage De Microsoft Outlook : Les Cinq Méthodes Incontournables</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guide-to-handling-emeditors-outputbar-message-replies-and-requests/"><u>Guide to Handling EmEditor's OutputBar Message Replies & Requests</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F34 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/mx500-boot-probleme-gelost-erfolglose-kladdeinitiierung-nach-klonung/"><u>MX500 Boot-Probleme Gelöst? Erfolglose Kladdeinitiierung Nach Klonung</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-turning-the-tables-on-sound-innovations-in-audio-reversal-technology/"><u>New In 2024, Turning the Tables on Sound Innovations in Audio Reversal Technology</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-guide-retrieving-lost-selfie-images-on-windows-pcs-and-iphones/"><u>Step-by-Step Guide: Retrieving Lost Selfie Images on Windows PCs and iPhones</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-proactive-approach-to-guesting-in-livestreams-on-tiktok-for-2024/"><u>The Proactive Approach to Guesting in Livestreams on TikTok for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-stock-photo-memes-and-realities-for-2024/"><u>The Ultimate Guide to Stock Photo Memes & Realities for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-iphones-silent-messages-discover-15-effective-strategies/"><u>Ultimate Guide: Resolving iPhone's Silent Messages - Discover 15 Effective Strategies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/utilizing-no-cost-countdown-efficient-time-management/"><u>Utilizing No-Cost Countdown Efficient Time Management</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728488722184-windows-11/"><u>Windows 11 成功驅動安全引擎，只是沒完成初始化</u></a></li>
-<li><a href="https://win-studio.techidaily.com/iuodjeodgplusodioodlplusodqeodgplusodioodleocqeodvoodooobqplusobiuobkeocipluss4goiiroeahoobquwvjplusmhjdrjgqljgqjgrvjgrnjgzfjgojjgybjgajjgznjgovjg5rjg7zjgrj119/"><u>ネットプラットフォームにおける一般的な問題:アクセスしようとするページが見つからず - 理由と修正方法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-backswing-crafting-bundle/"><u>[Updated] In 2024, Backswing Crafting Bundle</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-busting-the-top-10-vloggers-fears-strategies-for-success/"><u>2024 Approved Busting the Top 10 Vloggers' Fears Strategies for Success</u></a></li>
+<li><a href="https://win-studio.techidaily.com/5aac5l2v5ase55cg5asw5o6l56gs55uy5lik55qe5pww5o2u5rai5asx77yf5oir5lus55qe5pa55qgi5lia5a6a6io95biu5yqp77yb/"><u>如何处理外接硬盘上的数据消失？我们的方案一定能帮助！</u></a></li>
+<li><a href="https://win-studio.techidaily.com/comment-synchroniser-efficacement-des-donnees-sur-windows-11-top-2-methodes-pratiques/"><u>Comment Synchroniser Efficacement Des Données Sur Windows 11 : Top 2 Méthodes Pratiques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unleash-creative-potential-with-green-screen-tips/"><u>In 2024, Unleash Creative Potential with Green Screen Tips</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-windows-11-updates-a-guide-to-the-top-3-solutions/"><u>Mastering Windows 11 Updates: A Guide to the Top 3 Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix-for-2024/"><u>Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-the-zoom-client-on-windows-and-macos/"><u>Step-by-Step Guide: Updating the Zoom Client on Windows and macOS</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-fixing-an-unrecognized-nvme-ssd-in-your-computer/"><u>Step-by-Step Tutorial: Fixing an Unrecognized NVMe SSD in Your Computer</u></a></li>
 </ul></div>
 
