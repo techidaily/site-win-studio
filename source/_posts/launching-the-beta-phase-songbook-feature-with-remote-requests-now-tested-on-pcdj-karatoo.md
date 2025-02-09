@@ -1,7 +1,7 @@
 ---
 title: "Launching the Beta Phase: Songbook Feature with Remote Requests Now Tested on PCDJ Karatoo!"
-date: 2025-01-24T23:27:36.513Z
-updated: 2025-01-26T21:08:00.158Z
+date: 2025-02-04T21:08:03.281Z
+updated: 2025-02-09T00:25:19.607Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What is SongBookDB?_
@@ -31,7 +31,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?resize=461%2C550&ssl=1 "songbookdb")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?fit=461%2C550&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 SongbookDB is a karaoke song book app (_web-app, Android, and soon iOS_) that lets the public view and browse KJ’s songbooks on their mobile devices.
@@ -59,13 +59,13 @@ We’re in the final stages of integration now and are looking for a few beta te
 What we’re testing right now is support for PCDJ Karaoki’s TSV files (_TSV files are exported from Karaoki cases_). Export a TSV from PCDJ Karaoki, and upload to SongBook DB. As we get closer to a release, beta testers that sign up now will get a priority look at the full platform and release candidate additionally!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If you’d like to take part in the beta test, please fill out the form below and we’ll get in touch with you shortly:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,18 +87,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimagejpg.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-crafting-perfect-instagram-story-cover-pages-for-2024/"><u>[New] Crafting Perfect Instagram Story Cover Pages for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-camera-roll-to-feed-adding-photos-on-instagram/"><u>[New] From Camera Roll to Feed Adding Photos on Instagram</u></a></li>
-<li><a href="https://win-studio.techidaily.com/pc3ds-sd/"><u>初期設定: PC環境における3DS SDメモリの正しいフォーマット方法を解説</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-4-no-sound-issue-fixes-for-windows-users-expert-tips-and-tricks/"><u>Fallout ^4 No Sound Issue Fixes for Windows Users: Expert Tips and Tricks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-mysterious-speaker-problems-for-a-seamless-sound-experience-with-windows-11/"><u>Guide to Fixing Mysterious Speaker Problems for a Seamless Sound Experience with Windows 11</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-upload-a-local-folder-to-onedrive-using-windows-11-quick-and-straightforward-techniques/"><u>How to Upload a Local Folder to OneDrive Using Windows 11 - Quick and Straightforward Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209961575-9789389253153-mind-your-mind/"><u>Mind Your Mind | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retrace-your-files-accessing-windows-11s-historical-data/"><u>Retrace Your Files: Accessing Windows 11'S Historical Data</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-guide-recovering-lost-photos-from-arw-image-files/"><u>Step-by-Step Guide: Recovering Lost Photos From ARW Image Files</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unprocessed-orders-in-regnow-a-guide-with-emeditor-text-editor/"><u>Unprocessed Orders in RegNow: A Guide with EmEditor Text Editor</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows-11-startup-issues-resolved-on-clonelyzee-cloned-hard-drive/"><u>Windows 11 Startup Issues Resolved on Clonelyzee-Cloned Hard Drive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-elite-sound-recording-tools-11-selection/"><u>[New] 2024 Approved Elite Sound Recording Tools - #11 Selection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-movies-the-best-18-4k-recorder-list/"><u>[New] 2024 Approved Mastering Movies The Best 18 4K Recorder List</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-tiktok-bios-adding-linktree-seamlessly/"><u>[New] Mastering TikTok Bios Adding Linktree Seamlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sharp-cinematic-edge-choosing-the-phone-that-offers-unmatched-video-ois/"><u>2024 Approved Sharp Cinematic Edge Choosing the Phone that Offers Unmatched Video OIS</u></a></li>
+<li><a href="https://win-studio.techidaily.com/3-ssd-860/"><u>專業人士選用的3 種三星SSD 860系列雲端複製工具</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/adapting-to-unusual-video-compression-tech/"><u>Adapting to Unusual Video Compression Tech</u></a></li>
+<li><a href="https://win-studio.techidaily.com/easy-steps-para-clonar-un-disco-duro-en-windows-7/"><u>Easy Steps Para Clonar Un Disco Duro en Windows 7</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guida-completa-per-fare-il-backup-dei-tuoi-contatti-gmail-con-i-metodi-piu-ottimali/"><u>Guida Completa per Fare Il Backup Dei Tuoi Contatti Gmail Con I Metodi Più Ottimali</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-complet-au-recuperation-a-une-cle-de-lenovo-sous-windows-11-avec-options-alternatifs/"><u>Guide Complet Au Récupération À Une Clé De Lenovo Sous Windows 11 Avec Options Alternatifs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-overcoming-handheld-videography-instability-on-gopro/"><u>In 2024, Overcoming Handheld Videography Instability on GoPro</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-connecting-to-websites-on-win-10/"><u>Quick Guide: Connecting to Websites on Win 10</u></a></li>
+<li><a href="https://win-studio.techidaily.com/solve-your-windows-11s-missing-nvme-detection-issues-with-these-effective-methods/"><u>Solve Your Windows 11'S Missing NVMe Detection Issues with These Effective Methods!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/tiga-langkah-mendewasikan-file-komprimasi-pada-os-windows-versi-11-10-8-atau/"><u>Tiga Langkah Mendewasikan File Komprimasi Pada OS Windows Versi 11, 10, 8, Atau</u></a></li>
 </ul></div>
 

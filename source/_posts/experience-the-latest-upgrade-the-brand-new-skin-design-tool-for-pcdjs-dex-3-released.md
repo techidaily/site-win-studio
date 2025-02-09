@@ -1,7 +1,7 @@
 ---
 title: "Experience the Latest Upgrade: The Brand-New Skin Design Tool for PCDJ's Dex 3 Released!"
-date: 2025-01-24T20:34:02.727Z
-updated: 2025-01-26T18:55:21.394Z
+date: 2025-02-06T02:13:40.224Z
+updated: 2025-02-08T17:48:31.303Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [PCDJ DEX 3 DJ Software is now available](https://tools.techidaily.com/pcdj/products/), and we’ve released a new ‘Skin Designer’ that allows you to create and map your own DEX 3 skin easily.
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 The new graphics engine included with PCDJ DEX 3 is still _“skin based”_ – that simply means you can select a different skin in options to change the entire look and feel of the DEX 3 GUI (_Graphical User Interface_). DEX 3 already comes equip with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (now with _separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Our community is always looking for new user created and submitted skins we can include on PCDJ.com for download for DEX 3 (complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer) Different DJs have different needs and requirements while mixing, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
@@ -76,13 +76,13 @@ Again, if you plan to take a shot at creating a touch screen skin, which should 
 **DOWNLOAD LINK FOR THE EXISTING DEX 3 SKINS INCLUDED WITH THE SOFTWARE (_USE EXISTING SKINS TO LEARN THE SKIN DESIGNER OR AS TEMPLATES FOR YOUR SKIN_):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **[DOWNLOAD ALL EXISTING DEX 3 SKINS HERE](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,24 +104,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/07/dex3skindesignercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-journey-from-photographic-moments-to-sequential-videos/"><u>[Updated] Journey From Photographic Moments to Sequential Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-voice-recording-essentials-the-filmmakers-key-to-excellence/"><u>[Updated] Voice Recording Essentials The Filmmaker's Key to Excellence</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-easy-way-with-massmail-app-harvesting-contact-details-en-masse-from-digital-files/"><u>Discover the Easy Way with MassMail App: Harvesting Contact Details En Masse From Digital Files</u></a></li>
-<li><a href="https://win-studio.techidaily.com/foxconn-founder-terry-gous-independent-bid-for-taiwan-presidency-raises-stakes-threatens-kmt-cohesion-and-boosts-dpp-nominee/"><u>Foxconn Founder Terry Gou's Independent Bid for Taiwan Presidency Raises Stakes, Threatens KMT Cohesion and Boosts DPP Nominee</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-fix-a-non-responsive-motherboard-expert-advice-from-yl-computing/"><u>How to Fix a Non-Responsive Motherboard: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hp-15-laptop-review-assessing-the-capabilities-of-an-economical-amd-powered-device/"><u>HP 15 Laptop Review: Assessing the Capabilities of an Economical AMD Powered Device</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-zero-30-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Zero 30 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-most-watched-wonders-the-ultimate-guide/"><u>In 2024, YouTube’s Most-Watched Wonders The Ultimate Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-maximize-video-clarity-expert-recommended-enhancement-tools/"><u>New In 2024, Maximize Video Clarity Expert-Recommended Enhancement Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-persistent-windows-update-error-code-0x802n4401c-on-windows-10-and-11/"><u>Resolving the Persistent Windows Update Error Code 0X802n4401C on Windows 10 & 11</u></a></li>
-<li><a href="https://win-studio.techidaily.com/sleek-photographic-hd-wallscapes-collection-elegant-backgrounds-from-yl-digital-creations/"><u>Sleek Photographic HD Wallscapes Collection - Elegant Backgrounds From YL Digital Creations</u></a></li>
-<li><a href="https://win-studio.techidaily.com/slow-down-your-cursor-understanding-the-reasons-behind-lagging-pointers-tips-from-yl-computing/"><u>Slow Down Your Cursor: Understanding the Reasons Behind Lagging Pointers - Tips From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/the-advantages-of-sudo-for-windows-enthusiasts/"><u>The Advantages of Sudo for Windows Enthusiasts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138569257-9781440139246-the-root-of-all-healing/"><u>The Root of All Healing | Free Book</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-scanner-hardware-failures-comprehensive-guide-by-yl-software-experts/"><u>Troubleshooting Scanner Hardware Failures: Comprehensive Guide by YL Software Experts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-unplanned-pc-restarts-expert-advice-from-yl-computing/"><u>Troubleshooting Unplanned PC Restarts: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unveiling-the-impact-of-the-qing-empire-a-deep-dive-into-chinas-historical-journey-yl-computing/"><u>Unveiling the Impact of the Qing Empire: A Deep Dive Into China's Historical Journey - YL Computing</u></a></li>
-<li><a href="https://win-studio.techidaily.com/yl-computing-reveals-strategies-for-successfully-debugging-your-programs/"><u>YL Computing Reveals Strategies for Successfully Debugging Your Programs</u></a></li>
-<li><a href="https://win-studio.techidaily.com/yl-software-unveiled-mastering-the-art-of-cryptocurrency-wealth-growth/"><u>YL Software Unveiled: Mastering the Art of Cryptocurrency Wealth Growth</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-getting-prepared-for-macos-11-big-sur-upgrade/"><u>[New] In 2024, Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-streamline-editing-with-these-10-leading-software-tools/"><u>[New] In 2024, Streamline Editing with These 10 Leading Software Tools</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-premium-karaoke-platform-update-access-the-latest-karaoki-beta-edition-free-download-now/"><u>1. Premium Karaoke Platform Update: Access the Latest Karaoki Beta Edition - Free Download Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-create-gripping-documentary-scenes/"><u>2024 Approved Strategies to Create Gripping Documentary Scenes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-film-capture-in-your-pocket-top-ois-enabled-devices/"><u>In 2024, Expert Film Capture in Your Pocket Top OIS-Enabled Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ht-into-t-series-profit-from-youtube-platforms/"><u>Insight Into T-Series Profit From YouTube Platforms</u></a></li>
+<li><a href="https://win-studio.techidaily.com/prevent-spontaneous-pc-turnoffs-with-proven-strategies-by-yl-computing-experts/"><u>Prevent Spontaneous PC Turnoffs with Proven Strategies by YL Computing Experts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-method-straighten-monitor-geometry/"><u>Quick Method: Straighten Monitor Geometry</u></a></li>
+<li><a href="https://win-studio.techidaily.com/registry-repair-solutions-resolving-issues-with-your-systems-registry-expert-advice-from-yl-computing/"><u>Registry Repair Solutions: Resolving Issues with Your System's Registry - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-studio.techidaily.com/securing-your-system-proven-techniques-against-viruses-and-malware-with-insights-from-yl-software-experts/"><u>Securing Your System: Proven Techniques Against Viruses & Malware with Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-studio.techidaily.com/stunning-2pac-wallpaper-collection-hd-pictures-images-and-more-to-enhance-your-screens-yl-creative-hub/"><u>Stunning 2Pac Wallpaper Collection: HD Pictures, Images & More to Enhance Your Screens - YL Creative Hub</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-prevent-adobe-premiere-pro-from-crashing-on-latest-windows-versions/"><u>Troubleshooting Guide: Prevent Adobe Premiere Pro From Crashing on Latest Windows Versions</u></a></li>
+<li><a href="https://win-studio.techidaily.com/understanding-disk-read-errors-unveiling-the-root-causes-expert-advice-from-yl-computing/"><u>Understanding Disk Read Errors: Unveiling the Root Causes - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-insight-evaluating-wp-engine-as-a-superior-managed-hosting-service-for-wordpress-sites/"><u>ZDNet Insight: Evaluating WP Engine as a Superior Managed Hosting Service for WordPress Sites</u></a></li>
 </ul></div>
 

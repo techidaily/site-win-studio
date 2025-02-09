@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Mixes with the Portable MXR19 Rackmount Controller - Ideal for Mobile Vinyl DJs From American Audio
-date: 2025-01-20T00:52:45.634Z
-updated: 2025-01-26T23:42:21.508Z
+date: 2025-02-04T20:48:14.180Z
+updated: 2025-02-09T06:38:45.846Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
@@ -49,7 +49,7 @@ Here’s a full list of features as provided by American Audio:
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
@@ -89,7 +89,7 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -111,22 +111,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-ultimate-social-media-analysis-manual-for-decoding-ig-engagement-and-more/"><u>[New] 2024 Approved Ultimate Social Media Analysis Manual for Decoding IG Engagement and More</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-breaking-ground-video-capture-breakdown/"><u>[New] In 2024, Breaking Ground Video Capture Breakdown</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-filmora-for-windows-10-and-other-top-video-editors-recommendation/"><u>[Updated] Filmora for Windows 10 and Other Top Video Editors Recommendation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-list-of-leading-real-time-tv-streamers-compared-for-2024/"><u>[Updated] Ultimate List of Leading Real-Time TV Streamers Compared for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1728499187866-hdd/"><u>一発でセットアップ！: 新規ファイルのみを保存する外付けHDDの効率的なバックアップ手順</u></a></li>
-<li><a href="https://win-studio.techidaily.com/creating-custom-iphone-ringtones-without-using-garageband-or-itunes/"><u>Creating Custom iPhone Ringtones without Using GarageBand or iTunes</u></a></li>
-<li><a href="https://win-studio.techidaily.com/how-to-retrieve-deleted-pictures-from-the-web-three-effective-techniques-explained/"><u>How to Retrieve Deleted Pictures From the Web: Three Effective Techniques Explained</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-gaming-made-easy-3-simple-video-game-recording-options/"><u>In 2024, Gaming Made Easy 3 Simple Video Game Recording Options</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/latest-version-notes-on-aomei-backupper-detailed-release-history-insights/"><u>Latest Version Notes on AOMEI Backupper: Detailed Release History Insights</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-updated-the-top-10-free-and-paid-2d-animation-software-you-need-to-know-for-2024/"><u>New Updated The Top 10 Free and Paid 2D Animation Software You Need to Know for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/protect-and-transfer-efficient-methods-for-windows-11-system-backup-onto-external-storage-devices/"><u>Protect and Transfer: Efficient Methods for Windows 11 System Backup Onto External Storage Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-unresponsive-or-slow-windows-download-directory/"><u>Remedying Unresponsive or Slow Windows Download Directory</u></a></li>
-<li><a href="https://fox-access.techidaily.com/sculpting-memorable-moments-in-your-shows-start-for-2024/"><u>Sculpting Memorable Moments in Your Show's Start for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/solution-rapide-pour-resoudre-les-problemes-de-fonctionnement-sous-windows-11/"><u>Solution Rapide Pour Résoudre Les Problèmes De Fonctionnement Sous Windows 11</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-guide-securing-your-data-with-file-encryption-on-windows-server/"><u>Step-by-Step Guide: Securing Your Data with File Encryption on Windows Server</u></a></li>
-<li><a href="https://win-studio.techidaily.com/troubleshooting-and-fixing-the-error-code-0xc0000005-during-windows-11-installation/"><u>Troubleshooting and Fixing the Error Code 0xC0000005 During Windows 11 Installation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ajay-the-creative-content-creators-profitable-venture-on-youtube-for-2024/"><u>[Updated] AJay The Creative Content Creator's Profitable Venture on YouTube for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/44cm6ygl55so5pya5paw5oqa6kgt5b6e56gs56kf5lit5ogi5b6p5lif5asx6loh5paz55qe5oyh5y2x44cn/"><u>「運用最新技術從硬碟中恢復丟失資料的指南」</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-probleme-de-visualisation-avec-le-wd-my-passport-solutions-rapides-et-efficaces/"><u>1. Problème De Visualisation Avec Le WD My Passport : Solutions Rapides Et Efficaces</u></a></li>
+<li><a href="https://win-studio.techidaily.com/easy-steps-to-implementing-auto-backup-for-pcs-running-windows-operating-systems-windows-111087/"><u>Easy Steps to Implementing Auto Backup for PCs Running Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://win-studio.techidaily.com/efficacite-comparee-des-techniques-de-transfert-de-donnes-entre-disques-dur/"><u>Efficacité Comparée Des Techniques De Transfert De Donnés Entre Disques Dur</u></a></li>
+<li><a href="https://fox-links.techidaily.com/experts-recommendations-for-image-watermarking-for-2024/"><u>Expert's Recommendations for Image Watermarking for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/fixing-non-responsive-printers-a-step-by-step-guide-by-yl-computing/"><u>Fixing Non-Responsive Printers: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-14-pro-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-lava-yuva-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Lava Yuva 3</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-issue-on-a-paired-bluetooth-gadget-here-are-the-solutions/"><u>No Sound Issue on a Paired Bluetooth Gadget? Here Are the Solutions.</u></a></li>
+<li><a href="https://win-studio.techidaily.com/reviving-lost-memories-the-ultimate-guide-to-retrieving-data-from-your-cameras-memory-card/"><u>Reviving Lost Memories: The Ultimate Guide to Retrieving Data From Your Camera's Memory Card</u></a></li>
+<li><a href="https://win-studio.techidaily.com/the-spectrum-of-digital-assets-discover-how-many-crypto-coins-you-can-find-with-yl-technology-solutions/"><u>The Spectrum of Digital Assets: Discover How Many Crypto Coins You Can Find with YL Technology Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-a-free-chatgpt-clone-a-step-by-step-guide-for-windows-users/"><u>Unleashing a Free ChatGPT Clone: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-cutest-and-scariest-best-sites-to-download-horrific-soundscapes/"><u>Updated 2024 Approved The Cutest and Scariest Best Sites to Download Horrific Soundscapes</u></a></li>
 </ul></div>
 

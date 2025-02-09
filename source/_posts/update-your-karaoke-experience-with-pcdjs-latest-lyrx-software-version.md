@@ -1,7 +1,7 @@
 ---
 title: Update Your Karaoke Experience with PCDJ's Latest LYRX Software Version!
-date: 2025-01-21T21:08:20.175Z
-updated: 2025-01-26T23:52:04.850Z
+date: 2025-02-02T20:04:20.709Z
+updated: 2025-02-08T23:56:57.737Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,17 +72,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-step-by-step-guide-to-adding-subtitles-in-wmp-for-2024/"><u>[Updated] Step-by-Step Guide to Adding Subtitles in WMP for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/defend-your-pc-against-sluggishness-due-to-viruses-and-malware-with-effective-strategies-guidance-from-yl-software/"><u>Defend Your PC Against Sluggishness Due to Viruses and Malware with Effective Strategies – Guidance From YL Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-discovering-the-power-behind-youtube-statistics-interpretation/"><u>In 2024, Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-signal-of-a-block-missed-snaps-and-none-left/"><u>In 2024, Signal of a Block Missed Snaps and None Left</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211794587-keyboard-arrow-keys-not-working-try-these-fixes/"><u>Keyboard Arrow Keys Not Working? Try These Fixes!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/"><u>Protect Your System with These 15 Free, Instant-Boot Antivirus Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-gigabyte-g6x-for-gamers-reliable-functionality-yet-unremarkable-attributes/"><u>Reviewing the Gigabyte G6X for Gamers: Reliable Functionality Yet Unremarkable Attributes</u></a></li>
-<li><a href="https://win-studio.techidaily.com/selecting-the-right-hardware-for-your-pc-insights-from-yl-computing-and-yl-software/"><u>Selecting the Right Hardware for Your PC: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-must-try-automation-applications-for-your-pinterest-posts/"><u>Top 5 Must-Try Automation Applications for Your Pinterest Posts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/ultimate-guide-to-linking-dex-iii-with-soundcloud-goplus-for-perfect-music-playlists/"><u>Ultimate Guide to Linking DEX III With SoundCloud Go+ for Perfect Music Playlists</u></a></li>
-<li><a href="https://win-studio.techidaily.com/understanding-key-factors-that-lead-to-reduced-pc-efficiency-with-expertise-by-yl-technology-solutions/"><u>Understanding Key Factors That Lead to Reduced PC Efficiency with Expertise by YL Technology Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-perfecting-your-sound-palette-with-audacity-crossfading/"><u>[New] In 2024, Perfecting Your Sound Palette with Audacity Crossfading</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-review-of-ispring-recording-tech/"><u>[New] The Ultimate Review of iSpring Recording Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails-for-2024/"><u>[Updated] Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/breathtaking-new-york-wallpapers-and-background-images-hd-for-your-screen-captivating-photos-from-yl-software/"><u>Breathtaking New York Wallpapers and Background Images (HD) for Your Screen – Captivating Photos From YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-infinix-gt-10-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Infinix GT 10 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v30-lite-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo V30 Lite 5G Device</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-file-searches-in-windows-expert-tips-from-yl-software-experts/"><u>Mastering File Searches in Windows: Expert Tips From YL Software Experts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-in-this-article-we-are-going-to-take-you-through-some-of-the-best-online-photo-and-video-collage-makers-you-can-find-on-the-internet/"><u>New In 2024, In This Article We Are Going to Take You Through some of the Best Online Photo and Video Collage Makers You Can Find on the Internet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/overcoming-printer-command-issues-a-comprehvew-by-yl-computing-and-yl-software-professionals/"><u>Overcoming Printer Command Issues: A Comprehvew by YL Computing and YL Software Professionals</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-modifying-windows-11-security-configurations-by-yl-computing/"><u>Step-by-Step Guide: Modifying Windows 11 Security Configurations by YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-leading-10-apps-for-sketching-and-drawing-on-chrome/"><u>The Leading 10 Apps for Sketching and Drawing on Chrome</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-movie-colors-with-cg-centrals-luts-guide-for-2024/"><u>Transform Movie Colors with CG Central's Luts Guide for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/understanding-maos-ascension-to-power-insights-from-yl-software-experts/"><u>Understanding Mao's Ascension to Power: Insights From YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-yahoo-messenger-origins-and-reasons-behind-its-closure/"><u>Unveiling Yahoo! Messenger: Origins and Reasons Behind Its Closure</u></a></li>
+<li><a href="https://win-studio.techidaily.com/yl-software-solutions-for-tracking-pc-component-temperatures/"><u>YL Software Solutions for Tracking PC Component Temperatures</u></a></li>
 </ul></div>
 
