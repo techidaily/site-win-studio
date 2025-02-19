@@ -1,7 +1,7 @@
 ---
 title: "Launching the Beta Phase: Songbook Feature with Remote Requests Now Tested on PCDJ Karatoo!"
-date: 2025-02-04T21:08:03.281Z
-updated: 2025-02-09T00:25:19.607Z
+date: 2025-02-18T07:01:33.849Z
+updated: 2025-02-18T22:43:59.000Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What is SongBookDB?_
@@ -31,7 +31,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?resize=461%2C550&ssl=1 "songbookdb")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?fit=461%2C550&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 SongbookDB is a karaoke song book app (_web-app, Android, and soon iOS_) that lets the public view and browse KJ’s songbooks on their mobile devices.
@@ -59,13 +59,13 @@ We’re in the final stages of integration now and are looking for a few beta te
 What we’re testing right now is support for PCDJ Karaoki’s TSV files (_TSV files are exported from Karaoki cases_). Export a TSV from PCDJ Karaoki, and upload to SongBook DB. As we get closer to a release, beta testers that sign up now will get a priority look at the full platform and release candidate additionally!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If you’d like to take part in the beta test, please fill out the form below and we’ll get in touch with you shortly:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,18 +87,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimagejpg.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-elite-sound-recording-tools-11-selection/"><u>[New] 2024 Approved Elite Sound Recording Tools - #11 Selection</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-movies-the-best-18-4k-recorder-list/"><u>[New] 2024 Approved Mastering Movies The Best 18 4K Recorder List</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-mastering-tiktok-bios-adding-linktree-seamlessly/"><u>[New] Mastering TikTok Bios Adding Linktree Seamlessly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sharp-cinematic-edge-choosing-the-phone-that-offers-unmatched-video-ois/"><u>2024 Approved Sharp Cinematic Edge Choosing the Phone that Offers Unmatched Video OIS</u></a></li>
-<li><a href="https://win-studio.techidaily.com/3-ssd-860/"><u>專業人士選用的3 種三星SSD 860系列雲端複製工具</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/adapting-to-unusual-video-compression-tech/"><u>Adapting to Unusual Video Compression Tech</u></a></li>
-<li><a href="https://win-studio.techidaily.com/easy-steps-para-clonar-un-disco-duro-en-windows-7/"><u>Easy Steps Para Clonar Un Disco Duro en Windows 7</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guida-completa-per-fare-il-backup-dei-tuoi-contatti-gmail-con-i-metodi-piu-ottimali/"><u>Guida Completa per Fare Il Backup Dei Tuoi Contatti Gmail Con I Metodi Più Ottimali</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guide-complet-au-recuperation-a-une-cle-de-lenovo-sous-windows-11-avec-options-alternatifs/"><u>Guide Complet Au Récupération À Une Clé De Lenovo Sous Windows 11 Avec Options Alternatifs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-overcoming-handheld-videography-instability-on-gopro/"><u>In 2024, Overcoming Handheld Videography Instability on GoPro</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-connecting-to-websites-on-win-10/"><u>Quick Guide: Connecting to Websites on Win 10</u></a></li>
-<li><a href="https://win-studio.techidaily.com/solve-your-windows-11s-missing-nvme-detection-issues-with-these-effective-methods/"><u>Solve Your Windows 11'S Missing NVMe Detection Issues with These Effective Methods!</u></a></li>
-<li><a href="https://win-studio.techidaily.com/tiga-langkah-mendewasikan-file-komprimasi-pada-os-windows-versi-11-10-8-atau/"><u>Tiga Langkah Mendewasikan File Komprimasi Pada OS Windows Versi 11, 10, 8, Atau</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-10-mouse-recorders/"><u>[New] 2024 Approved Top 10 Mouse Recorders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-women-at-war-yts-top-10-gamers/"><u>[New] In 2024, Women at War YT's #Top 10 Gamers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-designing-professional-youtube-editors-workflow/"><u>[Updated] In 2024, Designing Professional YouTube Editors' Workflow</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-simplifying-onestream-techniques-for-effective-streaming-for-2024/"><u>[Updated] Simplifying OneStream Techniques for Effective Streaming for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-boost-your-pcs-performance-key-system-tweaks-revealed-by-yl-computing/"><u>1. Boost Your PC's Performance: Key System Tweaks Revealed by YL Computing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-5-internet-screen-grabbers-for-2024/"><u>Advanced 5 Internet Screen Grabbers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beat-the-heat-the-ultimate-liquid-cooler-mo-ra-iv-600-packed-with-9-big-fans-and-weighs-over-35lbs-at-just-600/"><u>Beat the Heat: The Ultimate Liquid Cooler MO-RA IV 600, Packed with 9 Big Fans & Weighs over 35Lbs at Just $600</u></a></li>
+<li><a href="https://win-studio.techidaily.com/compare-shazam-and-black-adam-top-desktop-graphics-icons-and-hd-wallpapers-by-yl-computing/"><u>Compare Shazam & Black Adam: Top Desktop Graphics, Icons & HD Wallpapers by YL Computing</u></a></li>
+<li><a href="https://win-studio.techidaily.com/efficiently-solving-pc-hardware-problems-via-the-control-panel-expert-tips-from-yl-computing/"><u>Efficiently Solving PC Hardware Problems via the Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-5-podcast-options-for-your-iphone-experience/"><u>In 2024, Prime 5 Podcast Options for Your iPhone Experience</u></a></li>
+<li><a href="https://win-studio.techidaily.com/is-dependence-on-windows-defender-adequate-for-full-cyber-protection-tips-by-yl-software-experts/"><u>Is Dependence on Windows Defender Adequate for Full Cyber Protection? Tips by YL Software Experts</u></a></li>
+<li><a href="https://win-studio.techidaily.com/solving-sound-card-problems-the-yl-software-solution-explained/"><u>Solving Sound Card Problems: The YL Software Solution Explained</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/unveiling-8-crucial-video-game-auditory-elements-all-free/"><u>Unveiling 8 Crucial Video Game Auditory Elements - All Free</u></a></li>
+<li><a href="https://win-studio.techidaily.com/yl-software-insights-effortless-windows-pc-wallpaper-customization-explained/"><u>YL Software Insights: Effortless Window's PC Wallpaper Customization Explained</u></a></li>
 </ul></div>
 

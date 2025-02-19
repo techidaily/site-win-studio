@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Mixes with the Portable MXR19 Rackmount Controller - Ideal for Mobile Vinyl DJs From American Audio
-date: 2025-02-04T20:48:14.180Z
-updated: 2025-02-09T06:38:45.846Z
+date: 2025-02-16T19:20:51.877Z
+updated: 2025-02-19T06:34:11.779Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
@@ -49,7 +49,7 @@ Here’s a full list of features as provided by American Audio:
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
@@ -89,7 +89,7 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -111,20 +111,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-ajay-the-creative-content-creators-profitable-venture-on-youtube-for-2024/"><u>[Updated] AJay The Creative Content Creator's Profitable Venture on YouTube for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/44cm6ygl55so5pya5paw5oqa6kgt5b6e56gs56kf5lit5ogi5b6p5lif5asx6loh5paz55qe5oyh5y2x44cn/"><u>「運用最新技術從硬碟中恢復丟失資料的指南」</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-probleme-de-visualisation-avec-le-wd-my-passport-solutions-rapides-et-efficaces/"><u>1. Problème De Visualisation Avec Le WD My Passport : Solutions Rapides Et Efficaces</u></a></li>
-<li><a href="https://win-studio.techidaily.com/easy-steps-to-implementing-auto-backup-for-pcs-running-windows-operating-systems-windows-111087/"><u>Easy Steps to Implementing Auto Backup for PCs Running Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://win-studio.techidaily.com/efficacite-comparee-des-techniques-de-transfert-de-donnes-entre-disques-dur/"><u>Efficacité Comparée Des Techniques De Transfert De Donnés Entre Disques Dur</u></a></li>
-<li><a href="https://fox-links.techidaily.com/experts-recommendations-for-image-watermarking-for-2024/"><u>Expert's Recommendations for Image Watermarking for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/fixing-non-responsive-printers-a-step-by-step-guide-by-yl-computing/"><u>Fixing Non-Responsive Printers: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-windows-10-shutter-glitch/"><u>Fixing Windows 10 Shutter Glitch</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-14-pro-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Pro Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-lava-yuva-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Lava Yuva 3</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sound-issue-on-a-paired-bluetooth-gadget-here-are-the-solutions/"><u>No Sound Issue on a Paired Bluetooth Gadget? Here Are the Solutions.</u></a></li>
-<li><a href="https://win-studio.techidaily.com/reviving-lost-memories-the-ultimate-guide-to-retrieving-data-from-your-cameras-memory-card/"><u>Reviving Lost Memories: The Ultimate Guide to Retrieving Data From Your Camera's Memory Card</u></a></li>
-<li><a href="https://win-studio.techidaily.com/the-spectrum-of-digital-assets-discover-how-many-crypto-coins-you-can-find-with-yl-technology-solutions/"><u>The Spectrum of Digital Assets: Discover How Many Crypto Coins You Can Find with YL Technology Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-a-free-chatgpt-clone-a-step-by-step-guide-for-windows-users/"><u>Unleashing a Free ChatGPT Clone: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-cutest-and-scariest-best-sites-to-download-horrific-soundscapes/"><u>Updated 2024 Approved The Cutest and Scariest Best Sites to Download Horrific Soundscapes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-the-current-input-timing-is-not-supported-by-the-monitor-display/"><u>[FIXED] The Current Input Timing Is Not Supported by the Monitor Display</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-formulating-attractive-instagram-post-headlines/"><u>[New] In 2024, Formulating Attractive Instagram Post Headlines</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ethical-download-strategies-for-youtube-to-mp4-files/"><u>[Updated] In 2024, Ethical Download Strategies for YouTube to MP4 Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginning-profits-periscope-income-strategies-for-novices-for-2024/"><u>Beginning Profits Periscope Income Strategies for Novices for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/crafting-privacy-for-your-flipbuilder-site-guide-to-avoiding-appearances-in-virtual-bibliography-searches/"><u>Crafting Privacy for Your FlipBuilder Site – Guide to Avoiding Appearances in Virtual Bibliography Searches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-apps-for-monitoring-your-meals-and-calories/"><u>Discover the Best 6 Apps for Monitoring Your Meals and Calories</u></a></li>
+<li><a href="https://win-studio.techidaily.com/diy-audio-narratives-for-children-mastering-the-art-of-storybook-creation-using-flipbuilder-tools/"><u>DIY Audio Narratives for Children: Mastering the Art of Storybook Creation Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-studio.techidaily.com/efficient-methods-for-converting-large-quantities-of-wav-files-to-high-quality-flac-format/"><u>Efficient Methods for Converting Large Quantities of WAV Files to High-Quality FLAC Format</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhancing-visual-performance-how-to-upgrade-samsung-monitor-software-on-windows/"><u>Enhancing Visual Performance: How to Upgrade Samsung Monitor Software on Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-producing-channel-trailer-synopses-a-guide/"><u>In 2024, Producing Channel Trailer Synopses A Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spectacular-hooks-title-crafter/"><u>In 2024, Spectacular Hooks Title Crafter</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-spark-10-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Spark 10 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/is-using-bandicam-risk-free-and-reliable-for-video-capture/"><u>Is Using Bandicam Risk-Free & Reliable for Video Capture?</u></a></li>
+<li><a href="https://win-studio.techidaily.com/partner-with-wonderfox-today-and-earn-valued-rippro-pro-licenses-price-range-3995-79/"><u>Partner with WonderFox Today & Earn Valued Rippro Pro Licenses (Price Range: $3995-$79</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
+<li><a href="https://win-studio.techidaily.com/share-the-ultimate-recommendation-download-and-use-nokia-video-converter-free-edition/"><u>Share the Ultimate Recommendation: Download and Use Nokia Video Converter Free Edition!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-rated-free-software-for-high-quality-3d-video-conversion/"><u>Top Rated Free Software for High-Quality 3D Video Conversion</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-rated-dvd-to-mp4-converters-of-2024-for-windows-11-users/"><u>Top-Rated DVD to MP4 Converters of 2024 for Windows 11 Users</u></a></li>
+<li><a href="https://win-studio.techidaily.com/windows-1011mp4-5/"><u>Windows 10/11におけるMP4などの動画を効率良く回転して保存する方法 - トップ5</u></a></li>
 </ul></div>
 

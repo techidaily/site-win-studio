@@ -1,7 +1,7 @@
 ---
 title: "Experience the Latest Upgrade: The Brand-New Skin Design Tool for PCDJ's Dex 3 Released!"
-date: 2025-02-06T02:13:40.224Z
-updated: 2025-02-08T17:48:31.303Z
+date: 2025-02-12T05:34:28.066Z
+updated: 2025-02-19T06:29:28.928Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [PCDJ DEX 3 DJ Software is now available](https://tools.techidaily.com/pcdj/products/), and we’ve released a new ‘Skin Designer’ that allows you to create and map your own DEX 3 skin easily.
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 The new graphics engine included with PCDJ DEX 3 is still _“skin based”_ – that simply means you can select a different skin in options to change the entire look and feel of the DEX 3 GUI (_Graphical User Interface_). DEX 3 already comes equip with all new [4-Deck](https://tools.techidaily.com/pcdj/products/) and [2-Deck](https://tools.techidaily.com/pcdj/products/) default skins at all (_high_) resolutions, each with a revamped [video mixing tab](https://tools.techidaily.com/pcdj/products/) (now with _separate preview windows_), effects grid tab and[![screenshot-video](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video-495x400.png?resize=495%2C400&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/screenshot-video.png?ssl=1) sampler tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Our community is always looking for new user created and submitted skins we can include on PCDJ.com for download for DEX 3 (complete with credit to the author and quite possibly some other incentives if we choose to include the skin with the DEX 3 installer) Different DJs have different needs and requirements while mixing, so much of the time user submitted skins fill a niche that other DJs with similar needs gravitate to.
@@ -76,13 +76,13 @@ Again, if you plan to take a shot at creating a touch screen skin, which should 
 **DOWNLOAD LINK FOR THE EXISTING DEX 3 SKINS INCLUDED WITH THE SOFTWARE (_USE EXISTING SKINS TO LEARN THE SKIN DESIGNER OR AS TEMPLATES FOR YOUR SKIN_):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **[DOWNLOAD ALL EXISTING DEX 3 SKINS HERE](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,19 +104,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/07/dex3skindesignercoverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-getting-prepared-for-macos-11-big-sur-upgrade/"><u>[New] In 2024, Getting Prepared for MacOS 11 Big Sur Upgrade</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-streamline-editing-with-these-10-leading-software-tools/"><u>[New] In 2024, Streamline Editing with These 10 Leading Software Tools</u></a></li>
-<li><a href="https://win-studio.techidaily.com/1-premium-karaoke-platform-update-access-the-latest-karaoki-beta-edition-free-download-now/"><u>1. Premium Karaoke Platform Update: Access the Latest Karaoki Beta Edition - Free Download Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-create-gripping-documentary-scenes/"><u>2024 Approved Strategies to Create Gripping Documentary Scenes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-film-capture-in-your-pocket-top-ois-enabled-devices/"><u>In 2024, Expert Film Capture in Your Pocket Top OIS-Enabled Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ht-into-t-series-profit-from-youtube-platforms/"><u>Insight Into T-Series Profit From YouTube Platforms</u></a></li>
-<li><a href="https://win-studio.techidaily.com/prevent-spontaneous-pc-turnoffs-with-proven-strategies-by-yl-computing-experts/"><u>Prevent Spontaneous PC Turnoffs with Proven Strategies by YL Computing Experts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-method-straighten-monitor-geometry/"><u>Quick Method: Straighten Monitor Geometry</u></a></li>
-<li><a href="https://win-studio.techidaily.com/registry-repair-solutions-resolving-issues-with-your-systems-registry-expert-advice-from-yl-computing/"><u>Registry Repair Solutions: Resolving Issues with Your System's Registry - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-studio.techidaily.com/securing-your-system-proven-techniques-against-viruses-and-malware-with-insights-from-yl-software-experts/"><u>Securing Your System: Proven Techniques Against Viruses & Malware with Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/stunning-2pac-wallpaper-collection-hd-pictures-images-and-more-to-enhance-your-screens-yl-creative-hub/"><u>Stunning 2Pac Wallpaper Collection: HD Pictures, Images & More to Enhance Your Screens - YL Creative Hub</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-prevent-adobe-premiere-pro-from-crashing-on-latest-windows-versions/"><u>Troubleshooting Guide: Prevent Adobe Premiere Pro From Crashing on Latest Windows Versions</u></a></li>
-<li><a href="https://win-studio.techidaily.com/understanding-disk-read-errors-unveiling-the-root-causes-expert-advice-from-yl-computing/"><u>Understanding Disk Read Errors: Unveiling the Root Causes - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-insight-evaluating-wp-engine-as-a-superior-managed-hosting-service-for-wordpress-sites/"><u>ZDNet Insight: Evaluating WP Engine as a Superior Managed Hosting Service for WordPress Sites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-in-drones-exploring-the-q500-typhoon/"><u>[New] Masterclass in Drones Exploring the Q500 Typhoon</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>[Updated] 2024 Approved Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-az-recorder-expert-series-app-deep-dives-for-2024/"><u>[Updated] AZ Recorder Expert Series App Deep Dives for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-discover-the-perks-of-apple-music-in-videos/"><u>[Updated] In 2024, Discover the Perks of Apple Music in Videos</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728498234345-hdd/"><u>「無料で外付けHDD異ストレジに同期:家電間で互換性があり、信頼性高いバックアップ方法を解説」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-high-definition-zoom-features/"><u>2024 Approved Navigating High-Definition Zoom Features</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728468491531-3/"><u>如何重新找到消失的檔案？靠3秘技即可輕鬆恢復！</u></a></li>
+<li><a href="https://win-studio.techidaily.com/duwelijksbevalling-twee-wegenslagen-voor-het-uitmaken-van-overschrijdelijke-daten-aan-exterieure-hardware/"><u>Duwelijksbevalling: Twee Wegenslagen Voor Het Uitmaken Van Overschrijdelijke Daten Aan Exterieure Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experts-choice-ultimate-selection-of-apple-watch-bands-thoroughly-tested-and-evaluated-zdnet/"><u>Experts Choice: Ultimate Selection of Apple Watch Bands - Thoroughly Tested and Evaluated | ZDNET</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-to-transferring-your-windows-10-system-image-onto-fresh-equipment/"><u>Guide to Transferring Your Windows 10 System Image Onto Fresh Equipment</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c22-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/insta-film-conversion-blueprints-to-mp3-formats-for-2024/"><u>Insta Film Conversion Blueprints to MP3 Formats for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-device-harmony-a-step-by-step-tutorial-on-iphone-and-mac-synchronization/"><u>Mastering Device Harmony: A Step-by-Step Tutorial on iPhone and Mac Synchronization</u></a></li>
+<li><a href="https://win-studio.techidaily.com/quick-guide-to-cloning-your-storage-copying-patriot-ssds-and-hard-drives-for-optimal-performance/"><u>Quick Guide to Cloning Your Storage: Copying Patriot SSDs and Hard Drives for Optimal Performance</u></a></li>
+<li><a href="https://win-studio.techidaily.com/soluciones-lideres-de-copias-de-seguridad-en-la-nube-resumen-e-instalacion-sencilla/"><u>Soluciones Líderes De Copias De Seguridad en La Nube: Resumen E Instalación Sencilla</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transferring-data-between-your-mac-and-external-hdd-top-3-cost-free-methods/"><u>Transferring Data Between Your Mac and External HDD: Top 3 Cost-Free Methods</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transferring-files-between-devices-a-guide-to-connecting-laptops-with-desktops-using-various-techniques/"><u>Transferring Files Between Devices: A Guide to Connecting Laptops with Desktops Using Various Techniques</u></a></li>
 </ul></div>
 

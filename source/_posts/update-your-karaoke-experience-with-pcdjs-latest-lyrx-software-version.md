@@ -1,7 +1,7 @@
 ---
 title: Update Your Karaoke Experience with PCDJ's Latest LYRX Software Version!
-date: 2025-02-02T20:04:20.709Z
-updated: 2025-02-08T23:56:57.737Z
+date: 2025-02-15T05:48:40.354Z
+updated: 2025-02-18T18:35:21.656Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update and Fixed in LYRX 1.18.0.2
@@ -50,7 +50,7 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-perfecting-your-sound-palette-with-audacity-crossfading/"><u>[New] In 2024, Perfecting Your Sound Palette with Audacity Crossfading</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-review-of-ispring-recording-tech/"><u>[New] The Ultimate Review of iSpring Recording Tech</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails-for-2024/"><u>[Updated] Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/breathtaking-new-york-wallpapers-and-background-images-hd-for-your-screen-captivating-photos-from-yl-software/"><u>Breathtaking New York Wallpapers and Background Images (HD) for Your Screen – Captivating Photos From YL Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-infinix-gt-10-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Infinix GT 10 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-v30-lite-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo V30 Lite 5G Device</u></a></li>
-<li><a href="https://win-studio.techidaily.com/mastering-file-searches-in-windows-expert-tips-from-yl-software-experts/"><u>Mastering File Searches in Windows: Expert Tips From YL Software Experts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-in-this-article-we-are-going-to-take-you-through-some-of-the-best-online-photo-and-video-collage-makers-you-can-find-on-the-internet/"><u>New In 2024, In This Article We Are Going to Take You Through some of the Best Online Photo and Video Collage Makers You Can Find on the Internet</u></a></li>
-<li><a href="https://win-studio.techidaily.com/overcoming-printer-command-issues-a-comprehvew-by-yl-computing-and-yl-software-professionals/"><u>Overcoming Printer Command Issues: A Comprehvew by YL Computing and YL Software Professionals</u></a></li>
-<li><a href="https://win-studio.techidaily.com/step-by-step-guide-modifying-windows-11-security-configurations-by-yl-computing/"><u>Step-by-Step Guide: Modifying Windows 11 Security Configurations by YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-leading-10-apps-for-sketching-and-drawing-on-chrome/"><u>The Leading 10 Apps for Sketching and Drawing on Chrome</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-movie-colors-with-cg-centrals-luts-guide-for-2024/"><u>Transform Movie Colors with CG Central's Luts Guide for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/understanding-maos-ascension-to-power-insights-from-yl-software-experts/"><u>Understanding Mao's Ascension to Power: Insights From YL Software Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-yahoo-messenger-origins-and-reasons-behind-its-closure/"><u>Unveiling Yahoo! Messenger: Origins and Reasons Behind Its Closure</u></a></li>
-<li><a href="https://win-studio.techidaily.com/yl-software-solutions-for-tracking-pc-component-temperatures/"><u>YL Software Solutions for Tracking PC Component Temperatures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-broadcasting-facebook-videos-whats-the-future-like-for-2024/"><u>[New] Broadcasting Facebook Videos What's the Future Like for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-worlds-hottest-youtube-personalities-by-subscribers/"><u>[New] In 2024, World's Hottest YouTube Personalities by Subscribers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-film-for-a-friendly-facebook-feature/"><u>2024 Approved Film for a Friendly Facebook Feature</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/broadcast-easily-3-steps-to-post-mp3-on-youtube/"><u>Broadcast Easily 3 Steps to Post MP3 on YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/clarifying-rights-to-your-social-media-photos/"><u>Clarifying Rights to Your Social Media Photos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-drivers-for-your-logitech-g2nse-pc-racing-wheel-on-windows-11-10-or-7/"><u>Download & Install Drivers for Your Logitech G2nse PC Racing Wheel on Windows 11, 10 or 7</u></a></li>
+<li><a href="https://win-studio.techidaily.com/funf-effiziente-methoden-fur-die-installation-der-neuesten-microsoft-windows-betriebssystemversion/"><u>Fünf Effiziente Methoden Für Die Installation Der Neuesten Microsoft-Windows-Betriebssystemversion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-tv-next-version-whats-inside-expert-predictions-on-price-tag-and-release-window-uncovered/"><u>Google TV Next Version – What’s Inside? Expert Predictions on Price Tag & Release Window Uncovered</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-v30-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme V30 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-studio.techidaily.com/kehilangan-semua-email-lama-yahoo-solusi-menuju-restorasi-akun/"><u>Kehilangan Semua Email Lama Yahoo - Solusi Menuju Restorasi Akun</u></a></li>
+<li><a href="https://win-studio.techidaily.com/resolving-acer-monitor-issues-expert-tips-for-screen-freezing-problems/"><u>Resolving Acer Monitor Issues: Expert Tips for Screen Freezing Problems</u></a></li>
+<li><a href="https://win-studio.techidaily.com/schnellkurs-zur-problemlosung-behebe-haufige-windows-11-bugs-einfach/"><u>Schnellkurs Zur Problemlösung - Behebe Häufige Windows 11-Bugs Einfach!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-traffic-the-power-of-collaborative-youtube-outros-for-2024/"><u>Skyrocketing Traffic The Power of Collaborative YouTube Outros for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transferir-archivos-rapidamente-entre-dispositivos-en-windows-11/"><u>Transferir Archivos Rapidamente Entre Dispositivos en Windows 11</u></a></li>
+<li><a href="https://win-studio.techidaily.com/tutoriel-gratuit-restaurer-votre-image-systeme-a-laide-dune-cle-usb/"><u>Tutoriel Gratuit: Restaurer Votre Image Système À L’aide D'une Clé USB</u></a></li>
+<li><a href="https://win-studio.techidaily.com/unguhan-5-petunjuk-menuju-kebisingkan-file-di-windows-10/"><u>Unguhan 5 Petunjuk Menuju Kebisingkan File Di Windows 10</u></a></li>
 </ul></div>
 
