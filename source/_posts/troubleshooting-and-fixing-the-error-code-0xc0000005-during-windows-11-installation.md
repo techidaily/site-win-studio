@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing the Error Code 0xC0000005 During Windows 11 Installation
-date: 2025-02-18T01:39:12.837Z
-updated: 2025-02-19T07:50:00.135Z
+date: 2025-03-01T17:14:03.799Z
+updated: 2025-03-07T17:43:04.194Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c686fb1e190a7cb786bdcbab.jpg
@@ -35,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -48,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -69,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -88,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -104,10 +84,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,18 +170,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-create-insta-highlight-cover-photos-a-complete-guide/"><u>[New] 2024 Approved How to Create Insta Highlight Cover Photos A Complete Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-century-of-sparks-the-10-most-voted-on-reddit-posts/"><u>[Updated] 2024 Approved A Century of Sparks The 10 Most Voted on Reddit Posts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unveiling-vr-video-versus-spherical-capture-tech-distinctions/"><u>[Updated] Unveiling VR Video versus Spherical Capture Tech Distinctions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/3g2/"><u>3G2ファイルをスムーズに再生する技術と、プレイバックが難しい場合の解決方法</u></a></li>
-<li><a href="https://win-lab.techidaily.com/addressing-graphics-card-heat-issues-guidance-by-yl-software-experts/"><u>Addressing Graphics Card Heat Issues: Guidance by YL Software Experts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/adjusting-power-management-options-via-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Adjusting Power Management Options via Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-studio.techidaily.com/amelioration-yl-software-guide/"><u>Amelioration, YL Software Guide</u></a></li>
-<li><a href="https://win-studio.techidaily.com/boost-your-pcs-speed-and-efficiency-with-expert-tips-from-yl-computing/"><u>Boost Your PC's Speed & Efficiency with Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-tips.techidaily.com/comprehensive-strategies-for-blocking-malware-foxs-redirection-of-your-search-and-e-commerce-advertisements/"><u>Comprehensive Strategies for Blocking Malware Fox's Redirection of Your Search and E-Commerce Advertisements</u></a></li>
-<li><a href="https://win-studio.techidaily.com/expert-guide-establishing-an-ideal-wireless-network-with-tips-from-yl-software-experts/"><u>Expert Guide: Establishing an Ideal Wireless Network with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-studio.techidaily.com/french-macaron-inspired-backgrounds-and-walls-in-hd-pictures-download-premium-themes-by-yl-software/"><u>French Macaron Inspired Backgrounds and Walls in HD Pictures – Download Premium Themes by YL Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-s23-tactical-edition-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy S23 Tactical Edition online without jailbreak</u></a></li>
-<li><a href="https://win-studio.techidaily.com/weekly-top-20-hit-songs-explore-the-latest-in-karaoke-cloud-pro-updates/"><u>Weekly Top 20 Hit Songs: Explore the Latest in Karaoke Cloud Pro Updates!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-capturing-the-thrill-hero5-black-against-hero4-silver/"><u>[New] Capturing the Thrill Hero5 Black Against Hero4 Silver</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-safely-procure-pure-photography-collections/"><u>[New] How to Safely Procure Pure Photography Collections</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/losung-fur-das-nicht-formatierbare-flash-laufwerk-auf-windows-11/"><u>Lösung Für Das Nicht Formatierbare Flash-Laufwerk Auf Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/masterclass-in-drones-exploring-the-q500-typhoon/"><u>Masterclass in Drones Exploring the Q500 Typhoon</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-best-websites-to-download-nature-sounds/"><u>New Best Websites to Download Nature Sounds</u></a></li>
+<li><a href="https://win-studio.techidaily.com/r2-to-modern-machinery/"><u>R2 to Modern Machinery</u></a></li>
+<li><a href="https://win-studio.techidaily.com/revive-lost-workbooks-a-guide-to-free-excel-file-recovery-methods/"><u>Revive Lost Workbooks: A Guide to Free Excel File Recovery Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/essly-personalize-your-youtube-shorts-with-custom-thumbnails/"><u>Seamlessly Personalize Your Youtube Shorts with Custom Thumbnails</u></a></li>
+<li><a href="https://win-studio.techidaily.com/sicheres-loschen-und-optimieren-ihrer-festplatte-mit-windows-10-lassen-sie-sich-von-diesen-vier-bewahrten-strategien-inspirieren/"><u>Sicheres Löschen Und Optimieren Ihrer Festplatte Mit Windows 10 - Lassen Sie Sich Von Diesen Vier Bewährten Strategien Inspirieren!</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-on-booting-your-nvme-ssd-with-ease-an-ultimate-guide/"><u>Step-by-Step Tutorial on Booting Your NVMe SSD with Ease: An Ultimate Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ior-watchlist-analyzer-highest-chart-positions/"><u>Superior Watchlist Analyzer Highest Chart Positions</u></a></li>
 </ul></div>
 

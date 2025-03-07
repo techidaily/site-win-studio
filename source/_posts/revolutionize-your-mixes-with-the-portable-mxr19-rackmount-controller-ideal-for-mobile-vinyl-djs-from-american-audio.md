@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Mixes with the Portable MXR19 Rackmount Controller - Ideal for Mobile Vinyl DJs From American Audio
-date: 2025-02-16T19:20:51.877Z
-updated: 2025-02-19T06:34:11.779Z
+date: 2025-03-03T20:36:29.979Z
+updated: 2025-03-07T20:31:29.195Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PCDJ had two of the earliest [DJ controllers](https://tools.techidaily.com/pcdj/products/) on the market in the DAC-2 and DAC-3 controllers. Both were 19″ rackmount controllers that were simple yet effective in controlling our [DJ software](https://tools.techidaily.com/pcdj/products/).
 
 DJ controllers have evolved tremendously since then, with every major DJ equipment manufacturer offering a full line of options. The trend lately is to ditch the 19″ rack style controller for table top designs that [![AmericanAudio_19MXR](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio_19MXR-300x225.jpg?resize=300%2C225&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/AmericanAudio%5F19MXR.jpg?ssl=1)incorporate all the controller and mixer controls in one (_usually less than compact_) device. Large jog wheels are present so DJs that scratch have something similar to vinyl to grab and manipulate, and much of the time they take up significant real estate. For mobile DJs, much of the time that’s a waste of space, especially since many still use 19″ rackmount setups/cases.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We get calls all the time from DJs looking for a DJ controller that can fit in their already configured 19″ setup, and options have dwindled immensely over the last 5 years. The Denon DN-HC4500 was a great 19″ option, but is now difficult to find. Enter the American Audio MXR19 – a $299 4-channel USB midi controller, mixer and audio card in one; a perfect solution for mobile DJs that need simple DJ controller controls, and a mixer with 3 mic inputs. We’ve already pre-mapped it to DEX 2 (and 3) and RED Mobile 2, so it’s plug and play right out of the box.
 
@@ -47,10 +39,6 @@ Basically, all the required DJ controller features a Mobile DJ would need to per
 Here’s a full list of features as provided by American Audio:
 
 [![MXR-19](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19-710x270.jpg?resize=710%2C270&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/07/MXR-19.jpg?ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **American Audio MXR-19 19″ 4-Channel DJ Mixer**
 
@@ -88,10 +76,6 @@ We liked the fit for our mobile DJ customers so much we’ve just become a deale
 
 _Have questions about the American Audio MXR19? Feel free to ask questions in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2014-07-11 11:23:442018-04-26 11:54:32American Audio MXR19: A 19″ Rackmount DJ Controller With Mixer For Mobile DJs}
@@ -111,24 +95,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/07/mxr19coverimage.jpg?fit=53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-the-current-input-timing-is-not-supported-by-the-monitor-display/"><u>[FIXED] The Current Input Timing Is Not Supported by the Monitor Display</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-formulating-attractive-instagram-post-headlines/"><u>[New] In 2024, Formulating Attractive Instagram Post Headlines</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ethical-download-strategies-for-youtube-to-mp4-files/"><u>[Updated] In 2024, Ethical Download Strategies for YouTube to MP4 Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beginning-profits-periscope-income-strategies-for-novices-for-2024/"><u>Beginning Profits Periscope Income Strategies for Novices for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/crafting-privacy-for-your-flipbuilder-site-guide-to-avoiding-appearances-in-virtual-bibliography-searches/"><u>Crafting Privacy for Your FlipBuilder Site – Guide to Avoiding Appearances in Virtual Bibliography Searches</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-apps-for-monitoring-your-meals-and-calories/"><u>Discover the Best 6 Apps for Monitoring Your Meals and Calories</u></a></li>
-<li><a href="https://win-studio.techidaily.com/diy-audio-narratives-for-children-mastering-the-art-of-storybook-creation-using-flipbuilder-tools/"><u>DIY Audio Narratives for Children: Mastering the Art of Storybook Creation Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-studio.techidaily.com/efficient-methods-for-converting-large-quantities-of-wav-files-to-high-quality-flac-format/"><u>Efficient Methods for Converting Large Quantities of WAV Files to High-Quality FLAC Format</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhancing-visual-performance-how-to-upgrade-samsung-monitor-software-on-windows/"><u>Enhancing Visual Performance: How to Upgrade Samsung Monitor Software on Windows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-producing-channel-trailer-synopses-a-guide/"><u>In 2024, Producing Channel Trailer Synopses A Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-spectacular-hooks-title-crafter/"><u>In 2024, Spectacular Hooks Title Crafter</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-tecno-spark-10-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Tecno Spark 10 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/is-using-bandicam-risk-free-and-reliable-for-video-capture/"><u>Is Using Bandicam Risk-Free & Reliable for Video Capture?</u></a></li>
-<li><a href="https://win-studio.techidaily.com/partner-with-wonderfox-today-and-earn-valued-rippro-pro-licenses-price-range-3995-79/"><u>Partner with WonderFox Today & Earn Valued Rippro Pro Licenses (Price Range: $3995-$79</u></a></li>
-<li><a href="https://app-tips.techidaily.com/quick-and-easy-guide-to-rapid-iphone-app-migration-discover-the-fastest-transfer-techniques/"><u>Quick & Easy Guide to Rapid iPhone App Migration: Discover the Fastest Transfer Techniques</u></a></li>
-<li><a href="https://win-studio.techidaily.com/share-the-ultimate-recommendation-download-and-use-nokia-video-converter-free-edition/"><u>Share the Ultimate Recommendation: Download and Use Nokia Video Converter Free Edition!</u></a></li>
-<li><a href="https://win-studio.techidaily.com/top-rated-free-software-for-high-quality-3d-video-conversion/"><u>Top Rated Free Software for High-Quality 3D Video Conversion</u></a></li>
-<li><a href="https://win-studio.techidaily.com/top-rated-dvd-to-mp4-converters-of-2024-for-windows-11-users/"><u>Top-Rated DVD to MP4 Converters of 2024 for Windows 11 Users</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows-1011mp4-5/"><u>Windows 10/11におけるMP4などの動画を効率良く回転して保存する方法 - トップ5</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-adding-subtitles-a-step-by-step-youtube-video-approach/"><u>[New] 2024 Approved Adding Subtitles A Step-by-Step YouTube Video Approach</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-newcomers-cheat-sheet-unlock-ps-editing-secrets-for-2024/"><u>[New] Newcomer's Cheat Sheet Unlock PS Editing Secrets for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-setting-the-stage-imovies-role-in-video-intro-magic/"><u>[Updated] In 2024, Setting the Stage IMovie's Role in Video Intro Magic</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728491419649-nvme-ssd/"><u>頂級指南：複製 NVMe SSD 資料來移植到更大容量的快閃存儲</u></a></li>
+<li><a href="https://win-studio.techidaily.com/windows-pc/"><u>重新获取被删除程序：三种有效的方法适用于 Windows PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/adding-music-mini-banners-on-instagram-profiles-for-2024/"><u>Adding Music Mini-Banners on Instagram Profiles for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/beenden-sie-das-boot-loop-problem-mit-windows-11-schnelle-und-effektive-tipps/"><u>Beenden Sie Das Boot-Loop-Problem Mit Windows 11 - Schnelle Und Effektive Tipps</u></a></li>
+<li><a href="https://win-studio.techidaily.com/comment-reparer-larchivage-de-microsoft-outlook-les-cinq-methodes-incontournables/"><u>Comment Reparer L'Archivage De Microsoft Outlook : Les Cinq Méthodes Incontournables</u></a></li>
+<li><a href="https://blog-min.techidaily.com/geautomatiseerde-avi-asf-omwandling-gratuite-online-oplossing-met-movavi/"><u>Geautomatiseerde AVI-ASF Omwandling: Gratuite Online Oplossing Met Movavi</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-to-handling-emeditors-outputbar-message-replies-and-requests/"><u>Guide to Handling EmEditor's OutputBar Message Replies & Requests</u></a></li>
+<li><a href="https://win-studio.techidaily.com/how-to-successfully-resolve-bcdboot-errors-while-transferring-boot-files-a-three-step-guide/"><u>How to Successfully Resolve BCDBoot Errors While Transferring Boot Files - A Three-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-redmi-a2plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Xiaomi Redmi A2+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mx500-boot-probleme-gelost-erfolglose-kladdeinitiierung-nach-klonung/"><u>MX500 Boot-Probleme Gelöst? Erfolglose Kladdeinitiierung Nach Klonung</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-silent-computers-fast-the-easy-fix-you-need-now/"><u>Solve Silent Computers Fast – The Easy Fix You Need Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-get-the-newest-driver-for-logitech-c920-camera-on-windows-systems-win11108/"><u>Step-by-Step Guide to Get the Newest Driver for Logitech C920 Camera on Windows Systems (Win11/10/8)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-dos-and-donts-of-creating-an-authentic-tiktok-version-of-ourselves/"><u>The Dos and Don'ts of Creating an Authentic TikTok Version of Ourselves</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728488722184-windows-11/"><u>Windows 11 成功驅動安全引擎，只是沒完成初始化</u></a></li>
+<li><a href="https://win-studio.techidaily.com/iuodjeodgplusodioodlplusodqeodgplusodioodleocqeodvoodooobqplusobiuobkeocipluss4goiiroeahoobquwvjplusmhjdrjgqljgqjgrvjgrnjgzfjgojjgybjgajjgznjgovjg5rjg7zjgrj119/"><u>ネットプラットフォームにおける一般的な問題:アクセスしようとするページが見つからず - 理由と修正方法</u></a></li>
 </ul></div>
 

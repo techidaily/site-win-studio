@@ -1,7 +1,7 @@
 ---
 title: Update Your Karaoke Experience with PCDJ's Latest LYRX Software Version!
-date: 2025-02-15T05:48:40.354Z
-updated: 2025-02-18T18:35:21.656Z
+date: 2025-03-04T20:51:14.847Z
+updated: 2025-03-07T20:45:19.388Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Update and Fixed in LYRX 1.18.0.2
 
 * Fixed [Shaders](https://tools.techidaily.com/pcdj/products/) not showing in certain cases
@@ -48,10 +44,6 @@ New here? [Click Here](https://www.lyrxkaraoke.com) to learn more about the mode
 **IMPORTANT NOTE:** If you receive this warning _“setup\_LYRX\_1.18.0.2\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina or above, [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest 1.18.0.2 version of our **best karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -72,21 +64,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2022/09/lyrx1802.jpg?fit=1300%2C75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-broadcasting-facebook-videos-whats-the-future-like-for-2024/"><u>[New] Broadcasting Facebook Videos What's the Future Like for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-worlds-hottest-youtube-personalities-by-subscribers/"><u>[New] In 2024, World's Hottest YouTube Personalities by Subscribers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-film-for-a-friendly-facebook-feature/"><u>2024 Approved Film for a Friendly Facebook Feature</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/broadcast-easily-3-steps-to-post-mp3-on-youtube/"><u>Broadcast Easily 3 Steps to Post MP3 on YouTube</u></a></li>
-<li><a href="https://facebook.techidaily.com/clarifying-rights-to-your-social-media-photos/"><u>Clarifying Rights to Your Social Media Photos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-drivers-for-your-logitech-g2nse-pc-racing-wheel-on-windows-11-10-or-7/"><u>Download & Install Drivers for Your Logitech G2nse PC Racing Wheel on Windows 11, 10 or 7</u></a></li>
-<li><a href="https://win-studio.techidaily.com/funf-effiziente-methoden-fur-die-installation-der-neuesten-microsoft-windows-betriebssystemversion/"><u>Fünf Effiziente Methoden Für Die Installation Der Neuesten Microsoft-Windows-Betriebssystemversion</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/google-tv-next-version-whats-inside-expert-predictions-on-price-tag-and-release-window-uncovered/"><u>Google TV Next Version – What’s Inside? Expert Predictions on Price Tag & Release Window Uncovered</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-realme-v30-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Realme V30 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-studio.techidaily.com/kehilangan-semua-email-lama-yahoo-solusi-menuju-restorasi-akun/"><u>Kehilangan Semua Email Lama Yahoo - Solusi Menuju Restorasi Akun</u></a></li>
-<li><a href="https://win-studio.techidaily.com/resolving-acer-monitor-issues-expert-tips-for-screen-freezing-problems/"><u>Resolving Acer Monitor Issues: Expert Tips for Screen Freezing Problems</u></a></li>
-<li><a href="https://win-studio.techidaily.com/schnellkurs-zur-problemlosung-behebe-haufige-windows-11-bugs-einfach/"><u>Schnellkurs Zur Problemlösung - Behebe Häufige Windows 11-Bugs Einfach!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-traffic-the-power-of-collaborative-youtube-outros-for-2024/"><u>Skyrocketing Traffic The Power of Collaborative YouTube Outros for 2024</u></a></li>
-<li><a href="https://win-studio.techidaily.com/transferir-archivos-rapidamente-entre-dispositivos-en-windows-11/"><u>Transferir Archivos Rapidamente Entre Dispositivos en Windows 11</u></a></li>
-<li><a href="https://win-studio.techidaily.com/tutoriel-gratuit-restaurer-votre-image-systeme-a-laide-dune-cle-usb/"><u>Tutoriel Gratuit: Restaurer Votre Image Système À L’aide D'une Clé USB</u></a></li>
-<li><a href="https://win-studio.techidaily.com/unguhan-5-petunjuk-menuju-kebisingkan-file-di-windows-10/"><u>Unguhan 5 Petunjuk Menuju Kebisingkan File Di Windows 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>[New] In 2024, Double Delight Endless Looping of YouTube Videos for TVs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-the-secrets-of-high-conversion-rates-in-youtube-banner-designs-for-2024/"><u>[New] Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-vids-in-verse-strategies-for-effective-twitter-video-downloads/"><u>[Updated] In 2024, Vids in Verse Strategies for Effective Twitter Video Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>[Updated] Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
+<li><a href="https://win-studio.techidaily.com/aktualisierung-eines-acer-aspire-laptops-auf-ein-ssd-laufwerk-schritt-fur-schritt-anleitung-fur-windows-10-8-7-und-xp/"><u>Aktualisierung Eines Acer Aspire Laptops Auf Ein SSD Laufwerk: Schritt-Für-Schritt Anleitung Für Windows 10, 8, 7 Und XP</u></a></li>
+<li><a href="https://win-studio.techidaily.com/avoiding-incorrect-newline-duplication-in-line-selection-tips-with-emeditor-text-editor/"><u>Avoiding Incorrect Newline Duplication in Line Selection: Tips with EmEditor Text Editor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevating-iphone-and-ipad-camera-performance-for-stunning-photos-and-videos/"><u>Elevating iPhone & iPad Camera Performance for Stunning Photos and Videos</u></a></li>
+<li><a href="https://win-studio.techidaily.com/gratis-window-11-tutorial-menyimpan-berkas-yang-hamil-atau-hileks/"><u>Gratis Window 11: Tutorial Menyimpan Berkas Yang Hamil Atau Hileks</u></a></li>
+<li><a href="https://win-studio.techidaily.com/hdd-cloning-software-top-recommendation-for-windows-1111-operating-system-users/"><u>HDD Cloning Software: Top Recommendation for Windows 11/11 Operating System Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/979615-9781780997582-hey-holy-spirit-its-me-again/"><u>Hey, Holy Spirit, It's Me Again | Free Book</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-11-pro-max-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 11 Pro Max without Apple ID?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-the-roundabout-loop-in-windows-10-across-all-situations/"><u>Mastering the Roundabout Loop in Windows 10 Across All Situations</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ripristina-i-tuoi-messaggi-in-un-clic-una-guida-per-eseguire-il-backup-della-cronologia-delle-chat-di-wechat/"><u>Ripristina I Tuoi Messaggi in Un Clic: Una Guida per Eseguire Il Backup Della Cronologia Delle Chat Di WeChat</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-how-to-retrieve-unsaved-excel-files-on-windows-10/"><u>Step-by-Step Guide: How to Retrieve Unsaved Excel Files on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/switching-file-extensions-windows-guide/"><u>Switching File Extensions: Windows Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728476912638-windows/"><u>Windowsサーバにおけるデータバックアップから効率的な復元手順ガイド</u></a></li>
 </ul></div>
 
